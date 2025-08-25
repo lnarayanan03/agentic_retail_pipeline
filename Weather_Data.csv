@@ -1,0 +1,426 @@
+month,city,brand,avg_temp,temp_deviation
+2024-05,Boise,American Eagle,15.1,-1.7
+2024-09,Boise,American Eagle,14.8,-1.6
+2024-11,Boise,American Eagle,17.0,10.4
+2025-05,Boise,American Eagle,13.6,1.9
+2024-02,Boise,American Eagle,9.3,2.2
+2024-08,Boise,American Eagle,9.5,5.2
+2025-04,Boise,American Eagle,14.7,1.2
+2024-01,Boise,American Eagle,9.6,-1.3
+2025-03,Boise,American Eagle,7.9,-1.0
+2024-04,Boise,American Eagle,16.1,-0.4
+2024-06,Boise,American Eagle,12.5,-0.2
+2024-12,Boise,American Eagle,30.0,3.6
+2025-02,Boise,American Eagle,-11.5,0.3
+2024-07,Boise,American Eagle,25.9,3.7
+2024-03,Boise,American Eagle,27.5,-0.4
+2025-01,Boise,American Eagle,-5.7,0.4
+2024-10,Boise,American Eagle,11.6,-10.0
+2024-06,Boise,Forever 21,11.3,4.6
+2024-09,Boise,Forever 21,0.9,1.7
+2024-11,Boise,Forever 21,7.2,5.0
+2025-04,Boise,Forever 21,3.9,-14.5
+2024-05,Boise,Forever 21,32.5,10.4
+2024-10,Boise,Forever 21,24.4,-0.7
+2025-05,Boise,Forever 21,27.7,5.5
+2024-04,Boise,Forever 21,22.2,-5.2
+2024-08,Boise,Forever 21,3.7,3.1
+2024-02,Boise,Forever 21,9.8,-5.3
+2024-03,Boise,Forever 21,19.9,-3.1
+2024-12,Boise,Forever 21,2.8,9.6
+2024-07,Boise,Forever 21,22.1,-1.0
+2025-02,Boise,Forever 21,12.6,1.1
+2024-01,Boise,Forever 21,11.3,4.4
+2025-01,Boise,Forever 21,22.1,2.5
+2025-03,Boise,Forever 21,19.4,0.8
+2024-02,Boise,H&M,11.4,1.8
+2024-09,Boise,H&M,26.6,12.0
+2025-01,Boise,H&M,4.2,-0.3
+2024-08,Boise,H&M,21.2,1.0
+2024-10,Boise,H&M,20.9,5.3
+2025-02,Boise,H&M,11.9,5.5
+2025-04,Boise,H&M,18.3,5.9
+2024-01,Boise,H&M,2.5,3.2
+2024-05,Boise,H&M,24.2,-5.7
+2024-07,Boise,H&M,13.2,8.2
+2024-03,Boise,H&M,9.8,-5.7
+2024-06,Boise,H&M,25.5,1.5
+2025-03,Boise,H&M,8.0,-3.8
+2024-04,Boise,H&M,0.9,-0.3
+2024-12,Boise,H&M,-0.6,1.6
+2025-05,Boise,H&M,21.1,1.6
+2024-11,Boise,H&M,2.2,2.1
+2024-02,Boise,Uniqlo,32.5,8.1
+2024-03,Boise,Uniqlo,-5.8,2.3
+2024-09,Boise,Uniqlo,32.0,-1.2
+2024-12,Boise,Uniqlo,17.1,4.8
+2025-05,Boise,Uniqlo,14.0,5.9
+2025-03,Boise,Uniqlo,9.6,-6.1
+2025-04,Boise,Uniqlo,19.0,3.0
+2024-08,Boise,Uniqlo,14.6,3.5
+2024-11,Boise,Uniqlo,26.0,-1.5
+2025-01,Boise,Uniqlo,16.1,6.9
+2024-01,Boise,Uniqlo,16.5,-0.8
+2024-04,Boise,Uniqlo,11.4,0.6
+2024-07,Boise,Uniqlo,14.4,-0.9
+2025-02,Boise,Uniqlo,18.1,0.1
+2024-06,Boise,Uniqlo,-2.1,-5.5
+2024-10,Boise,Uniqlo,1.5,-7.2
+2024-05,Boise,Uniqlo,22.4,8.0
+2024-01,Boise,Zara,16.7,-4.2
+2024-11,Boise,Zara,13.2,-5.0
+2025-01,Boise,Zara,15.2,-10.8
+2024-04,Boise,Zara,18.5,-3.2
+2024-06,Boise,Zara,9.6,-6.6
+2025-03,Boise,Zara,7.2,8.2
+2025-04,Boise,Zara,17.0,5.0
+2025-05,Boise,Zara,5.2,-3.4
+2024-03,Boise,Zara,19.1,11.3
+2024-08,Boise,Zara,-2.0,4.9
+2025-02,Boise,Zara,25.3,-1.6
+2024-09,Boise,Zara,19.7,-12.5
+2024-07,Boise,Zara,17.6,11.5
+2024-05,Boise,Zara,24.8,-6.9
+2024-12,Boise,Zara,31.7,-8.2
+2024-02,Boise,Zara,25.1,5.1
+2024-10,Boise,Zara,-3.4,12.2
+2024-01,Buffalo,American Eagle,2.2,6.9
+2024-03,Buffalo,American Eagle,8.8,2.8
+2024-07,Buffalo,American Eagle,15.3,3.0
+2024-12,Buffalo,American Eagle,20.2,4.3
+2025-03,Buffalo,American Eagle,7.7,3.8
+2025-04,Buffalo,American Eagle,16.9,1.4
+2024-05,Buffalo,American Eagle,7.4,0.5
+2024-06,Buffalo,American Eagle,8.9,-0.3
+2024-08,Buffalo,American Eagle,0.9,-3.8
+2024-10,Buffalo,American Eagle,5.8,-1.4
+2024-11,Buffalo,American Eagle,1.5,-8.5
+2025-01,Buffalo,American Eagle,5.2,-0.5
+2025-02,Buffalo,American Eagle,25.5,-4.9
+2024-04,Buffalo,American Eagle,5.5,-5.5
+2025-05,Buffalo,American Eagle,41.3,0.9
+2024-09,Buffalo,American Eagle,19.9,7.0
+2024-02,Buffalo,American Eagle,16.8,4.6
+2024-04,Buffalo,Forever 21,6.4,-7.9
+2024-11,Buffalo,Forever 21,22.0,-4.9
+2025-01,Buffalo,Forever 21,9.2,4.7
+2025-02,Buffalo,Forever 21,16.2,-4.9
+2024-05,Buffalo,Forever 21,40.6,-1.1
+2024-10,Buffalo,Forever 21,14.0,2.8
+2025-04,Buffalo,Forever 21,26.5,-4.8
+2025-05,Buffalo,Forever 21,8.0,0.5
+2024-01,Buffalo,Forever 21,14.7,-6.7
+2024-07,Buffalo,Forever 21,32.7,-3.0
+2024-08,Buffalo,Forever 21,8.7,1.6
+2024-03,Buffalo,Forever 21,33.1,-8.0
+2024-09,Buffalo,Forever 21,22.1,2.2
+2024-12,Buffalo,Forever 21,9.4,-0.1
+2024-06,Buffalo,Forever 21,21.3,2.8
+2024-02,Buffalo,Forever 21,24.7,1.1
+2025-03,Buffalo,Forever 21,21.2,6.8
+2024-01,Buffalo,H&M,-0.7,0.6
+2024-04,Buffalo,H&M,7.7,-2.1
+2024-09,Buffalo,H&M,12.5,0.6
+2025-02,Buffalo,H&M,14.3,2.7
+2024-02,Buffalo,H&M,21.2,0.2
+2024-03,Buffalo,H&M,16.8,0.2
+2024-06,Buffalo,H&M,1.6,-3.5
+2024-07,Buffalo,H&M,18.8,-3.3
+2024-08,Buffalo,H&M,21.1,-7.0
+2024-10,Buffalo,H&M,20.6,8.7
+2025-01,Buffalo,H&M,25.8,-6.2
+2024-05,Buffalo,H&M,23.3,-3.5
+2024-12,Buffalo,H&M,19.6,-3.6
+2025-03,Buffalo,H&M,14.3,4.5
+2024-11,Buffalo,H&M,-1.6,-1.5
+2025-05,Buffalo,H&M,19.3,6.2
+2025-04,Buffalo,H&M,17.1,-3.4
+2024-02,Buffalo,Uniqlo,17.7,1.4
+2024-03,Buffalo,Uniqlo,2.2,-4.2
+2024-05,Buffalo,Uniqlo,4.2,10.7
+2024-10,Buffalo,Uniqlo,25.5,-5.9
+2024-11,Buffalo,Uniqlo,14.6,1.5
+2024-12,Buffalo,Uniqlo,21.8,3.2
+2025-03,Buffalo,Uniqlo,15.3,2.1
+2025-04,Buffalo,Uniqlo,15.3,-0.9
+2024-01,Buffalo,Uniqlo,24.4,-0.6
+2024-08,Buffalo,Uniqlo,9.8,0.2
+2024-06,Buffalo,Uniqlo,16.0,-0.7
+2024-07,Buffalo,Uniqlo,10.4,4.8
+2025-05,Buffalo,Uniqlo,10.7,11.1
+2024-09,Buffalo,Uniqlo,11.9,-2.8
+2025-02,Buffalo,Uniqlo,17.2,-6.8
+2025-01,Buffalo,Uniqlo,10.2,-0.4
+2024-04,Buffalo,Uniqlo,27.6,12.9
+2024-05,Buffalo,Zara,6.1,-4.0
+2024-08,Buffalo,Zara,13.1,8.2
+2024-10,Buffalo,Zara,10.6,8.4
+2024-11,Buffalo,Zara,29.5,-2.8
+2025-02,Buffalo,Zara,17.0,2.8
+2025-03,Buffalo,Zara,25.3,8.1
+2024-03,Buffalo,Zara,0.1,-1.9
+2024-06,Buffalo,Zara,17.7,-1.0
+2024-09,Buffalo,Zara,23.9,-2.9
+2024-12,Buffalo,Zara,15.8,-5.1
+2025-04,Buffalo,Zara,25.7,-3.2
+2024-01,Buffalo,Zara,9.8,-6.1
+2024-07,Buffalo,Zara,29.1,0.2
+2025-01,Buffalo,Zara,38.0,-3.8
+2025-05,Buffalo,Zara,11.4,1.2
+2024-04,Buffalo,Zara,10.5,-7.8
+2024-02,Buffalo,Zara,29.5,1.7
+2024-04,Madison,American Eagle,30.8,4.2
+2024-09,Madison,American Eagle,9.8,-10.0
+2025-02,Madison,American Eagle,10.8,1.9
+2025-04,Madison,American Eagle,12.2,6.1
+2025-05,Madison,American Eagle,1.6,-6.0
+2024-03,Madison,American Eagle,5.8,8.4
+2024-06,Madison,American Eagle,5.0,2.1
+2024-08,Madison,American Eagle,7.3,-3.5
+2024-10,Madison,American Eagle,14.7,-0.3
+2024-11,Madison,American Eagle,17.3,2.8
+2024-02,Madison,American Eagle,30.5,0.4
+2024-05,Madison,American Eagle,5.0,2.7
+2025-03,Madison,American Eagle,24.8,-4.6
+2024-12,Madison,American Eagle,12.9,0.8
+2024-07,Madison,American Eagle,14.5,-7.1
+2024-01,Madison,American Eagle,21.7,-0.6
+2025-01,Madison,American Eagle,3.8,-4.5
+2024-04,Madison,Forever 21,18.8,-3.7
+2024-05,Madison,Forever 21,16.7,6.2
+2024-10,Madison,Forever 21,19.9,5.5
+2024-12,Madison,Forever 21,17.9,3.0
+2025-01,Madison,Forever 21,39.6,-5.5
+2025-03,Madison,Forever 21,8.6,-1.6
+2024-03,Madison,Forever 21,9.7,6.1
+2024-06,Madison,Forever 21,8.8,0.7
+2024-01,Madison,Forever 21,9.4,11.6
+2024-08,Madison,Forever 21,8.6,2.0
+2025-02,Madison,Forever 21,26.9,1.0
+2024-02,Madison,Forever 21,29.2,-1.5
+2024-07,Madison,Forever 21,9.3,0.7
+2024-09,Madison,Forever 21,6.7,-0.8
+2025-05,Madison,Forever 21,19.7,3.5
+2024-11,Madison,Forever 21,9.5,4.8
+2025-04,Madison,Forever 21,21.3,-3.9
+2024-03,Madison,H&M,17.0,-6.7
+2024-05,Madison,H&M,-0.2,-9.2
+2024-06,Madison,H&M,30.5,2.5
+2024-10,Madison,H&M,33.0,-5.5
+2024-11,Madison,H&M,8.9,-10.8
+2024-08,Madison,H&M,11.1,1.9
+2024-09,Madison,H&M,17.9,12.5
+2025-01,Madison,H&M,18.3,-0.0
+2025-05,Madison,H&M,21.6,4.2
+2024-01,Madison,H&M,35.1,0.4
+2024-02,Madison,H&M,13.2,-0.5
+2024-04,Madison,H&M,7.0,4.6
+2024-07,Madison,H&M,1.2,-1.5
+2024-12,Madison,H&M,7.7,1.3
+2025-04,Madison,H&M,14.7,1.6
+2025-02,Madison,H&M,32.9,-3.3
+2025-03,Madison,H&M,9.8,5.0
+2024-03,Madison,Uniqlo,17.2,-0.9
+2024-05,Madison,Uniqlo,14.8,-3.8
+2024-07,Madison,Uniqlo,26.9,2.7
+2025-03,Madison,Uniqlo,40.3,-4.5
+2025-01,Madison,Uniqlo,9.7,0.1
+2025-04,Madison,Uniqlo,10.1,-0.0
+2024-10,Madison,Uniqlo,25.4,5.4
+2025-02,Madison,Uniqlo,21.8,2.4
+2024-02,Madison,Uniqlo,33.5,-0.1
+2024-06,Madison,Uniqlo,20.8,4.1
+2024-08,Madison,Uniqlo,11.4,7.0
+2024-11,Madison,Uniqlo,20.9,2.8
+2024-09,Madison,Uniqlo,26.1,0.1
+2025-05,Madison,Uniqlo,23.2,-6.6
+2024-01,Madison,Uniqlo,20.1,-5.3
+2024-04,Madison,Uniqlo,25.7,-1.5
+2024-12,Madison,Uniqlo,26.7,-3.0
+2024-03,Madison,Zara,28.8,-0.9
+2024-06,Madison,Zara,21.5,0.3
+2024-02,Madison,Zara,13.3,2.6
+2024-05,Madison,Zara,16.5,-0.4
+2024-11,Madison,Zara,27.1,2.4
+2024-12,Madison,Zara,6.8,0.3
+2025-02,Madison,Zara,18.7,-9.9
+2025-05,Madison,Zara,11.1,-4.7
+2024-01,Madison,Zara,15.3,-0.7
+2024-08,Madison,Zara,27.8,-6.0
+2024-04,Madison,Zara,16.9,3.0
+2025-01,Madison,Zara,15.5,7.7
+2025-04,Madison,Zara,1.4,6.1
+2024-07,Madison,Zara,22.5,-1.1
+2024-10,Madison,Zara,21.5,7.5
+2024-09,Madison,Zara,36.6,0.7
+2025-03,Madison,Zara,11.9,-1.7
+2024-06,Raleigh,American Eagle,17.2,-3.1
+2024-07,Raleigh,American Eagle,17.5,-1.5
+2024-11,Raleigh,American Eagle,30.8,-1.9
+2024-01,Raleigh,American Eagle,14.0,0.9
+2024-02,Raleigh,American Eagle,17.8,0.8
+2024-03,Raleigh,American Eagle,21.1,0.0
+2025-02,Raleigh,American Eagle,16.9,2.2
+2025-04,Raleigh,American Eagle,10.5,6.0
+2024-04,Raleigh,American Eagle,16.9,4.7
+2024-12,Raleigh,American Eagle,25.7,-7.4
+2025-01,Raleigh,American Eagle,4.7,-12.8
+2025-03,Raleigh,American Eagle,16.3,4.7
+2025-05,Raleigh,American Eagle,8.0,-6.8
+2024-08,Raleigh,American Eagle,27.0,-1.1
+2024-10,Raleigh,American Eagle,-0.2,-5.9
+2024-05,Raleigh,American Eagle,9.4,-9.0
+2024-09,Raleigh,American Eagle,18.8,2.7
+2024-03,Raleigh,Forever 21,30.7,3.8
+2024-09,Raleigh,Forever 21,14.3,-2.9
+2024-10,Raleigh,Forever 21,9.4,-13.0
+2025-03,Raleigh,Forever 21,33.8,-2.7
+2024-12,Raleigh,Forever 21,0.5,2.0
+2024-02,Raleigh,Forever 21,-7.0,-7.4
+2024-06,Raleigh,Forever 21,19.4,0.9
+2024-11,Raleigh,Forever 21,10.0,-0.1
+2025-01,Raleigh,Forever 21,4.8,2.9
+2025-05,Raleigh,Forever 21,22.1,0.6
+2024-05,Raleigh,Forever 21,17.4,-4.9
+2024-07,Raleigh,Forever 21,9.4,6.0
+2024-08,Raleigh,Forever 21,2.2,-0.8
+2025-02,Raleigh,Forever 21,23.7,-0.1
+2025-04,Raleigh,Forever 21,21.5,-4.7
+2024-01,Raleigh,Forever 21,14.0,-2.2
+2024-04,Raleigh,Forever 21,33.5,-4.4
+2024-02,Raleigh,H&M,4.3,-0.9
+2024-03,Raleigh,H&M,-0.3,8.6
+2024-05,Raleigh,H&M,8.1,-6.9
+2024-08,Raleigh,H&M,14.5,-8.1
+2024-10,Raleigh,H&M,17.4,7.4
+2025-03,Raleigh,H&M,12.6,-1.0
+2025-04,Raleigh,H&M,18.5,-3.3
+2024-01,Raleigh,H&M,2.5,5.2
+2024-04,Raleigh,H&M,29.4,-3.0
+2024-09,Raleigh,H&M,14.2,9.1
+2024-11,Raleigh,H&M,26.2,3.4
+2024-12,Raleigh,H&M,18.4,-2.4
+2025-01,Raleigh,H&M,19.6,10.8
+2024-07,Raleigh,H&M,20.7,-3.0
+2025-05,Raleigh,H&M,19.5,3.7
+2024-06,Raleigh,H&M,21.4,1.5
+2025-02,Raleigh,H&M,28.3,6.5
+2024-06,Raleigh,Uniqlo,17.0,7.8
+2024-07,Raleigh,Uniqlo,22.1,0.2
+2024-08,Raleigh,Uniqlo,14.1,-3.8
+2024-09,Raleigh,Uniqlo,29.4,2.3
+2025-01,Raleigh,Uniqlo,8.2,-3.4
+2025-04,Raleigh,Uniqlo,33.0,10.1
+2024-01,Raleigh,Uniqlo,14.6,0.7
+2024-03,Raleigh,Uniqlo,0.7,-1.8
+2024-12,Raleigh,Uniqlo,16.3,0.9
+2025-03,Raleigh,Uniqlo,8.2,-6.7
+2024-04,Raleigh,Uniqlo,23.4,-4.9
+2025-02,Raleigh,Uniqlo,8.5,6.0
+2024-02,Raleigh,Uniqlo,10.5,-3.3
+2025-05,Raleigh,Uniqlo,-3.9,-5.2
+2024-05,Raleigh,Uniqlo,10.5,2.7
+2024-11,Raleigh,Uniqlo,-9.2,5.9
+2024-10,Raleigh,Uniqlo,-0.8,3.6
+2024-06,Raleigh,Zara,22.6,5.0
+2024-08,Raleigh,Zara,22.9,-3.8
+2024-10,Raleigh,Zara,19.3,-7.1
+2025-02,Raleigh,Zara,5.3,7.5
+2025-05,Raleigh,Zara,14.5,-1.6
+2024-12,Raleigh,Zara,15.0,-1.3
+2025-01,Raleigh,Zara,3.4,6.6
+2024-07,Raleigh,Zara,30.0,2.8
+2024-01,Raleigh,Zara,23.8,2.3
+2024-02,Raleigh,Zara,12.8,10.8
+2024-04,Raleigh,Zara,15.3,-3.2
+2024-09,Raleigh,Zara,17.1,4.6
+2025-04,Raleigh,Zara,-5.4,0.3
+2024-05,Raleigh,Zara,12.5,1.3
+2025-03,Raleigh,Zara,8.2,7.6
+2024-11,Raleigh,Zara,5.0,2.5
+2024-03,Raleigh,Zara,12.2,2.7
+2024-06,Sacramento,American Eagle,33.0,5.4
+2024-10,Sacramento,American Eagle,21.4,-1.8
+2024-12,Sacramento,American Eagle,9.3,-4.2
+2025-04,Sacramento,American Eagle,20.7,-5.2
+2025-05,Sacramento,American Eagle,29.0,-9.8
+2024-01,Sacramento,American Eagle,24.2,10.3
+2024-02,Sacramento,American Eagle,15.6,-5.5
+2024-04,Sacramento,American Eagle,8.5,-1.1
+2024-11,Sacramento,American Eagle,22.0,-1.4
+2025-03,Sacramento,American Eagle,18.9,1.5
+2024-09,Sacramento,American Eagle,24.0,4.1
+2025-02,Sacramento,American Eagle,21.4,4.3
+2024-03,Sacramento,American Eagle,25.5,-2.9
+2024-07,Sacramento,American Eagle,9.6,-0.8
+2024-08,Sacramento,American Eagle,28.2,1.4
+2025-01,Sacramento,American Eagle,17.0,-1.2
+2024-05,Sacramento,American Eagle,35.8,8.0
+2024-03,Sacramento,Forever 21,8.1,2.5
+2024-07,Sacramento,Forever 21,32.4,3.7
+2024-08,Sacramento,Forever 21,17.0,3.3
+2025-05,Sacramento,Forever 21,8.5,5.9
+2024-01,Sacramento,Forever 21,10.2,0.9
+2024-11,Sacramento,Forever 21,11.8,-6.5
+2025-04,Sacramento,Forever 21,19.2,2.0
+2024-02,Sacramento,Forever 21,20.2,-3.3
+2024-06,Sacramento,Forever 21,9.3,-2.6
+2024-10,Sacramento,Forever 21,14.8,2.9
+2024-12,Sacramento,Forever 21,36.4,6.2
+2025-01,Sacramento,Forever 21,32.3,0.1
+2025-02,Sacramento,Forever 21,19.4,1.5
+2025-03,Sacramento,Forever 21,15.4,8.5
+2024-04,Sacramento,Forever 21,16.2,1.2
+2024-09,Sacramento,Forever 21,21.1,13.0
+2024-05,Sacramento,Forever 21,4.8,2.8
+2024-01,Sacramento,H&M,12.4,-8.8
+2024-02,Sacramento,H&M,-1.7,3.8
+2024-04,Sacramento,H&M,19.0,1.9
+2024-07,Sacramento,H&M,21.5,6.4
+2024-08,Sacramento,H&M,10.2,3.4
+2025-01,Sacramento,H&M,30.7,-0.7
+2025-02,Sacramento,H&M,2.7,-6.1
+2024-06,Sacramento,H&M,0.4,-1.0
+2024-11,Sacramento,H&M,17.2,-4.3
+2025-05,Sacramento,H&M,25.5,-2.9
+2024-05,Sacramento,H&M,31.8,2.9
+2024-09,Sacramento,H&M,10.4,8.3
+2024-10,Sacramento,H&M,25.8,2.0
+2025-03,Sacramento,H&M,14.6,-6.0
+2024-12,Sacramento,H&M,13.3,2.2
+2024-03,Sacramento,H&M,23.8,6.0
+2025-04,Sacramento,H&M,21.5,-3.0
+2024-05,Sacramento,Uniqlo,-0.8,-0.7
+2024-09,Sacramento,Uniqlo,29.8,0.1
+2025-04,Sacramento,Uniqlo,28.8,-3.9
+2024-01,Sacramento,Uniqlo,8.7,3.2
+2024-02,Sacramento,Uniqlo,19.0,-0.6
+2024-04,Sacramento,Uniqlo,19.9,2.1
+2024-07,Sacramento,Uniqlo,17.6,-4.4
+2024-08,Sacramento,Uniqlo,9.5,-2.2
+2024-11,Sacramento,Uniqlo,8.3,3.6
+2025-05,Sacramento,Uniqlo,14.7,-1.9
+2024-12,Sacramento,Uniqlo,26.7,8.6
+2025-02,Sacramento,Uniqlo,20.4,-2.0
+2025-03,Sacramento,Uniqlo,11.3,1.1
+2025-01,Sacramento,Uniqlo,22.7,4.7
+2024-03,Sacramento,Uniqlo,-13.5,-7.1
+2024-06,Sacramento,Uniqlo,26.5,-8.8
+2024-10,Sacramento,Uniqlo,-2.4,-7.6
+2024-01,Sacramento,Zara,11.4,6.3
+2024-05,Sacramento,Zara,3.8,-2.8
+2024-08,Sacramento,Zara,2.1,12.8
+2025-01,Sacramento,Zara,26.6,-2.8
+2025-05,Sacramento,Zara,10.3,0.9
+2024-02,Sacramento,Zara,18.5,7.7
+2024-03,Sacramento,Zara,14.5,10.0
+2024-06,Sacramento,Zara,19.8,10.3
+2024-07,Sacramento,Zara,15.8,6.0
+2024-09,Sacramento,Zara,2.2,5.1
+2024-11,Sacramento,Zara,25.0,3.0
+2025-04,Sacramento,Zara,10.1,3.9
+2024-04,Sacramento,Zara,-0.6,-2.8
+2024-12,Sacramento,Zara,10.7,-4.1
+2024-10,Sacramento,Zara,30.0,-0.0
+2025-03,Sacramento,Zara,23.5,-0.9
+2025-02,Sacramento,Zara,11.5,-2.3

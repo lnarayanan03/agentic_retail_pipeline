@@ -1,0 +1,57 @@
+{"ts": "2025-08-22T11:23:16.712328+00:00", "agent": "inventory", "type": "page_opened", "payload": {"forecast_rows": 90, "snapshot_rows": 30}}
+{"ts": "2025-08-22T11:23:16.840651+00:00", "agent": "inventory", "type": "inventory_plan_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv"}}
+{"ts": "2025-08-22T11:28:03Z", "agent": "inventory", "type": "page_opened", "payload": {"paths": {"forecast": "/Users/sampathkumarranganatha/UI/pages/../data/forecast_output.csv", "snapshot": "/Users/sampathkumarranganatha/UI/pages/../data/onhand_inventory_snapshot.csv", "plan": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv", "bus": "/Users/sampathkumarranganatha/UI/pages/../data/memory_bus.jsonl"}}}
+{"ts": "2025-08-22T11:28:03Z", "agent": "inventory", "type": "inventory_plan_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv"}}
+{"ts": "2025-08-22T11:28:37Z", "agent": "inventory", "type": "filter_changed", "payload": {"dim": "city", "old": "All", "new": "buffalo"}}
+{"ts": "2025-08-22T11:28:37Z", "agent": "inventory", "type": "inventory_plan_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv"}}
+{"ts": "2025-08-22T11:28:39Z", "agent": "inventory", "type": "filter_changed", "payload": {"dim": "brand", "old": "All", "new": "american eagle"}}
+{"ts": "2025-08-22T11:28:39Z", "agent": "inventory", "type": "inventory_plan_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv"}}
+{"ts": "2025-08-22T11:28:41Z", "agent": "inventory", "type": "filter_changed", "payload": {"dim": "month", "old": "All", "new": "2025-09"}}
+{"ts": "2025-08-22T11:28:41Z", "agent": "inventory", "type": "inventory_plan_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv"}}
+{"ts": "2025-08-22T12:27:47Z", "type": "page_open", "payload": {"page": "inventory", "fc_rows": 90, "inv_rows": 30}}
+{"ts": "2025-08-22T12:27:47Z", "type": "plan_saved", "payload": {"page": "inventory", "rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv", "service_level": 0.15, "lead_time_months": 1}}
+{"ts": "2025-08-22T12:33:07Z", "type": "page_open", "payload": {"page": "forecasting", "rows": 600, "path": "/Users/sampathkumarranganatha/UI/pages/../data/ForecastingDataset_Final_Cleaned.csv"}}
+{"ts": "2025-08-22T12:34:41Z", "type": "page_open", "payload": {"page": "inventory", "fc_rows": 90, "inv_rows": 30}}
+{"ts": "2025-08-22T12:34:41Z", "type": "plan_saved", "payload": {"page": "inventory", "rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv", "service_level": 0.15, "lead_time_months": 1}}
+{"ts": "2025-08-22T12:43:18Z", "type": "page_open", "payload": {"page": "forecasting", "rows": 600, "path": "/Users/sampathkumarranganatha/UI/pages/../data/ForecastingDataset_Final_Cleaned.csv"}}
+{"ts": "2025-08-22T12:43:55Z", "type": "page_open", "payload": {"page": "inventory", "fc_rows": 90, "inv_rows": 30}}
+{"ts": "2025-08-22T12:43:55Z", "type": "plan_saved", "payload": {"page": "inventory", "rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv", "service_level": 0.15, "lead_time_months": 1}}
+{"ts": "2025-08-22T13:28:12Z", "type": "page_open", "payload": {"page": "forecasting", "rows": 600, "path": "/Users/sampathkumarranganatha/UI/pages/../data/ForecastingDataset_Final_Cleaned.csv"}}
+{"ts": "2025-08-22T13:33:03+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:33:03+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "Auto (best)", "horizon": 3}}
+{"ts": "2025-08-22T13:34:57+00:00Z", "type": "forecast_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/forecast_output.csv", "model": "ElasticNet"}}
+{"ts": "2025-08-22T13:35:48+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:35:48+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "GBDT", "horizon": 3}}
+{"ts": "2025-08-22T13:37:44+00:00Z", "type": "forecast_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/forecast_output.csv", "model": "GBDT"}}
+{"ts": "2025-08-22T13:37:52+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:37:52+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MSE (sensitive)", "model_choice": "GBDT", "horizon": 3}}
+{"ts": "2025-08-22T13:40:00+00:00Z", "type": "forecast_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/forecast_output.csv", "model": "GBDT"}}
+{"ts": "2025-08-22T13:42:28+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:42:28+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "Auto (best)", "horizon": 3}}
+{"ts": "2025-08-22T13:42:31+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:42:31+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "Auto (best)", "horizon": 3}}
+{"ts": "2025-08-22T13:42:47+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:42:47+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "Auto (best)", "horizon": 3}}
+{"ts": "2025-08-22T13:43:28Z", "type": "page_open", "payload": {"page": "inventory", "fc_rows": 90, "inv_rows": 30}}
+{"ts": "2025-08-22T13:43:28Z", "type": "plan_saved", "payload": {"page": "inventory", "rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv", "service_level": 0.15, "lead_time_months": 1}}
+{"ts": "2025-08-22T13:50:17+00:00Z", "type": "page_opened", "payload": {"page": "simulation"}}
+{"ts": "2025-08-22T13:50:17+00:00Z", "type": "params", "payload": {"raw_cost": 30.0, "prod_cost": 20.0, "log_cost": 10.0, "transfer_cost": 15.0, "sla_penalty": 25.0, "weights": [0.25, 0.25, 0.2, 0.15, 0.15], "safety_stock_pct": 10, "do_nothing_threshold": 20, "hybrid_threshold": 120}}
+{"ts": "2025-08-22T13:50:17+00:00Z", "type": "simulation_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/simulation_output.csv"}}
+{"ts": "2025-08-22T13:50:43+00:00Z", "type": "page_opened", "payload": {"page": "simulation"}}
+{"ts": "2025-08-22T13:50:43+00:00Z", "type": "params", "payload": {"raw_cost": 30.0, "prod_cost": 20.0, "log_cost": 10.0, "transfer_cost": 15.0, "sla_penalty": 25.0, "weights": [0.25, 0.25, 0.2, 0.15, 0.15], "safety_stock_pct": 10, "do_nothing_threshold": 20, "hybrid_threshold": 120}}
+{"ts": "2025-08-22T13:50:44+00:00Z", "type": "simulation_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/simulation_output.csv"}}
+{"ts": "2025-08-22T13:50:45+00:00Z", "type": "page_opened", "payload": {"page": "simulation"}}
+{"ts": "2025-08-22T13:50:45+00:00Z", "type": "params", "payload": {"raw_cost": 30.0, "prod_cost": 20.0, "log_cost": 10.0, "transfer_cost": 15.0, "sla_penalty": 25.0, "weights": [0.25, 0.25, 0.2, 0.15, 0.15], "safety_stock_pct": 10, "do_nothing_threshold": 20, "hybrid_threshold": 120}}
+{"ts": "2025-08-22T13:50:45+00:00Z", "type": "simulation_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/simulation_output.csv"}}
+{"ts": "2025-08-22T13:54:40+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T13:54:40+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "Auto (best)", "horizon": 3}}
+{"ts": "2025-08-22T13:56:35+00:00Z", "type": "forecast_saved", "payload": {"rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/forecast_output.csv", "model": "ElasticNet"}}
+{"ts": "2025-08-22T13:58:05+00:00Z", "type": "page_opened", "payload": {"page": "collaboration"}}
+{"ts": "2025-08-22T14:00:36+00:00Z", "type": "page_opened", "payload": {"page": "collaboration"}}
+{"ts": "2025-08-22T14:01:51+00:00Z", "type": "page_opened", "payload": {"page": "collaboration"}}
+{"ts": "2025-08-22T14:05:06+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T14:05:06+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "Auto (best)", "horizon": 3}}
+{"ts": "2025-08-22T14:05:20+00:00Z", "type": "page_opened", "payload": {"page": "forecasting"}}
+{"ts": "2025-08-22T14:05:20+00:00Z", "type": "params", "payload": {"anti_overfit": true, "metric": "MAE (robust)", "model_choice": "GBDT", "horizon": 3}}
+{"ts": "2025-08-22T14:17:30Z", "type": "page_open", "payload": {"page": "inventory", "fc_rows": 90, "inv_rows": 30}}
+{"ts": "2025-08-22T14:17:30Z", "type": "plan_saved", "payload": {"page": "inventory", "rows": 90, "path": "/Users/sampathkumarranganatha/UI/pages/../data/inventory_plan.csv", "service_level": 0.15, "lead_time_months": 1}}

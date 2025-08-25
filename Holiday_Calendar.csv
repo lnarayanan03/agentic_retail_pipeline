@@ -1,0 +1,426 @@
+month,city,brand,holiday_flag
+2024-05,Boise,American Eagle,0
+2024-09,Boise,American Eagle,0
+2024-11,Boise,American Eagle,1
+2025-05,Boise,American Eagle,0
+2024-02,Boise,American Eagle,0
+2024-08,Boise,American Eagle,0
+2025-04,Boise,American Eagle,1
+2024-01,Boise,American Eagle,0
+2025-03,Boise,American Eagle,0
+2024-04,Boise,American Eagle,0
+2024-06,Boise,American Eagle,0
+2024-12,Boise,American Eagle,0
+2025-02,Boise,American Eagle,1
+2024-07,Boise,American Eagle,0
+2024-03,Boise,American Eagle,0
+2025-01,Boise,American Eagle,0
+2024-10,Boise,American Eagle,1
+2024-06,Boise,Forever 21,0
+2024-09,Boise,Forever 21,0
+2024-11,Boise,Forever 21,1
+2025-04,Boise,Forever 21,1
+2024-05,Boise,Forever 21,1
+2024-10,Boise,Forever 21,1
+2025-05,Boise,Forever 21,0
+2024-04,Boise,Forever 21,0
+2024-08,Boise,Forever 21,1
+2024-02,Boise,Forever 21,0
+2024-03,Boise,Forever 21,0
+2024-12,Boise,Forever 21,1
+2024-07,Boise,Forever 21,0
+2025-02,Boise,Forever 21,0
+2024-01,Boise,Forever 21,0
+2025-01,Boise,Forever 21,0
+2025-03,Boise,Forever 21,0
+2024-02,Boise,H&M,0
+2024-09,Boise,H&M,0
+2025-01,Boise,H&M,0
+2024-08,Boise,H&M,0
+2024-10,Boise,H&M,0
+2025-02,Boise,H&M,1
+2025-04,Boise,H&M,0
+2024-01,Boise,H&M,0
+2024-05,Boise,H&M,1
+2024-07,Boise,H&M,0
+2024-03,Boise,H&M,1
+2024-06,Boise,H&M,0
+2025-03,Boise,H&M,1
+2024-04,Boise,H&M,0
+2024-12,Boise,H&M,1
+2025-05,Boise,H&M,0
+2024-11,Boise,H&M,1
+2024-02,Boise,Uniqlo,0
+2024-03,Boise,Uniqlo,0
+2024-09,Boise,Uniqlo,1
+2024-12,Boise,Uniqlo,0
+2025-05,Boise,Uniqlo,0
+2025-03,Boise,Uniqlo,0
+2025-04,Boise,Uniqlo,0
+2024-08,Boise,Uniqlo,0
+2024-11,Boise,Uniqlo,0
+2025-01,Boise,Uniqlo,1
+2024-01,Boise,Uniqlo,0
+2024-04,Boise,Uniqlo,0
+2024-07,Boise,Uniqlo,1
+2025-02,Boise,Uniqlo,1
+2024-06,Boise,Uniqlo,0
+2024-10,Boise,Uniqlo,0
+2024-05,Boise,Uniqlo,0
+2024-01,Boise,Zara,0
+2024-11,Boise,Zara,0
+2025-01,Boise,Zara,0
+2024-04,Boise,Zara,0
+2024-06,Boise,Zara,0
+2025-03,Boise,Zara,1
+2025-04,Boise,Zara,1
+2025-05,Boise,Zara,0
+2024-03,Boise,Zara,0
+2024-08,Boise,Zara,0
+2025-02,Boise,Zara,1
+2024-09,Boise,Zara,0
+2024-07,Boise,Zara,0
+2024-05,Boise,Zara,1
+2024-12,Boise,Zara,1
+2024-02,Boise,Zara,1
+2024-10,Boise,Zara,0
+2024-01,Buffalo,American Eagle,0
+2024-03,Buffalo,American Eagle,0
+2024-07,Buffalo,American Eagle,1
+2024-12,Buffalo,American Eagle,1
+2025-03,Buffalo,American Eagle,0
+2025-04,Buffalo,American Eagle,0
+2024-05,Buffalo,American Eagle,0
+2024-06,Buffalo,American Eagle,1
+2024-08,Buffalo,American Eagle,1
+2024-10,Buffalo,American Eagle,0
+2024-11,Buffalo,American Eagle,0
+2025-01,Buffalo,American Eagle,0
+2025-02,Buffalo,American Eagle,1
+2024-04,Buffalo,American Eagle,1
+2025-05,Buffalo,American Eagle,1
+2024-09,Buffalo,American Eagle,0
+2024-02,Buffalo,American Eagle,0
+2024-04,Buffalo,Forever 21,0
+2024-11,Buffalo,Forever 21,0
+2025-01,Buffalo,Forever 21,1
+2025-02,Buffalo,Forever 21,1
+2024-05,Buffalo,Forever 21,1
+2024-10,Buffalo,Forever 21,1
+2025-04,Buffalo,Forever 21,0
+2025-05,Buffalo,Forever 21,1
+2024-01,Buffalo,Forever 21,1
+2024-07,Buffalo,Forever 21,1
+2024-08,Buffalo,Forever 21,0
+2024-03,Buffalo,Forever 21,0
+2024-09,Buffalo,Forever 21,0
+2024-12,Buffalo,Forever 21,1
+2024-06,Buffalo,Forever 21,0
+2024-02,Buffalo,Forever 21,0
+2025-03,Buffalo,Forever 21,0
+2024-01,Buffalo,H&M,0
+2024-04,Buffalo,H&M,0
+2024-09,Buffalo,H&M,0
+2025-02,Buffalo,H&M,0
+2024-02,Buffalo,H&M,0
+2024-03,Buffalo,H&M,1
+2024-06,Buffalo,H&M,0
+2024-07,Buffalo,H&M,1
+2024-08,Buffalo,H&M,0
+2024-10,Buffalo,H&M,0
+2025-01,Buffalo,H&M,1
+2024-05,Buffalo,H&M,0
+2024-12,Buffalo,H&M,0
+2025-03,Buffalo,H&M,0
+2024-11,Buffalo,H&M,1
+2025-05,Buffalo,H&M,0
+2025-04,Buffalo,H&M,0
+2024-02,Buffalo,Uniqlo,0
+2024-03,Buffalo,Uniqlo,0
+2024-05,Buffalo,Uniqlo,0
+2024-10,Buffalo,Uniqlo,0
+2024-11,Buffalo,Uniqlo,0
+2024-12,Buffalo,Uniqlo,0
+2025-03,Buffalo,Uniqlo,0
+2025-04,Buffalo,Uniqlo,1
+2024-01,Buffalo,Uniqlo,0
+2024-08,Buffalo,Uniqlo,0
+2024-06,Buffalo,Uniqlo,1
+2024-07,Buffalo,Uniqlo,0
+2025-05,Buffalo,Uniqlo,0
+2024-09,Buffalo,Uniqlo,1
+2025-02,Buffalo,Uniqlo,1
+2025-01,Buffalo,Uniqlo,0
+2024-04,Buffalo,Uniqlo,1
+2024-05,Buffalo,Zara,0
+2024-08,Buffalo,Zara,0
+2024-10,Buffalo,Zara,0
+2024-11,Buffalo,Zara,1
+2025-02,Buffalo,Zara,0
+2025-03,Buffalo,Zara,0
+2024-03,Buffalo,Zara,0
+2024-06,Buffalo,Zara,0
+2024-09,Buffalo,Zara,0
+2024-12,Buffalo,Zara,0
+2025-04,Buffalo,Zara,0
+2024-01,Buffalo,Zara,0
+2024-07,Buffalo,Zara,0
+2025-01,Buffalo,Zara,0
+2025-05,Buffalo,Zara,0
+2024-04,Buffalo,Zara,0
+2024-02,Buffalo,Zara,1
+2024-04,Madison,American Eagle,0
+2024-09,Madison,American Eagle,0
+2025-02,Madison,American Eagle,0
+2025-04,Madison,American Eagle,0
+2025-05,Madison,American Eagle,0
+2024-03,Madison,American Eagle,0
+2024-06,Madison,American Eagle,0
+2024-08,Madison,American Eagle,0
+2024-10,Madison,American Eagle,0
+2024-11,Madison,American Eagle,0
+2024-02,Madison,American Eagle,0
+2024-05,Madison,American Eagle,0
+2025-03,Madison,American Eagle,0
+2024-12,Madison,American Eagle,0
+2024-07,Madison,American Eagle,0
+2024-01,Madison,American Eagle,0
+2025-01,Madison,American Eagle,1
+2024-04,Madison,Forever 21,0
+2024-05,Madison,Forever 21,0
+2024-10,Madison,Forever 21,1
+2024-12,Madison,Forever 21,1
+2025-01,Madison,Forever 21,0
+2025-03,Madison,Forever 21,0
+2024-03,Madison,Forever 21,1
+2024-06,Madison,Forever 21,0
+2024-01,Madison,Forever 21,0
+2024-08,Madison,Forever 21,0
+2025-02,Madison,Forever 21,0
+2024-02,Madison,Forever 21,0
+2024-07,Madison,Forever 21,0
+2024-09,Madison,Forever 21,0
+2025-05,Madison,Forever 21,0
+2024-11,Madison,Forever 21,0
+2025-04,Madison,Forever 21,0
+2024-03,Madison,H&M,0
+2024-05,Madison,H&M,0
+2024-06,Madison,H&M,1
+2024-10,Madison,H&M,0
+2024-11,Madison,H&M,0
+2024-08,Madison,H&M,0
+2024-09,Madison,H&M,0
+2025-01,Madison,H&M,0
+2025-05,Madison,H&M,0
+2024-01,Madison,H&M,0
+2024-02,Madison,H&M,0
+2024-04,Madison,H&M,0
+2024-07,Madison,H&M,0
+2024-12,Madison,H&M,0
+2025-04,Madison,H&M,0
+2025-02,Madison,H&M,0
+2025-03,Madison,H&M,1
+2024-03,Madison,Uniqlo,0
+2024-05,Madison,Uniqlo,0
+2024-07,Madison,Uniqlo,1
+2025-03,Madison,Uniqlo,0
+2025-01,Madison,Uniqlo,0
+2025-04,Madison,Uniqlo,0
+2024-10,Madison,Uniqlo,0
+2025-02,Madison,Uniqlo,0
+2024-02,Madison,Uniqlo,0
+2024-06,Madison,Uniqlo,0
+2024-08,Madison,Uniqlo,0
+2024-11,Madison,Uniqlo,0
+2024-09,Madison,Uniqlo,0
+2025-05,Madison,Uniqlo,0
+2024-01,Madison,Uniqlo,0
+2024-04,Madison,Uniqlo,1
+2024-12,Madison,Uniqlo,0
+2024-03,Madison,Zara,0
+2024-06,Madison,Zara,0
+2024-02,Madison,Zara,0
+2024-05,Madison,Zara,0
+2024-11,Madison,Zara,0
+2024-12,Madison,Zara,0
+2025-02,Madison,Zara,0
+2025-05,Madison,Zara,0
+2024-01,Madison,Zara,1
+2024-08,Madison,Zara,0
+2024-04,Madison,Zara,0
+2025-01,Madison,Zara,0
+2025-04,Madison,Zara,1
+2024-07,Madison,Zara,0
+2024-10,Madison,Zara,0
+2024-09,Madison,Zara,1
+2025-03,Madison,Zara,1
+2024-06,Raleigh,American Eagle,1
+2024-07,Raleigh,American Eagle,0
+2024-11,Raleigh,American Eagle,0
+2024-01,Raleigh,American Eagle,0
+2024-02,Raleigh,American Eagle,1
+2024-03,Raleigh,American Eagle,0
+2025-02,Raleigh,American Eagle,0
+2025-04,Raleigh,American Eagle,0
+2024-04,Raleigh,American Eagle,1
+2024-12,Raleigh,American Eagle,0
+2025-01,Raleigh,American Eagle,0
+2025-03,Raleigh,American Eagle,0
+2025-05,Raleigh,American Eagle,0
+2024-08,Raleigh,American Eagle,0
+2024-10,Raleigh,American Eagle,0
+2024-05,Raleigh,American Eagle,0
+2024-09,Raleigh,American Eagle,0
+2024-03,Raleigh,Forever 21,0
+2024-09,Raleigh,Forever 21,0
+2024-10,Raleigh,Forever 21,0
+2025-03,Raleigh,Forever 21,0
+2024-12,Raleigh,Forever 21,0
+2024-02,Raleigh,Forever 21,0
+2024-06,Raleigh,Forever 21,0
+2024-11,Raleigh,Forever 21,0
+2025-01,Raleigh,Forever 21,1
+2025-05,Raleigh,Forever 21,0
+2024-05,Raleigh,Forever 21,1
+2024-07,Raleigh,Forever 21,0
+2024-08,Raleigh,Forever 21,0
+2025-02,Raleigh,Forever 21,1
+2025-04,Raleigh,Forever 21,0
+2024-01,Raleigh,Forever 21,0
+2024-04,Raleigh,Forever 21,0
+2024-02,Raleigh,H&M,0
+2024-03,Raleigh,H&M,1
+2024-05,Raleigh,H&M,1
+2024-08,Raleigh,H&M,1
+2024-10,Raleigh,H&M,0
+2025-03,Raleigh,H&M,0
+2025-04,Raleigh,H&M,1
+2024-01,Raleigh,H&M,0
+2024-04,Raleigh,H&M,0
+2024-09,Raleigh,H&M,0
+2024-11,Raleigh,H&M,0
+2024-12,Raleigh,H&M,1
+2025-01,Raleigh,H&M,0
+2024-07,Raleigh,H&M,1
+2025-05,Raleigh,H&M,0
+2024-06,Raleigh,H&M,0
+2025-02,Raleigh,H&M,0
+2024-06,Raleigh,Uniqlo,1
+2024-07,Raleigh,Uniqlo,0
+2024-08,Raleigh,Uniqlo,0
+2024-09,Raleigh,Uniqlo,0
+2025-01,Raleigh,Uniqlo,1
+2025-04,Raleigh,Uniqlo,0
+2024-01,Raleigh,Uniqlo,1
+2024-03,Raleigh,Uniqlo,0
+2024-12,Raleigh,Uniqlo,0
+2025-03,Raleigh,Uniqlo,0
+2024-04,Raleigh,Uniqlo,0
+2025-02,Raleigh,Uniqlo,0
+2024-02,Raleigh,Uniqlo,0
+2025-05,Raleigh,Uniqlo,0
+2024-05,Raleigh,Uniqlo,1
+2024-11,Raleigh,Uniqlo,0
+2024-10,Raleigh,Uniqlo,0
+2024-06,Raleigh,Zara,1
+2024-08,Raleigh,Zara,0
+2024-10,Raleigh,Zara,0
+2025-02,Raleigh,Zara,1
+2025-05,Raleigh,Zara,0
+2024-12,Raleigh,Zara,0
+2025-01,Raleigh,Zara,0
+2024-07,Raleigh,Zara,1
+2024-01,Raleigh,Zara,0
+2024-02,Raleigh,Zara,0
+2024-04,Raleigh,Zara,1
+2024-09,Raleigh,Zara,1
+2025-04,Raleigh,Zara,0
+2024-05,Raleigh,Zara,0
+2025-03,Raleigh,Zara,0
+2024-11,Raleigh,Zara,0
+2024-03,Raleigh,Zara,0
+2024-06,Sacramento,American Eagle,0
+2024-10,Sacramento,American Eagle,1
+2024-12,Sacramento,American Eagle,1
+2025-04,Sacramento,American Eagle,0
+2025-05,Sacramento,American Eagle,1
+2024-01,Sacramento,American Eagle,0
+2024-02,Sacramento,American Eagle,1
+2024-04,Sacramento,American Eagle,0
+2024-11,Sacramento,American Eagle,0
+2025-03,Sacramento,American Eagle,1
+2024-09,Sacramento,American Eagle,0
+2025-02,Sacramento,American Eagle,0
+2024-03,Sacramento,American Eagle,0
+2024-07,Sacramento,American Eagle,0
+2024-08,Sacramento,American Eagle,0
+2025-01,Sacramento,American Eagle,0
+2024-05,Sacramento,American Eagle,0
+2024-03,Sacramento,Forever 21,0
+2024-07,Sacramento,Forever 21,0
+2024-08,Sacramento,Forever 21,0
+2025-05,Sacramento,Forever 21,1
+2024-01,Sacramento,Forever 21,0
+2024-11,Sacramento,Forever 21,0
+2025-04,Sacramento,Forever 21,0
+2024-02,Sacramento,Forever 21,1
+2024-06,Sacramento,Forever 21,0
+2024-10,Sacramento,Forever 21,0
+2024-12,Sacramento,Forever 21,0
+2025-01,Sacramento,Forever 21,0
+2025-02,Sacramento,Forever 21,0
+2025-03,Sacramento,Forever 21,1
+2024-04,Sacramento,Forever 21,1
+2024-09,Sacramento,Forever 21,0
+2024-05,Sacramento,Forever 21,0
+2024-01,Sacramento,H&M,1
+2024-02,Sacramento,H&M,0
+2024-04,Sacramento,H&M,0
+2024-07,Sacramento,H&M,0
+2024-08,Sacramento,H&M,0
+2025-01,Sacramento,H&M,0
+2025-02,Sacramento,H&M,0
+2024-06,Sacramento,H&M,1
+2024-11,Sacramento,H&M,1
+2025-05,Sacramento,H&M,0
+2024-05,Sacramento,H&M,0
+2024-09,Sacramento,H&M,1
+2024-10,Sacramento,H&M,1
+2025-03,Sacramento,H&M,0
+2024-12,Sacramento,H&M,1
+2024-03,Sacramento,H&M,1
+2025-04,Sacramento,H&M,0
+2024-05,Sacramento,Uniqlo,0
+2024-09,Sacramento,Uniqlo,0
+2025-04,Sacramento,Uniqlo,0
+2024-01,Sacramento,Uniqlo,0
+2024-02,Sacramento,Uniqlo,1
+2024-04,Sacramento,Uniqlo,0
+2024-07,Sacramento,Uniqlo,0
+2024-08,Sacramento,Uniqlo,0
+2024-11,Sacramento,Uniqlo,0
+2025-05,Sacramento,Uniqlo,1
+2024-12,Sacramento,Uniqlo,0
+2025-02,Sacramento,Uniqlo,0
+2025-03,Sacramento,Uniqlo,0
+2025-01,Sacramento,Uniqlo,0
+2024-03,Sacramento,Uniqlo,0
+2024-06,Sacramento,Uniqlo,0
+2024-10,Sacramento,Uniqlo,0
+2024-01,Sacramento,Zara,0
+2024-05,Sacramento,Zara,0
+2024-08,Sacramento,Zara,0
+2025-01,Sacramento,Zara,1
+2025-05,Sacramento,Zara,0
+2024-02,Sacramento,Zara,0
+2024-03,Sacramento,Zara,0
+2024-06,Sacramento,Zara,0
+2024-07,Sacramento,Zara,0
+2024-09,Sacramento,Zara,0
+2024-11,Sacramento,Zara,1
+2025-04,Sacramento,Zara,0
+2024-04,Sacramento,Zara,0
+2024-12,Sacramento,Zara,0
+2024-10,Sacramento,Zara,1
+2025-03,Sacramento,Zara,0
+2025-02,Sacramento,Zara,0

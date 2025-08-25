@@ -1,0 +1,314 @@
+month,city,brand,spike_detected
+2024-05,Boise,American Eagle,Yes
+2024-06,Boise,American Eagle,Yes
+2024-07,Boise,American Eagle,Yes
+2024-08,Boise,American Eagle,Yes
+2024-09,Boise,American Eagle,Yes
+2025-01,Boise,American Eagle,Yes
+2025-01,Boise,American Eagle,Yes
+2025-02,Boise,American Eagle,Yes
+2025-04,Boise,American Eagle,Yes
+2024-03,Boise,Forever 21,Yes
+2024-05,Boise,Forever 21,Yes
+2024-06,Boise,Forever 21,Yes
+2024-07,Boise,Forever 21,Yes
+2024-09,Boise,Forever 21,Yes
+2024-10,Boise,Forever 21,Yes
+2024-12,Boise,Forever 21,Yes
+2024-12,Boise,Forever 21,Yes
+2025-02,Boise,Forever 21,Yes
+2025-03,Boise,Forever 21,Yes
+2025-03,Boise,Forever 21,Yes
+2025-04,Boise,Forever 21,Yes
+2025-05,Boise,Forever 21,Yes
+2024-03,Boise,H&M,Yes
+2024-03,Boise,H&M,Yes
+2024-05,Boise,H&M,Yes
+2024-06,Boise,H&M,Yes
+2024-07,Boise,H&M,Yes
+2024-09,Boise,H&M,Yes
+2024-10,Boise,H&M,Yes
+2024-12,Boise,H&M,Yes
+2025-01,Boise,H&M,Yes
+2025-02,Boise,H&M,Yes
+2025-04,Boise,H&M,Yes
+2025-05,Boise,H&M,Yes
+2024-02,Boise,Uniqlo,Yes
+2024-04,Boise,Uniqlo,Yes
+2024-05,Boise,Uniqlo,Yes
+2024-07,Boise,Uniqlo,Yes
+2024-08,Boise,Uniqlo,Yes
+2024-09,Boise,Uniqlo,Yes
+2024-10,Boise,Uniqlo,Yes
+2024-11,Boise,Uniqlo,Yes
+2024-11,Boise,Uniqlo,Yes
+2024-12,Boise,Uniqlo,Yes
+2025-01,Boise,Uniqlo,Yes
+2025-03,Boise,Uniqlo,Yes
+2025-05,Boise,Uniqlo,Yes
+2024-02,Boise,Zara,Yes
+2024-04,Boise,Zara,Yes
+2024-06,Boise,Zara,Yes
+2024-07,Boise,Zara,Yes
+2024-07,Boise,Zara,Yes
+2024-08,Boise,Zara,Yes
+2024-09,Boise,Zara,Yes
+2024-11,Boise,Zara,Yes
+2025-01,Boise,Zara,Yes
+2025-02,Boise,Zara,Yes
+2025-04,Boise,Zara,Yes
+2024-02,Buffalo,American Eagle,Yes
+2024-03,Buffalo,American Eagle,Yes
+2024-06,Buffalo,American Eagle,Yes
+2024-06,Buffalo,American Eagle,Yes
+2024-09,Buffalo,American Eagle,Yes
+2024-11,Buffalo,American Eagle,Yes
+2024-12,Buffalo,American Eagle,Yes
+2025-01,Buffalo,American Eagle,Yes
+2025-03,Buffalo,American Eagle,Yes
+2025-04,Buffalo,American Eagle,Yes
+2024-02,Buffalo,Forever 21,Yes
+2024-03,Buffalo,Forever 21,Yes
+2024-03,Buffalo,Forever 21,Yes
+2024-05,Buffalo,Forever 21,Yes
+2024-06,Buffalo,Forever 21,Yes
+2024-07,Buffalo,Forever 21,Yes
+2024-09,Buffalo,Forever 21,Yes
+2024-10,Buffalo,Forever 21,Yes
+2024-11,Buffalo,Forever 21,Yes
+2024-12,Buffalo,Forever 21,Yes
+2025-01,Buffalo,Forever 21,Yes
+2025-02,Buffalo,Forever 21,Yes
+2025-04,Buffalo,Forever 21,Yes
+2025-05,Buffalo,Forever 21,Yes
+2024-02,Buffalo,H&M,Yes
+2024-02,Buffalo,H&M,Yes
+2024-03,Buffalo,H&M,Yes
+2024-05,Buffalo,H&M,Yes
+2024-05,Buffalo,H&M,Yes
+2024-09,Buffalo,H&M,Yes
+2024-11,Buffalo,H&M,Yes
+2024-12,Buffalo,H&M,Yes
+2025-01,Buffalo,H&M,Yes
+2025-02,Buffalo,H&M,Yes
+2025-03,Buffalo,H&M,Yes
+2025-05,Buffalo,H&M,Yes
+2024-03,Buffalo,Uniqlo,Yes
+2024-04,Buffalo,Uniqlo,Yes
+2024-05,Buffalo,Uniqlo,Yes
+2024-06,Buffalo,Uniqlo,Yes
+2024-08,Buffalo,Uniqlo,Yes
+2024-08,Buffalo,Uniqlo,Yes
+2024-10,Buffalo,Uniqlo,Yes
+2024-12,Buffalo,Uniqlo,Yes
+2025-01,Buffalo,Uniqlo,Yes
+2025-02,Buffalo,Uniqlo,Yes
+2025-03,Buffalo,Uniqlo,Yes
+2025-04,Buffalo,Uniqlo,Yes
+2025-04,Buffalo,Uniqlo,Yes
+2024-01,Buffalo,Zara,Yes
+2024-03,Buffalo,Zara,Yes
+2024-04,Buffalo,Zara,Yes
+2024-05,Buffalo,Zara,Yes
+2024-06,Buffalo,Zara,Yes
+2024-07,Buffalo,Zara,Yes
+2024-09,Buffalo,Zara,Yes
+2024-11,Buffalo,Zara,Yes
+2024-12,Buffalo,Zara,Yes
+2025-02,Buffalo,Zara,Yes
+2025-03,Buffalo,Zara,Yes
+2025-04,Buffalo,Zara,Yes
+2025-05,Buffalo,Zara,Yes
+2024-02,Madison,American Eagle,Yes
+2024-03,Madison,American Eagle,Yes
+2024-03,Madison,American Eagle,Yes
+2024-04,Madison,American Eagle,Yes
+2024-06,Madison,American Eagle,Yes
+2024-08,Madison,American Eagle,Yes
+2024-09,Madison,American Eagle,Yes
+2024-11,Madison,American Eagle,Yes
+2024-12,Madison,American Eagle,Yes
+2024-12,Madison,American Eagle,Yes
+2025-02,Madison,American Eagle,Yes
+2025-02,Madison,American Eagle,Yes
+2025-03,Madison,American Eagle,Yes
+2025-04,Madison,American Eagle,Yes
+2024-02,Madison,Forever 21,Yes
+2024-04,Madison,Forever 21,Yes
+2024-06,Madison,Forever 21,Yes
+2024-09,Madison,Forever 21,Yes
+2024-09,Madison,Forever 21,Yes
+2024-10,Madison,Forever 21,Yes
+2024-11,Madison,Forever 21,Yes
+2024-12,Madison,Forever 21,Yes
+2024-12,Madison,Forever 21,Yes
+2025-01,Madison,Forever 21,Yes
+2025-03,Madison,Forever 21,Yes
+2025-03,Madison,Forever 21,Yes
+2025-03,Madison,Forever 21,Yes
+2025-04,Madison,Forever 21,Yes
+2025-04,Madison,Forever 21,Yes
+2024-02,Madison,H&M,Yes
+2024-03,Madison,H&M,Yes
+2024-05,Madison,H&M,Yes
+2024-07,Madison,H&M,Yes
+2024-08,Madison,H&M,Yes
+2024-08,Madison,H&M,Yes
+2024-11,Madison,H&M,Yes
+2024-12,Madison,H&M,Yes
+2025-01,Madison,H&M,Yes
+2025-03,Madison,H&M,Yes
+2025-03,Madison,H&M,Yes
+2025-04,Madison,H&M,Yes
+2025-05,Madison,H&M,Yes
+2024-01,Madison,Uniqlo,Yes
+2024-02,Madison,Uniqlo,Yes
+2024-03,Madison,Uniqlo,Yes
+2024-05,Madison,Uniqlo,Yes
+2024-07,Madison,Uniqlo,Yes
+2024-08,Madison,Uniqlo,Yes
+2024-10,Madison,Uniqlo,Yes
+2024-11,Madison,Uniqlo,Yes
+2024-12,Madison,Uniqlo,Yes
+2025-02,Madison,Uniqlo,Yes
+2025-03,Madison,Uniqlo,Yes
+2025-04,Madison,Uniqlo,Yes
+2024-02,Madison,Zara,Yes
+2024-02,Madison,Zara,Yes
+2024-04,Madison,Zara,Yes
+2024-05,Madison,Zara,Yes
+2024-07,Madison,Zara,Yes
+2024-08,Madison,Zara,Yes
+2024-10,Madison,Zara,Yes
+2024-11,Madison,Zara,Yes
+2024-12,Madison,Zara,Yes
+2024-12,Madison,Zara,Yes
+2025-02,Madison,Zara,Yes
+2025-02,Madison,Zara,Yes
+2025-04,Madison,Zara,Yes
+2025-05,Madison,Zara,Yes
+2024-04,Raleigh,American Eagle,Yes
+2024-06,Raleigh,American Eagle,Yes
+2024-07,Raleigh,American Eagle,Yes
+2024-07,Raleigh,American Eagle,Yes
+2024-08,Raleigh,American Eagle,Yes
+2024-09,Raleigh,American Eagle,Yes
+2024-10,Raleigh,American Eagle,Yes
+2024-11,Raleigh,American Eagle,Yes
+2024-12,Raleigh,American Eagle,Yes
+2025-01,Raleigh,American Eagle,Yes
+2025-03,Raleigh,American Eagle,Yes
+2024-02,Raleigh,Forever 21,Yes
+2024-03,Raleigh,Forever 21,Yes
+2024-05,Raleigh,Forever 21,Yes
+2024-06,Raleigh,Forever 21,Yes
+2024-07,Raleigh,Forever 21,Yes
+2024-08,Raleigh,Forever 21,Yes
+2024-09,Raleigh,Forever 21,Yes
+2024-10,Raleigh,Forever 21,Yes
+2024-11,Raleigh,Forever 21,Yes
+2025-01,Raleigh,Forever 21,Yes
+2025-02,Raleigh,Forever 21,Yes
+2025-04,Raleigh,Forever 21,Yes
+2025-05,Raleigh,Forever 21,Yes
+2024-02,Raleigh,H&M,Yes
+2024-03,Raleigh,H&M,Yes
+2024-04,Raleigh,H&M,Yes
+2024-06,Raleigh,H&M,Yes
+2024-06,Raleigh,H&M,Yes
+2024-09,Raleigh,H&M,Yes
+2024-10,Raleigh,H&M,Yes
+2024-11,Raleigh,H&M,Yes
+2024-12,Raleigh,H&M,Yes
+2024-12,Raleigh,H&M,Yes
+2025-02,Raleigh,H&M,Yes
+2025-04,Raleigh,H&M,Yes
+2025-05,Raleigh,H&M,Yes
+2024-02,Raleigh,Uniqlo,Yes
+2024-03,Raleigh,Uniqlo,Yes
+2024-04,Raleigh,Uniqlo,Yes
+2024-04,Raleigh,Uniqlo,Yes
+2024-05,Raleigh,Uniqlo,Yes
+2024-06,Raleigh,Uniqlo,Yes
+2024-07,Raleigh,Uniqlo,Yes
+2024-09,Raleigh,Uniqlo,Yes
+2024-10,Raleigh,Uniqlo,Yes
+2024-11,Raleigh,Uniqlo,Yes
+2025-03,Raleigh,Uniqlo,Yes
+2025-04,Raleigh,Uniqlo,Yes
+2025-04,Raleigh,Uniqlo,Yes
+2024-02,Raleigh,Zara,Yes
+2024-03,Raleigh,Zara,Yes
+2024-04,Raleigh,Zara,Yes
+2024-07,Raleigh,Zara,Yes
+2024-08,Raleigh,Zara,Yes
+2024-09,Raleigh,Zara,Yes
+2024-10,Raleigh,Zara,Yes
+2024-11,Raleigh,Zara,Yes
+2024-12,Raleigh,Zara,Yes
+2025-03,Raleigh,Zara,Yes
+2025-05,Raleigh,Zara,Yes
+2024-02,Sacramento,American Eagle,Yes
+2024-03,Sacramento,American Eagle,Yes
+2024-05,Sacramento,American Eagle,Yes
+2024-07,Sacramento,American Eagle,Yes
+2024-08,Sacramento,American Eagle,Yes
+2024-11,Sacramento,American Eagle,Yes
+2025-01,Sacramento,American Eagle,Yes
+2025-03,Sacramento,American Eagle,Yes
+2025-05,Sacramento,American Eagle,Yes
+2024-02,Sacramento,Forever 21,Yes
+2024-02,Sacramento,Forever 21,Yes
+2024-04,Sacramento,Forever 21,Yes
+2024-04,Sacramento,Forever 21,Yes
+2024-04,Sacramento,Forever 21,Yes
+2024-06,Sacramento,Forever 21,Yes
+2024-07,Sacramento,Forever 21,Yes
+2024-08,Sacramento,Forever 21,Yes
+2024-09,Sacramento,Forever 21,Yes
+2024-10,Sacramento,Forever 21,Yes
+2024-11,Sacramento,Forever 21,Yes
+2024-12,Sacramento,Forever 21,Yes
+2025-01,Sacramento,Forever 21,Yes
+2025-02,Sacramento,Forever 21,Yes
+2025-03,Sacramento,Forever 21,Yes
+2025-04,Sacramento,Forever 21,Yes
+2025-05,Sacramento,Forever 21,Yes
+2024-02,Sacramento,H&M,Yes
+2024-03,Sacramento,H&M,Yes
+2024-04,Sacramento,H&M,Yes
+2024-05,Sacramento,H&M,Yes
+2024-05,Sacramento,H&M,Yes
+2024-07,Sacramento,H&M,Yes
+2024-08,Sacramento,H&M,Yes
+2024-11,Sacramento,H&M,Yes
+2025-02,Sacramento,H&M,Yes
+2025-02,Sacramento,H&M,Yes
+2025-04,Sacramento,H&M,Yes
+2025-05,Sacramento,H&M,Yes
+2024-02,Sacramento,Uniqlo,Yes
+2024-03,Sacramento,Uniqlo,Yes
+2024-05,Sacramento,Uniqlo,Yes
+2024-05,Sacramento,Uniqlo,Yes
+2024-06,Sacramento,Uniqlo,Yes
+2024-07,Sacramento,Uniqlo,Yes
+2024-09,Sacramento,Uniqlo,Yes
+2024-10,Sacramento,Uniqlo,Yes
+2024-11,Sacramento,Uniqlo,Yes
+2024-11,Sacramento,Uniqlo,Yes
+2025-02,Sacramento,Uniqlo,Yes
+2025-03,Sacramento,Uniqlo,Yes
+2025-04,Sacramento,Uniqlo,Yes
+2024-03,Sacramento,Zara,Yes
+2024-05,Sacramento,Zara,Yes
+2024-06,Sacramento,Zara,Yes
+2024-07,Sacramento,Zara,Yes
+2024-08,Sacramento,Zara,Yes
+2024-09,Sacramento,Zara,Yes
+2024-10,Sacramento,Zara,Yes
+2024-11,Sacramento,Zara,Yes
+2024-12,Sacramento,Zara,Yes
+2025-02,Sacramento,Zara,Yes
+2025-03,Sacramento,Zara,Yes
+2025-04,Sacramento,Zara,Yes
+2025-05,Sacramento,Zara,Yes

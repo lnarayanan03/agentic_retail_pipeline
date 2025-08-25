@@ -1,0 +1,91 @@
+month,forecast_sales,city,brand,fashion_trend
+2025-09,1133.49938137665,rochester,american eagle,joggers
+2025-09,1041.885746350458,rochester,urban outfitters,hoodie
+2025-09,989.9555835817841,rochester,forever 21,puffer jacket
+2025-09,831.5522385420886,rochester,uniqlo,blazer
+2025-09,746.393115753691,rochester,h&m,shorts
+2025-09,960.8664915678795,greensboro,urban outfitters,shorts
+2025-09,1041.7947028922222,buffalo,urban outfitters,joggers
+2025-09,813.714017063025,buffalo,forever 21,hoodie
+2025-09,1052.3692791983349,buffalo,uniqlo,joggers
+2025-09,1244.5313907245963,buffalo,zara,hoodie
+2025-09,1101.0585155019296,buffalo,h&m,blazer
+2025-09,1112.7753533287625,tucson,h&m,denim jacket
+2025-09,1069.5180459535743,buffalo,american eagle,denim jacket
+2025-09,1290.7822886950125,rochester,zara,shorts
+2025-09,584.8671788627764,des moines,american eagle,joggers
+2025-09,1264.198464503964,des moines,forever 21,denim jacket
+2025-09,816.031770514656,tucson,forever 21,hoodie
+2025-09,663.5499072951767,greensboro,uniqlo,hoodie
+2025-09,738.144292253542,greensboro,zara,blazer
+2025-09,1373.344738313258,greensboro,h&m,shorts
+2025-09,1099.3184418663118,des moines,urban outfitters,puffer jacket
+2025-09,1360.6812800532794,greensboro,forever 21,denim jacket
+2025-09,1188.6718311164518,des moines,uniqlo,denim jacket
+2025-09,565.2601688766139,des moines,zara,joggers
+2025-09,1404.225036624635,des moines,h&m,hoodie
+2025-09,1330.553574584624,tucson,american eagle,joggers
+2025-09,1194.621676839085,tucson,urban outfitters,joggers
+2025-09,899.0387533333062,tucson,zara,denim jacket
+2025-09,712.9125144670966,tucson,uniqlo,blazer
+2025-09,1235.4302082674951,greensboro,american eagle,denim jacket
+2025-10,1104.1452854030908,rochester,american eagle,joggers
+2025-10,1024.3346529508858,rochester,urban outfitters,hoodie
+2025-10,985.5063342016599,rochester,forever 21,puffer jacket
+2025-10,858.081705341746,rochester,uniqlo,blazer
+2025-10,785.8757139930153,rochester,h&m,shorts
+2025-10,951.2923324509339,greensboro,urban outfitters,shorts
+2025-10,1015.1621263192392,buffalo,urban outfitters,joggers
+2025-10,834.8860002939114,buffalo,forever 21,hoodie
+2025-10,1028.4721624482129,buffalo,uniqlo,joggers
+2025-10,1178.2101299723963,buffalo,zara,hoodie
+2025-10,1085.4118863875824,buffalo,h&m,blazer
+2025-10,1092.9335416394956,tucson,h&m,denim jacket
+2025-10,1055.029654790077,buffalo,american eagle,denim jacket
+2025-10,1230.3315673803068,rochester,zara,shorts
+2025-10,663.7247915491084,des moines,american eagle,joggers
+2025-10,1215.9593140104569,des moines,forever 21,denim jacket
+2025-10,838.164307111106,tucson,forever 21,hoodie
+2025-10,706.7733969469762,greensboro,uniqlo,hoodie
+2025-10,755.0991870942421,greensboro,zara,blazer
+2025-10,1281.0017772169688,greensboro,h&m,shorts
+2025-10,1073.0820463240268,des moines,urban outfitters,puffer jacket
+2025-10,1286.5707496627097,greensboro,forever 21,denim jacket
+2025-10,1170.3984759163138,des moines,uniqlo,denim jacket
+2025-10,654.0487415067038,des moines,zara,joggers
+2025-10,1328.4479387131137,des moines,h&m,hoodie
+2025-10,1258.78398126099,tucson,american eagle,joggers
+2025-10,1162.980317353707,tucson,urban outfitters,joggers
+2025-10,907.4452190616809,tucson,zara,denim jacket
+2025-10,762.4095148060296,tucson,uniqlo,blazer
+2025-10,1171.1133554100538,greensboro,american eagle,denim jacket
+2025-11,1063.609439943945,rochester,american eagle,joggers
+2025-11,999.5559882754812,rochester,urban outfitters,hoodie
+2025-11,978.3003978639424,rochester,forever 21,puffer jacket
+2025-11,892.9576494925667,rochester,uniqlo,blazer
+2025-11,838.7831821595239,rochester,h&m,shorts
+2025-11,938.6401029699964,greensboro,urban outfitters,shorts
+2025-11,979.046240461078,buffalo,urban outfitters,joggers
+2025-11,862.3532764806034,buffalo,forever 21,hoodie
+2025-11,995.586826127382,buffalo,uniqlo,joggers
+2025-11,1088.173575794916,buffalo,zara,hoodie
+2025-11,1062.5499014364768,buffalo,h&m,blazer
+2025-11,1064.524701186624,tucson,h&m,denim jacket
+2025-11,1034.4405962047751,buffalo,american eagle,denim jacket
+2025-11,1147.800044466152,rochester,zara,shorts
+2025-11,768.4521881628111,des moines,american eagle,joggers
+2025-11,1150.5720263889507,des moines,forever 21,denim jacket
+2025-11,867.7945576030429,tucson,forever 21,hoodie
+2025-11,764.0973788673186,greensboro,uniqlo,hoodie
+2025-11,778.1992211469028,greensboro,zara,blazer
+2025-11,1156.7021133093247,greensboro,h&m,shorts
+2025-11,1036.1353165102387,des moines,urban outfitters,puffer jacket
+2025-11,1184.5328390400314,greensboro,forever 21,denim jacket
+2025-11,1143.8673129631045,des moines,uniqlo,denim jacket
+2025-11,771.9391939803569,des moines,zara,joggers
+2025-11,1226.616280549257,des moines,h&m,hoodie
+2025-11,1161.6067014129944,tucson,american eagle,joggers
+2025-11,1117.813426558516,tucson,urban outfitters,joggers
+2025-11,916.8374952000306,tucson,zara,denim jacket
+2025-11,828.2319067728712,tucson,uniqlo,blazer
+2025-11,1084.56554068949,greensboro,american eagle,denim jacket

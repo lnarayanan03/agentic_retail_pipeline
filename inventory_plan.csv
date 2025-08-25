@@ -1,0 +1,91 @@
+month,city,brand,forecast_sales,on_hand_start,on_hand,pipeline,safety_stock,demand_plan,alloc_to_demand,shortfall,reorder_qty,on_hand_end,service_level_pct,sku
+2025-09,buffalo,american eagle,1069.5180459535743,317.0,317.0,84.0,160.42770689303615,1069.5180459535743,317.0,752.5180459535743,912.9457528466105,0.0,0.15,sku_americaneagle_buffalo
+2025-10,buffalo,american eagle,1055.029654790077,0.0,0.0,84.0,158.25444821851156,1055.029654790077,0.0,1055.029654790077,1213.2841030085885,0.0,0.15,sku_americaneagle_buffalo
+2025-11,buffalo,american eagle,1034.4405962047751,0.0,0.0,84.0,155.16608943071626,1034.4405962047751,0.0,1034.4405962047751,1189.6066856354914,0.0,0.15,sku_americaneagle_buffalo
+2025-09,buffalo,forever 21,0.0,323.0,323.0,99.0,0.0,0.0,0.0,0.0,0.0,323.0,0.15,sku_forever21_buffalo
+2025-10,buffalo,forever 21,0.0,323.0,323.0,99.0,0.0,0.0,0.0,0.0,0.0,323.0,0.15,sku_forever21_buffalo
+2025-11,buffalo,forever 21,0.0,323.0,323.0,99.0,0.0,0.0,0.0,0.0,0.0,323.0,0.15,sku_forever21_buffalo
+2025-09,buffalo,h&m,0.0,200.0,200.0,19.0,0.0,0.0,0.0,0.0,0.0,200.0,0.15,sku_h&m_buffalo
+2025-10,buffalo,h&m,0.0,200.0,200.0,19.0,0.0,0.0,0.0,0.0,0.0,200.0,0.15,sku_h&m_buffalo
+2025-11,buffalo,h&m,0.0,200.0,200.0,19.0,0.0,0.0,0.0,0.0,0.0,200.0,0.15,sku_h&m_buffalo
+2025-09,buffalo,uniqlo,0.0,133.0,133.0,33.0,0.0,0.0,0.0,0.0,0.0,133.0,0.15,sku_uniqlo_buffalo
+2025-10,buffalo,uniqlo,0.0,133.0,133.0,33.0,0.0,0.0,0.0,0.0,0.0,133.0,0.15,sku_uniqlo_buffalo
+2025-11,buffalo,uniqlo,0.0,133.0,133.0,33.0,0.0,0.0,0.0,0.0,0.0,133.0,0.15,sku_uniqlo_buffalo
+2025-09,buffalo,urban outfitters,0.0,173.0,173.0,102.0,0.0,0.0,0.0,0.0,0.0,173.0,0.15,sku_urbanoutfitters_buffalo
+2025-10,buffalo,urban outfitters,0.0,173.0,173.0,102.0,0.0,0.0,0.0,0.0,0.0,173.0,0.15,sku_urbanoutfitters_buffalo
+2025-11,buffalo,urban outfitters,0.0,173.0,173.0,102.0,0.0,0.0,0.0,0.0,0.0,173.0,0.15,sku_urbanoutfitters_buffalo
+2025-09,buffalo,zara,0.0,148.0,148.0,75.0,0.0,0.0,0.0,0.0,0.0,148.0,0.15,sku_zara_buffalo
+2025-10,buffalo,zara,0.0,148.0,148.0,75.0,0.0,0.0,0.0,0.0,0.0,148.0,0.15,sku_zara_buffalo
+2025-11,buffalo,zara,0.0,148.0,148.0,75.0,0.0,0.0,0.0,0.0,0.0,148.0,0.15,sku_zara_buffalo
+2025-09,des moines,american eagle,0.0,237.0,237.0,8.0,0.0,0.0,0.0,0.0,0.0,237.0,0.15,sku_americaneagle_desmoines
+2025-10,des moines,american eagle,0.0,237.0,237.0,8.0,0.0,0.0,0.0,0.0,0.0,237.0,0.15,sku_americaneagle_desmoines
+2025-11,des moines,american eagle,0.0,237.0,237.0,8.0,0.0,0.0,0.0,0.0,0.0,237.0,0.15,sku_americaneagle_desmoines
+2025-09,des moines,forever 21,0.0,362.0,362.0,116.0,0.0,0.0,0.0,0.0,0.0,362.0,0.15,sku_forever21_desmoines
+2025-10,des moines,forever 21,0.0,362.0,362.0,116.0,0.0,0.0,0.0,0.0,0.0,362.0,0.15,sku_forever21_desmoines
+2025-11,des moines,forever 21,0.0,362.0,362.0,116.0,0.0,0.0,0.0,0.0,0.0,362.0,0.15,sku_forever21_desmoines
+2025-09,des moines,h&m,0.0,304.0,304.0,59.0,0.0,0.0,0.0,0.0,0.0,304.0,0.15,sku_h&m_desmoines
+2025-10,des moines,h&m,0.0,304.0,304.0,59.0,0.0,0.0,0.0,0.0,0.0,304.0,0.15,sku_h&m_desmoines
+2025-11,des moines,h&m,0.0,304.0,304.0,59.0,0.0,0.0,0.0,0.0,0.0,304.0,0.15,sku_h&m_desmoines
+2025-09,des moines,uniqlo,0.0,138.0,138.0,43.0,0.0,0.0,0.0,0.0,0.0,138.0,0.15,sku_uniqlo_desmoines
+2025-10,des moines,uniqlo,0.0,138.0,138.0,43.0,0.0,0.0,0.0,0.0,0.0,138.0,0.15,sku_uniqlo_desmoines
+2025-11,des moines,uniqlo,0.0,138.0,138.0,43.0,0.0,0.0,0.0,0.0,0.0,138.0,0.15,sku_uniqlo_desmoines
+2025-09,des moines,urban outfitters,0.0,266.0,266.0,91.0,0.0,0.0,0.0,0.0,0.0,266.0,0.15,sku_urbanoutfitters_desmoines
+2025-10,des moines,urban outfitters,0.0,266.0,266.0,91.0,0.0,0.0,0.0,0.0,0.0,266.0,0.15,sku_urbanoutfitters_desmoines
+2025-11,des moines,urban outfitters,0.0,266.0,266.0,91.0,0.0,0.0,0.0,0.0,0.0,266.0,0.15,sku_urbanoutfitters_desmoines
+2025-09,des moines,zara,0.0,337.0,337.0,56.0,0.0,0.0,0.0,0.0,0.0,337.0,0.15,sku_zara_desmoines
+2025-10,des moines,zara,0.0,337.0,337.0,56.0,0.0,0.0,0.0,0.0,0.0,337.0,0.15,sku_zara_desmoines
+2025-11,des moines,zara,0.0,337.0,337.0,56.0,0.0,0.0,0.0,0.0,0.0,337.0,0.15,sku_zara_desmoines
+2025-09,greensboro,american eagle,0.0,241.0,241.0,81.0,0.0,0.0,0.0,0.0,0.0,241.0,0.15,sku_americaneagle_greensboro
+2025-10,greensboro,american eagle,0.0,241.0,241.0,81.0,0.0,0.0,0.0,0.0,0.0,241.0,0.15,sku_americaneagle_greensboro
+2025-11,greensboro,american eagle,0.0,241.0,241.0,81.0,0.0,0.0,0.0,0.0,0.0,241.0,0.15,sku_americaneagle_greensboro
+2025-09,greensboro,forever 21,0.0,165.0,165.0,23.0,0.0,0.0,0.0,0.0,0.0,165.0,0.15,sku_forever21_greensboro
+2025-10,greensboro,forever 21,0.0,165.0,165.0,23.0,0.0,0.0,0.0,0.0,0.0,165.0,0.15,sku_forever21_greensboro
+2025-11,greensboro,forever 21,0.0,165.0,165.0,23.0,0.0,0.0,0.0,0.0,0.0,165.0,0.15,sku_forever21_greensboro
+2025-09,greensboro,h&m,0.0,255.0,255.0,93.0,0.0,0.0,0.0,0.0,0.0,255.0,0.15,sku_h&m_greensboro
+2025-10,greensboro,h&m,0.0,255.0,255.0,93.0,0.0,0.0,0.0,0.0,0.0,255.0,0.15,sku_h&m_greensboro
+2025-11,greensboro,h&m,0.0,255.0,255.0,93.0,0.0,0.0,0.0,0.0,0.0,255.0,0.15,sku_h&m_greensboro
+2025-09,greensboro,uniqlo,0.0,189.0,189.0,107.0,0.0,0.0,0.0,0.0,0.0,189.0,0.15,sku_uniqlo_greensboro
+2025-10,greensboro,uniqlo,0.0,189.0,189.0,107.0,0.0,0.0,0.0,0.0,0.0,189.0,0.15,sku_uniqlo_greensboro
+2025-11,greensboro,uniqlo,0.0,189.0,189.0,107.0,0.0,0.0,0.0,0.0,0.0,189.0,0.15,sku_uniqlo_greensboro
+2025-09,greensboro,urban outfitters,0.0,271.0,271.0,7.0,0.0,0.0,0.0,0.0,0.0,271.0,0.15,sku_urbanoutfitters_greensboro
+2025-10,greensboro,urban outfitters,0.0,271.0,271.0,7.0,0.0,0.0,0.0,0.0,0.0,271.0,0.15,sku_urbanoutfitters_greensboro
+2025-11,greensboro,urban outfitters,0.0,271.0,271.0,7.0,0.0,0.0,0.0,0.0,0.0,271.0,0.15,sku_urbanoutfitters_greensboro
+2025-09,greensboro,zara,0.0,340.0,340.0,81.0,0.0,0.0,0.0,0.0,0.0,340.0,0.15,sku_zara_greensboro
+2025-10,greensboro,zara,0.0,340.0,340.0,81.0,0.0,0.0,0.0,0.0,0.0,340.0,0.15,sku_zara_greensboro
+2025-11,greensboro,zara,0.0,340.0,340.0,81.0,0.0,0.0,0.0,0.0,0.0,340.0,0.15,sku_zara_greensboro
+2025-09,rochester,american eagle,0.0,126.0,126.0,54.0,0.0,0.0,0.0,0.0,0.0,126.0,0.15,sku_americaneagle_rochester
+2025-10,rochester,american eagle,0.0,126.0,126.0,54.0,0.0,0.0,0.0,0.0,0.0,126.0,0.15,sku_americaneagle_rochester
+2025-11,rochester,american eagle,0.0,126.0,126.0,54.0,0.0,0.0,0.0,0.0,0.0,126.0,0.15,sku_americaneagle_rochester
+2025-09,rochester,forever 21,0.0,224.0,224.0,11.0,0.0,0.0,0.0,0.0,0.0,224.0,0.15,sku_forever21_rochester
+2025-10,rochester,forever 21,0.0,224.0,224.0,11.0,0.0,0.0,0.0,0.0,0.0,224.0,0.15,sku_forever21_rochester
+2025-11,rochester,forever 21,0.0,224.0,224.0,11.0,0.0,0.0,0.0,0.0,0.0,224.0,0.15,sku_forever21_rochester
+2025-09,rochester,h&m,0.0,264.0,264.0,106.0,0.0,0.0,0.0,0.0,0.0,264.0,0.15,sku_h&m_rochester
+2025-10,rochester,h&m,0.0,264.0,264.0,106.0,0.0,0.0,0.0,0.0,0.0,264.0,0.15,sku_h&m_rochester
+2025-11,rochester,h&m,0.0,264.0,264.0,106.0,0.0,0.0,0.0,0.0,0.0,264.0,0.15,sku_h&m_rochester
+2025-09,rochester,uniqlo,0.0,225.0,225.0,66.0,0.0,0.0,0.0,0.0,0.0,225.0,0.15,sku_uniqlo_rochester
+2025-10,rochester,uniqlo,0.0,225.0,225.0,66.0,0.0,0.0,0.0,0.0,0.0,225.0,0.15,sku_uniqlo_rochester
+2025-11,rochester,uniqlo,0.0,225.0,225.0,66.0,0.0,0.0,0.0,0.0,0.0,225.0,0.15,sku_uniqlo_rochester
+2025-09,rochester,urban outfitters,0.0,270.0,270.0,27.0,0.0,0.0,0.0,0.0,0.0,270.0,0.15,sku_urbanoutfitters_rochester
+2025-10,rochester,urban outfitters,0.0,270.0,270.0,27.0,0.0,0.0,0.0,0.0,0.0,270.0,0.15,sku_urbanoutfitters_rochester
+2025-11,rochester,urban outfitters,0.0,270.0,270.0,27.0,0.0,0.0,0.0,0.0,0.0,270.0,0.15,sku_urbanoutfitters_rochester
+2025-09,rochester,zara,0.0,282.0,282.0,42.0,0.0,0.0,0.0,0.0,0.0,282.0,0.15,sku_zara_rochester
+2025-10,rochester,zara,0.0,282.0,282.0,42.0,0.0,0.0,0.0,0.0,0.0,282.0,0.15,sku_zara_rochester
+2025-11,rochester,zara,0.0,282.0,282.0,42.0,0.0,0.0,0.0,0.0,0.0,282.0,0.15,sku_zara_rochester
+2025-09,tucson,american eagle,0.0,215.0,215.0,5.0,0.0,0.0,0.0,0.0,0.0,215.0,0.15,sku_americaneagle_tucson
+2025-10,tucson,american eagle,0.0,215.0,215.0,5.0,0.0,0.0,0.0,0.0,0.0,215.0,0.15,sku_americaneagle_tucson
+2025-11,tucson,american eagle,0.0,215.0,215.0,5.0,0.0,0.0,0.0,0.0,0.0,215.0,0.15,sku_americaneagle_tucson
+2025-09,tucson,forever 21,0.0,231.0,231.0,53.0,0.0,0.0,0.0,0.0,0.0,231.0,0.15,sku_forever21_tucson
+2025-10,tucson,forever 21,0.0,231.0,231.0,53.0,0.0,0.0,0.0,0.0,0.0,231.0,0.15,sku_forever21_tucson
+2025-11,tucson,forever 21,0.0,231.0,231.0,53.0,0.0,0.0,0.0,0.0,0.0,231.0,0.15,sku_forever21_tucson
+2025-09,tucson,h&m,0.0,383.0,383.0,90.0,0.0,0.0,0.0,0.0,0.0,383.0,0.15,sku_h&m_tucson
+2025-10,tucson,h&m,0.0,383.0,383.0,90.0,0.0,0.0,0.0,0.0,0.0,383.0,0.15,sku_h&m_tucson
+2025-11,tucson,h&m,0.0,383.0,383.0,90.0,0.0,0.0,0.0,0.0,0.0,383.0,0.15,sku_h&m_tucson
+2025-09,tucson,uniqlo,0.0,275.0,275.0,89.0,0.0,0.0,0.0,0.0,0.0,275.0,0.15,sku_uniqlo_tucson
+2025-10,tucson,uniqlo,0.0,275.0,275.0,89.0,0.0,0.0,0.0,0.0,0.0,275.0,0.15,sku_uniqlo_tucson
+2025-11,tucson,uniqlo,0.0,275.0,275.0,89.0,0.0,0.0,0.0,0.0,0.0,275.0,0.15,sku_uniqlo_tucson
+2025-09,tucson,urban outfitters,0.0,215.0,215.0,65.0,0.0,0.0,0.0,0.0,0.0,215.0,0.15,sku_urbanoutfitters_tucson
+2025-10,tucson,urban outfitters,0.0,215.0,215.0,65.0,0.0,0.0,0.0,0.0,0.0,215.0,0.15,sku_urbanoutfitters_tucson
+2025-11,tucson,urban outfitters,0.0,215.0,215.0,65.0,0.0,0.0,0.0,0.0,0.0,215.0,0.15,sku_urbanoutfitters_tucson
+2025-09,tucson,zara,0.0,273.0,273.0,18.0,0.0,0.0,0.0,0.0,0.0,273.0,0.15,sku_zara_tucson
+2025-10,tucson,zara,0.0,273.0,273.0,18.0,0.0,0.0,0.0,0.0,0.0,273.0,0.15,sku_zara_tucson
+2025-11,tucson,zara,0.0,273.0,273.0,18.0,0.0,0.0,0.0,0.0,0.0,273.0,0.15,sku_zara_tucson

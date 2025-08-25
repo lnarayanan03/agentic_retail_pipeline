@@ -1,0 +1,31 @@
+city,brand,on_hand,pipeline,sku
+rochester,american eagle,72,54,sku_americaneagle_rochester
+rochester,urban outfitters,243,27,sku_urbanoutfitters_rochester
+rochester,forever 21,213,11,sku_forever21_rochester
+rochester,uniqlo,159,66,sku_uniqlo_rochester
+rochester,h&m,158,106,sku_h&m_rochester
+greensboro,urban outfitters,264,7,sku_urbanoutfitters_greensboro
+buffalo,urban outfitters,71,102,sku_urbanoutfitters_buffalo
+buffalo,forever 21,224,99,sku_forever21_buffalo
+buffalo,uniqlo,100,33,sku_uniqlo_buffalo
+buffalo,zara,73,75,sku_zara_buffalo
+buffalo,h&m,181,19,sku_h&m_buffalo
+tucson,h&m,293,90,sku_h&m_tucson
+buffalo,american eagle,233,84,sku_americaneagle_buffalo
+rochester,zara,240,42,sku_zara_rochester
+des moines,american eagle,229,8,sku_americaneagle_desmoines
+des moines,forever 21,246,116,sku_forever21_desmoines
+tucson,forever 21,178,53,sku_forever21_tucson
+greensboro,uniqlo,82,107,sku_uniqlo_greensboro
+greensboro,zara,259,81,sku_zara_greensboro
+greensboro,h&m,162,93,sku_h&m_greensboro
+des moines,urban outfitters,175,91,sku_urbanoutfitters_desmoines
+greensboro,forever 21,142,23,sku_forever21_greensboro
+des moines,uniqlo,95,43,sku_uniqlo_desmoines
+des moines,zara,281,56,sku_zara_desmoines
+des moines,h&m,245,59,sku_h&m_desmoines
+tucson,american eagle,210,5,sku_americaneagle_tucson
+tucson,urban outfitters,150,65,sku_urbanoutfitters_tucson
+tucson,zara,255,18,sku_zara_tucson
+tucson,uniqlo,186,89,sku_uniqlo_tucson
+greensboro,american eagle,160,81,sku_americaneagle_greensboro

@@ -1,0 +1,91 @@
+task_id,month,city,brand,title,status,priority,owner,due_date,source_agent,required_units,decision,notes,created_at,updated_at,sla_risk
+1001,Sep-2025,rochester,american eagle,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1193.86,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1002,Sep-2025,rochester,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,958.37,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1003,Sep-2025,rochester,forever 21,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,856.49,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1004,Sep-2025,rochester,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,686.11,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1005,Sep-2025,rochester,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,559.05,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1006,Sep-2025,greensboro,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,813.55,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1007,Sep-2025,buffalo,urban outfitters,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,933.6,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1008,Sep-2025,buffalo,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,659.7,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1009,Sep-2025,buffalo,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1058.1,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1010,Sep-2025,buffalo,zara,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1175.93,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1011,Sep-2025,buffalo,h&m,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1062.07,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1012,Sep-2025,tucson,h&m,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1061.55,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1013,Sep-2025,buffalo,american eagle,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1053.87,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1014,Sep-2025,rochester,zara,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1273.16,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1015,Sep-2025,des moines,american eagle,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,512.51,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1016,Sep-2025,des moines,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1259.67,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1017,Sep-2025,tucson,forever 21,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,754.52,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1018,Sep-2025,greensboro,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,522.01,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1019,Sep-2025,greensboro,zara,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,577.04,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1020,Sep-2025,greensboro,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1416.09,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1021,Sep-2025,des moines,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1087.31,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1022,Sep-2025,greensboro,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1358.53,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1023,Sep-2025,des moines,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1150.52,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1024,Sep-2025,des moines,zara,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,435.1,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1025,Sep-2025,des moines,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1434.93,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1026,Sep-2025,tucson,american eagle,Execute: Hybrid,Pending,Medium,unassigned,2025-09-30,Simulation,1401.08,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1027,Sep-2025,tucson,urban outfitters,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1199.91,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1028,Sep-2025,tucson,zara,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,810.91,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1029,Sep-2025,tucson,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,622.14,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1030,Sep-2025,greensboro,american eagle,Execute: Transfer,Pending,High,unassigned,2025-09-30,Simulation,1253.41,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1031,Oct-2025,rochester,american eagle,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1223.97,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1032,Oct-2025,rochester,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,927.1,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1033,Oct-2025,rochester,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,831.39,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1034,Oct-2025,rochester,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,766.0,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1035,Oct-2025,rochester,h&m,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,608.83,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1036,Oct-2025,greensboro,urban outfitters,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,844.57,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1037,Oct-2025,buffalo,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,1047.87,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1038,Oct-2025,buffalo,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,698.7,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1039,Oct-2025,buffalo,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,949.14,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1040,Oct-2025,buffalo,zara,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1212.29,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1041,Oct-2025,buffalo,h&m,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1054.07,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1042,Oct-2025,tucson,h&m,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1121.46,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1043,Oct-2025,buffalo,american eagle,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,1114.32,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1044,Oct-2025,rochester,zara,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1251.21,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1045,Oct-2025,des moines,american eagle,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,605.53,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1046,Oct-2025,des moines,forever 21,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1262.08,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1047,Oct-2025,tucson,forever 21,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,770.52,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1048,Oct-2025,greensboro,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,589.46,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1049,Oct-2025,greensboro,zara,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,563.82,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1050,Oct-2025,greensboro,h&m,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1355.84,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1051,Oct-2025,des moines,urban outfitters,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1025.02,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1052,Oct-2025,greensboro,forever 21,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1376.53,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1053,Oct-2025,des moines,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,1154.4,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1054,Oct-2025,des moines,zara,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,491.34,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1055,Oct-2025,des moines,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,1367.22,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1056,Oct-2025,tucson,american eagle,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,1285.27,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1057,Oct-2025,tucson,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,1105.21,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1058,Oct-2025,tucson,zara,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,718.36,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1059,Oct-2025,tucson,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-10-31,Simulation,495.89,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1060,Oct-2025,greensboro,american eagle,Execute: Transfer,Pending,High,unassigned,2025-10-31,Simulation,1228.41,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1061,Nov-2025,rochester,american eagle,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1274.03,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1062,Nov-2025,rochester,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,974.1,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1063,Nov-2025,rochester,forever 21,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,835.5,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1064,Nov-2025,rochester,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,723.07,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1065,Nov-2025,rochester,h&m,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,632.48,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1066,Nov-2025,greensboro,urban outfitters,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,894.4,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1067,Nov-2025,buffalo,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1047.87,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1068,Nov-2025,buffalo,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,700.49,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1069,Nov-2025,buffalo,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,928.14,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1070,Nov-2025,buffalo,zara,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1181.34,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1071,Nov-2025,buffalo,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1113.07,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1072,Nov-2025,tucson,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,997.71,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1073,Nov-2025,buffalo,american eagle,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1201.66,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1074,Nov-2025,rochester,zara,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,1274.16,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1075,Nov-2025,des moines,american eagle,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,681.04,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1076,Nov-2025,des moines,forever 21,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,1208.9,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1077,Nov-2025,tucson,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,659.52,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1078,Nov-2025,greensboro,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,598.46,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1079,Nov-2025,greensboro,zara,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,597.47,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1080,Nov-2025,greensboro,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1311.08,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1081,Nov-2025,des moines,urban outfitters,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,1121.02,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1082,Nov-2025,greensboro,forever 21,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1333.69,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1083,Nov-2025,des moines,uniqlo,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1249.55,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1084,Nov-2025,des moines,zara,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,591.09,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1085,Nov-2025,des moines,h&m,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1321.8,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1086,Nov-2025,tucson,american eagle,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,1302.16,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1087,Nov-2025,tucson,urban outfitters,Execute: Hybrid,Pending,Medium,unassigned,2025-11-30,Simulation,1146.21,Hybrid,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1088,Nov-2025,tucson,zara,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,774.51,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1089,Nov-2025,tucson,uniqlo,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,563.49,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High
+1090,Nov-2025,greensboro,american eagle,Execute: Transfer,Pending,High,unassigned,2025-11-30,Simulation,1270.41,Transfer,,2025-08-10 01:39:53,2025-08-10 01:39:53,High

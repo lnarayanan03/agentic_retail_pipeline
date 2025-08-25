@@ -1,0 +1,1276 @@
+Unnamed: 0,city,brand,keyword,month,season,units_sold,tweet_count,tweet_volume
+0,Boise,American Eagle,ankle boots,2024-05-23,Spring,480,82,176
+1,Boise,American Eagle,ankle boots,2024-09-10,Autumn,405,72,142
+2,Boise,American Eagle,ankle boots,2024-11-03,Autumn,252,71,90
+3,Boise,American Eagle,ankle boots,2025-05-24,Spring,683,71,165
+4,Boise,American Eagle,cargo pants,2024-02-27,Winter,577,98,120
+5,Boise,American Eagle,cargo pants,2024-08-01,Summer,283,86,211
+6,Boise,American Eagle,cargo pants,2024-09-13,Autumn,330,67,96
+7,Boise,American Eagle,cargo pants,2025-04-13,Spring,251,83,119
+8,Boise,American Eagle,crop top,2024-01-22,Winter,457,78,137
+9,Boise,American Eagle,crop top,2024-02-04,Winter,562,46,72
+10,Boise,American Eagle,crop top,2024-05-01,Spring,382,59,93
+11,Boise,American Eagle,crop top,2025-03-17,Spring,410,79,132
+12,Boise,American Eagle,denim jacket,2024-04-06,Spring,236,96,140
+13,Boise,American Eagle,denim jacket,2024-06-20,Summer,214,71,132
+14,Boise,American Eagle,denim jacket,2024-11-25,Autumn,522,66,131
+15,Boise,American Eagle,denim jacket,2024-12-09,Winter,246,76,108
+16,Boise,American Eagle,floral dress,2024-01-03,Winter,586,65,135
+17,Boise,American Eagle,floral dress,2024-11-16,Autumn,707,70,124
+18,Boise,American Eagle,floral dress,2025-02-17,Winter,338,74,92
+19,Boise,American Eagle,graphic tee,2024-01-19,Winter,377,59,140
+20,Boise,American Eagle,graphic tee,2024-07-24,Summer,659,87,139
+21,Boise,American Eagle,graphic tee,2024-12-13,Winter,339,56,105
+22,Boise,American Eagle,leather boots,2024-03-21,Spring,434,55,135
+23,Boise,American Eagle,leather boots,2024-08-13,Summer,286,77,169
+24,Boise,American Eagle,leather boots,2025-01-03,Winter,554,86,113
+25,Boise,American Eagle,leather boots,2025-02-08,Winter,328,77,112
+26,Boise,American Eagle,leather boots,2025-05-22,Spring,364,73,124
+27,Boise,American Eagle,linen shirt,2024-03-25,Spring,181,70,108
+28,Boise,American Eagle,linen shirt,2024-04-27,Spring,544,68,106
+29,Boise,American Eagle,linen shirt,2024-05-04,Spring,436,90,171
+30,Boise,American Eagle,linen shirt,2024-07-17,Summer,727,79,102
+31,Boise,American Eagle,linen shirt,2024-10-01,Autumn,303,69,171
+32,Boise,American Eagle,linen shirt,2024-12-10,Winter,455,64,77
+33,Boise,American Eagle,linen shirt,2025-02-19,Winter,513,84,189
+34,Boise,American Eagle,oversized hoodie,2025-04-13,Spring,589,90,198
+35,Boise,American Eagle,oversized hoodie,2025-05-22,Spring,237,88,114
+36,Boise,American Eagle,plaid shirt,2024-02-21,Winter,288,62,143
+37,Boise,American Eagle,plaid shirt,2024-03-14,Spring,581,70,140
+38,Boise,American Eagle,plaid shirt,2024-06-06,Summer,208,67,107
+39,Boise,American Eagle,plaid shirt,2024-07-21,Summer,514,72,116
+40,Boise,American Eagle,plaid shirt,2024-08-18,Summer,220,87,204
+41,Boise,American Eagle,plaid shirt,2024-10-16,Autumn,673,95,172
+42,Boise,American Eagle,plaid shirt,2025-01-17,Winter,741,80,175
+43,Boise,American Eagle,puffer coat,2024-10-10,Autumn,296,65,125
+44,Boise,American Eagle,puffer coat,2025-01-07,Winter,345,74,139
+45,Boise,American Eagle,puffer coat,2025-03-14,Spring,357,98,172
+46,Boise,American Eagle,puffer coat,2025-04-01,Spring,589,76,122
+47,Boise,American Eagle,summer shorts,2024-04-25,Spring,192,70,130
+48,Boise,American Eagle,summer shorts,2024-06-03,Summer,313,71,123
+49,Boise,American Eagle,summer shorts,2024-09-22,Autumn,470,80,174
+50,Boise,American Eagle,summer shorts,2025-03-28,Spring,252,62,149
+51,Boise,Forever 21,ankle boots,2024-06-11,Summer,190,67,150
+52,Boise,Forever 21,ankle boots,2024-09-15,Autumn,528,88,197
+53,Boise,Forever 21,ankle boots,2024-11-16,Autumn,506,79,113
+54,Boise,Forever 21,ankle boots,2025-04-28,Spring,369,76,170
+55,Boise,Forever 21,cargo pants,2024-05-19,Spring,504,89,210
+56,Boise,Forever 21,cargo pants,2024-09-24,Autumn,334,64,95
+57,Boise,Forever 21,cargo pants,2024-10-08,Autumn,354,70,122
+58,Boise,Forever 21,cargo pants,2025-05-21,Spring,554,79,95
+59,Boise,Forever 21,crop top,2024-04-19,Spring,644,78,145
+60,Boise,Forever 21,crop top,2024-05-18,Spring,656,53,71
+61,Boise,Forever 21,crop top,2024-08-18,Summer,538,68,111
+62,Boise,Forever 21,crop top,2025-04-18,Spring,699,72,134
+63,Boise,Forever 21,denim jacket,2024-02-26,Winter,692,81,171
+64,Boise,Forever 21,denim jacket,2024-03-27,Spring,273,78,191
+65,Boise,Forever 21,denim jacket,2024-12-10,Winter,511,73,111
+66,Boise,Forever 21,floral dress,2024-07-22,Summer,544,46,72
+67,Boise,Forever 21,floral dress,2025-02-10,Winter,312,74,92
+68,Boise,Forever 21,graphic tee,2024-01-08,Winter,221,75,95
+69,Boise,Forever 21,graphic tee,2024-09-26,Autumn,472,111,173
+70,Boise,Forever 21,graphic tee,2024-11-20,Autumn,502,72,99
+71,Boise,Forever 21,graphic tee,2024-12-03,Winter,208,79,145
+72,Boise,Forever 21,graphic tee,2025-01-06,Winter,376,92,138
+73,Boise,Forever 21,graphic tee,2025-02-03,Winter,580,86,184
+74,Boise,Forever 21,graphic tee,2025-05-26,Spring,608,96,194
+75,Boise,Forever 21,leather boots,2024-02-15,Winter,520,53,100
+76,Boise,Forever 21,leather boots,2024-03-22,Spring,293,60,75
+77,Boise,Forever 21,leather boots,2024-04-27,Spring,500,66,129
+78,Boise,Forever 21,leather boots,2025-03-14,Spring,522,51,103
+79,Boise,Forever 21,linen shirt,2024-01-15,Winter,570,76,108
+80,Boise,Forever 21,linen shirt,2024-03-08,Spring,505,61,147
+81,Boise,Forever 21,linen shirt,2024-11-10,Autumn,639,98,135
+82,Boise,Forever 21,linen shirt,2024-12-10,Winter,442,63,151
+83,Boise,Forever 21,linen shirt,2025-01-05,Winter,705,70,163
+84,Boise,Forever 21,linen shirt,2025-03-17,Spring,224,87,196
+85,Boise,Forever 21,linen shirt,2025-04-19,Spring,697,56,107
+86,Boise,Forever 21,linen shirt,2025-05-02,Spring,275,50,66
+87,Boise,Forever 21,oversized hoodie,2024-05-04,Spring,462,77,182
+88,Boise,Forever 21,oversized hoodie,2025-01-01,Winter,340,78,127
+89,Boise,Forever 21,plaid shirt,2024-06-26,Summer,326,86,142
+90,Boise,Forever 21,plaid shirt,2024-08-08,Summer,518,82,192
+91,Boise,Forever 21,plaid shirt,2024-10-21,Autumn,378,79,174
+92,Boise,Forever 21,plaid shirt,2025-03-01,Spring,317,64,90
+93,Boise,Forever 21,puffer coat,2024-01-12,Winter,442,78,184
+94,Boise,Forever 21,puffer coat,2024-04-22,Spring,193,79,95
+95,Boise,Forever 21,puffer coat,2024-06-26,Summer,553,64,90
+96,Boise,Forever 21,puffer coat,2024-07-15,Summer,527,102,208
+97,Boise,Forever 21,puffer coat,2024-10-10,Autumn,585,82,122
+98,Boise,Forever 21,puffer coat,2025-02-02,Winter,763,60,97
+99,Boise,Forever 21,summer shorts,2024-02-06,Winter,439,86,186
+100,Boise,Forever 21,summer shorts,2024-07-15,Summer,553,89,182
+101,Boise,Forever 21,summer shorts,2024-08-11,Summer,325,81,157
+102,Boise,H&M,ankle boots,2024-02-01,Winter,314,71,109
+103,Boise,H&M,ankle boots,2024-09-22,Autumn,595,63,95
+104,Boise,H&M,ankle boots,2025-01-04,Winter,574,73,172
+105,Boise,H&M,cargo pants,2024-08-26,Summer,200,80,161
+106,Boise,H&M,cargo pants,2024-10-23,Autumn,475,75,146
+107,Boise,H&M,cargo pants,2025-02-20,Winter,595,96,176
+108,Boise,H&M,cargo pants,2025-04-06,Spring,344,84,131
+109,Boise,H&M,crop top,2024-01-22,Winter,315,62,76
+110,Boise,H&M,crop top,2024-02-14,Winter,164,58,140
+111,Boise,H&M,crop top,2024-05-16,Spring,279,82,200
+112,Boise,H&M,crop top,2024-07-03,Summer,199,71,86
+113,Boise,H&M,crop top,2025-04-15,Spring,669,85,204
+114,Boise,H&M,denim jacket,2024-03-28,Spring,480,82,201
+115,Boise,H&M,denim jacket,2024-06-10,Summer,466,73,168
+116,Boise,H&M,denim jacket,2024-07-01,Summer,196,62,143
+117,Boise,H&M,denim jacket,2024-10-01,Autumn,337,52,83
+118,Boise,H&M,denim jacket,2025-01-09,Winter,725,78,188
+119,Boise,H&M,denim jacket,2025-03-16,Spring,179,56,117
+120,Boise,H&M,floral dress,2024-04-02,Spring,479,61,121
+121,Boise,H&M,floral dress,2024-05-16,Spring,507,77,191
+122,Boise,H&M,floral dress,2024-12-26,Winter,446,75,175
+123,Boise,H&M,floral dress,2025-04-25,Spring,322,57,123
+124,Boise,H&M,floral dress,2025-05-20,Spring,677,91,151
+125,Boise,H&M,graphic tee,2024-01-28,Winter,487,90,142
+126,Boise,H&M,graphic tee,2024-03-22,Spring,245,82,190
+127,Boise,H&M,graphic tee,2024-07-06,Summer,386,82,195
+128,Boise,H&M,graphic tee,2024-09-01,Autumn,641,82,183
+129,Boise,H&M,graphic tee,2024-12-23,Winter,234,132,269
+130,Boise,H&M,graphic tee,2025-05-27,Spring,263,89,209
+131,Boise,H&M,leather boots,2024-01-20,Winter,329,84,137
+132,Boise,H&M,leather boots,2024-04-20,Spring,391,63,122
+133,Boise,H&M,leather boots,2024-05-10,Spring,560,71,88
+134,Boise,H&M,leather boots,2024-08-08,Summer,474,109,171
+135,Boise,H&M,linen shirt,2024-02-25,Winter,550,46,90
+136,Boise,H&M,linen shirt,2024-04-04,Spring,463,67,91
+137,Boise,H&M,linen shirt,2024-10-08,Autumn,263,91,170
+138,Boise,H&M,linen shirt,2024-11-15,Autumn,482,64,128
+139,Boise,H&M,linen shirt,2025-02-19,Winter,667,85,111
+140,Boise,H&M,oversized hoodie,2024-03-28,Spring,265,75,142
+141,Boise,H&M,oversized hoodie,2024-06-04,Summer,556,65,131
+142,Boise,H&M,oversized hoodie,2024-08-03,Summer,226,44,98
+143,Boise,H&M,oversized hoodie,2024-11-18,Autumn,778,77,119
+144,Boise,H&M,oversized hoodie,2025-03-12,Spring,608,63,77
+145,Boise,H&M,plaid shirt,2024-09-21,Autumn,282,73,178
+146,Boise,H&M,plaid shirt,2025-01-10,Winter,533,82,141
+147,Boise,H&M,puffer coat,2024-11-02,Autumn,209,87,123
+148,Boise,H&M,puffer coat,2025-02-12,Winter,759,67,128
+149,Boise,H&M,summer shorts,2024-06-03,Summer,664,65,138
+150,Boise,H&M,summer shorts,2024-12-24,Winter,603,56,136
+151,Boise,H&M,summer shorts,2025-03-04,Spring,596,88,190
+152,Boise,H&M,summer shorts,2025-05-04,Spring,621,106,185
+153,Boise,Uniqlo,ankle boots,2024-02-18,Winter,400,90,136
+154,Boise,Uniqlo,ankle boots,2024-03-28,Spring,492,94,114
+155,Boise,Uniqlo,ankle boots,2024-09-27,Autumn,392,64,86
+156,Boise,Uniqlo,ankle boots,2024-12-27,Winter,719,81,147
+157,Boise,Uniqlo,ankle boots,2025-05-06,Spring,288,86,114
+158,Boise,Uniqlo,cargo pants,2025-03-15,Spring,352,26,37
+159,Boise,Uniqlo,cargo pants,2025-04-11,Spring,242,59,104
+160,Boise,Uniqlo,crop top,2024-02-21,Winter,324,99,200
+161,Boise,Uniqlo,crop top,2024-08-27,Summer,362,53,66
+162,Boise,Uniqlo,crop top,2024-11-01,Autumn,329,96,177
+163,Boise,Uniqlo,crop top,2025-01-27,Winter,224,53,122
+164,Boise,Uniqlo,crop top,2025-04-11,Spring,489,60,77
+165,Boise,Uniqlo,denim jacket,2024-01-24,Winter,360,81,164
+166,Boise,Uniqlo,denim jacket,2024-04-06,Spring,552,76,184
+167,Boise,Uniqlo,denim jacket,2024-07-10,Summer,468,69,134
+168,Boise,Uniqlo,denim jacket,2025-02-08,Winter,438,98,175
+169,Boise,Uniqlo,floral dress,2024-06-28,Summer,487,56,106
+170,Boise,Uniqlo,floral dress,2024-09-18,Autumn,299,72,176
+171,Boise,Uniqlo,floral dress,2024-11-02,Autumn,252,83,197
+172,Boise,Uniqlo,floral dress,2025-03-20,Spring,690,79,102
+173,Boise,Uniqlo,floral dress,2025-04-19,Spring,685,65,104
+174,Boise,Uniqlo,floral dress,2025-05-14,Spring,677,66,89
+175,Boise,Uniqlo,graphic tee,2024-01-07,Winter,500,87,183
+176,Boise,Uniqlo,graphic tee,2024-04-12,Spring,620,88,189
+177,Boise,Uniqlo,graphic tee,2024-06-01,Summer,462,79,177
+178,Boise,Uniqlo,graphic tee,2024-07-07,Summer,446,62,134
+179,Boise,Uniqlo,graphic tee,2024-10-14,Autumn,501,66,148
+180,Boise,Uniqlo,graphic tee,2025-01-12,Winter,305,74,124
+181,Boise,Uniqlo,leather boots,2024-01-12,Winter,205,76,167
+182,Boise,Uniqlo,leather boots,2024-05-25,Spring,547,83,192
+183,Boise,Uniqlo,leather boots,2024-10-05,Autumn,488,71,124
+184,Boise,Uniqlo,leather boots,2024-12-23,Winter,317,87,116
+185,Boise,Uniqlo,leather boots,2025-01-26,Winter,385,87,206
+186,Boise,Uniqlo,linen shirt,2024-10-18,Autumn,440,94,151
+187,Boise,Uniqlo,linen shirt,2025-03-16,Spring,167,75,177
+188,Boise,Uniqlo,oversized hoodie,2024-05-20,Spring,560,79,192
+189,Boise,Uniqlo,oversized hoodie,2024-07-20,Summer,287,73,142
+190,Boise,Uniqlo,oversized hoodie,2024-12-06,Winter,336,62,98
+191,Boise,Uniqlo,oversized hoodie,2025-02-22,Winter,468,106,172
+192,Boise,Uniqlo,plaid shirt,2024-05-01,Spring,690,92,205
+193,Boise,Uniqlo,plaid shirt,2024-11-13,Autumn,362,86,191
+194,Boise,Uniqlo,plaid shirt,2025-02-28,Winter,353,74,94
+195,Boise,Uniqlo,puffer coat,2024-03-02,Spring,596,61,116
+196,Boise,Uniqlo,puffer coat,2024-04-27,Spring,409,89,147
+197,Boise,Uniqlo,puffer coat,2024-08-27,Summer,283,72,97
+198,Boise,Uniqlo,puffer coat,2024-09-05,Autumn,480,81,162
+199,Boise,Uniqlo,summer shorts,2024-02-13,Winter,458,66,87
+200,Boise,Uniqlo,summer shorts,2024-03-21,Spring,460,78,100
+201,Boise,Uniqlo,summer shorts,2024-06-12,Summer,617,67,151
+202,Boise,Uniqlo,summer shorts,2024-08-07,Summer,740,67,87
+203,Boise,Uniqlo,summer shorts,2025-05-24,Spring,321,78,193
+204,Boise,Zara,ankle boots,2024-01-20,Winter,523,53,119
+205,Boise,Zara,ankle boots,2024-11-04,Autumn,357,53,128
+206,Boise,Zara,ankle boots,2025-01-23,Winter,304,64,141
+207,Boise,Zara,cargo pants,2024-04-19,Spring,553,71,136
+208,Boise,Zara,cargo pants,2024-06-17,Summer,456,87,116
+209,Boise,Zara,cargo pants,2025-03-20,Spring,325,72,132
+210,Boise,Zara,cargo pants,2025-04-21,Spring,537,74,94
+211,Boise,Zara,cargo pants,2025-05-02,Spring,398,70,94
+212,Boise,Zara,crop top,2024-03-12,Spring,303,79,171
+213,Boise,Zara,crop top,2024-06-17,Summer,263,62,121
+214,Boise,Zara,crop top,2024-08-17,Summer,698,73,114
+215,Boise,Zara,crop top,2025-02-20,Winter,612,81,188
+216,Boise,Zara,crop top,2025-05-28,Spring,365,78,101
+217,Boise,Zara,denim jacket,2024-09-17,Autumn,306,75,144
+218,Boise,Zara,floral dress,2024-07-18,Summer,415,75,151
+219,Boise,Zara,graphic tee,2024-01-03,Winter,344,82,172
+220,Boise,Zara,graphic tee,2024-04-24,Spring,701,107,209
+221,Boise,Zara,graphic tee,2024-05-03,Spring,536,63,149
+222,Boise,Zara,graphic tee,2024-11-25,Autumn,527,107,166
+223,Boise,Zara,graphic tee,2024-12-26,Winter,473,62,89
+224,Boise,Zara,graphic tee,2025-01-13,Winter,434,43,84
+225,Boise,Zara,graphic tee,2025-03-03,Spring,500,67,87
+226,Boise,Zara,leather boots,2024-08-07,Summer,460,80,128
+227,Boise,Zara,leather boots,2025-01-14,Winter,477,103,232
+228,Boise,Zara,leather boots,2025-03-17,Spring,563,61,145
+229,Boise,Zara,linen shirt,2024-02-28,Winter,179,82,186
+230,Boise,Zara,linen shirt,2024-03-19,Spring,336,55,132
+231,Boise,Zara,linen shirt,2024-08-24,Summer,688,102,237
+232,Boise,Zara,linen shirt,2024-09-19,Autumn,170,92,228
+233,Boise,Zara,linen shirt,2024-10-02,Autumn,241,67,93
+234,Boise,Zara,oversized hoodie,2024-02-04,Winter,431,49,120
+235,Boise,Zara,oversized hoodie,2024-05-05,Spring,266,95,218
+236,Boise,Zara,oversized hoodie,2024-07-04,Summer,169,73,126
+237,Boise,Zara,oversized hoodie,2024-09-15,Autumn,594,93,144
+238,Boise,Zara,oversized hoodie,2024-12-04,Winter,679,75,164
+239,Boise,Zara,oversized hoodie,2025-02-09,Winter,541,75,182
+240,Boise,Zara,plaid shirt,2024-06-25,Summer,321,68,121
+241,Boise,Zara,plaid shirt,2024-10-15,Autumn,575,84,114
+242,Boise,Zara,plaid shirt,2024-11-28,Autumn,496,76,113
+243,Boise,Zara,plaid shirt,2025-04-23,Spring,183,82,170
+244,Boise,Zara,puffer coat,2024-01-05,Winter,810,51,68
+245,Boise,Zara,puffer coat,2024-05-28,Spring,228,94,194
+246,Boise,Zara,puffer coat,2024-07-20,Summer,331,98,183
+247,Boise,Zara,puffer coat,2024-12-15,Winter,278,76,175
+248,Boise,Zara,summer shorts,2024-02-28,Winter,206,105,245
+249,Boise,Zara,summer shorts,2024-03-10,Spring,445,101,174
+250,Boise,Zara,summer shorts,2024-04-10,Spring,489,84,177
+251,Boise,Zara,summer shorts,2024-10-05,Autumn,242,95,140
+252,Boise,Zara,summer shorts,2025-02-06,Winter,564,90,153
+253,Boise,Zara,summer shorts,2025-04-12,Spring,522,48,84
+254,Boise,Zara,summer shorts,2025-05-17,Spring,394,70,130
+255,Buffalo,American Eagle,ankle boots,2024-01-01,Winter,553,110,244
+256,Buffalo,American Eagle,ankle boots,2024-03-28,Spring,330,124,287
+257,Buffalo,American Eagle,ankle boots,2024-07-11,Summer,587,79,192
+258,Buffalo,American Eagle,ankle boots,2024-12-05,Winter,333,74,132
+259,Buffalo,American Eagle,ankle boots,2025-03-03,Spring,432,99,244
+260,Buffalo,American Eagle,ankle boots,2025-04-05,Spring,288,68,137
+261,Buffalo,American Eagle,cargo pants,2024-03-28,Spring,588,98,148
+262,Buffalo,American Eagle,cargo pants,2024-05-01,Spring,498,105,150
+263,Buffalo,American Eagle,cargo pants,2024-06-05,Summer,224,85,140
+264,Buffalo,American Eagle,cargo pants,2024-08-21,Summer,270,99,204
+265,Buffalo,American Eagle,cargo pants,2024-10-12,Autumn,261,114,162
+266,Buffalo,American Eagle,cargo pants,2024-11-14,Autumn,529,92,131
+267,Buffalo,American Eagle,cargo pants,2025-01-05,Winter,588,88,115
+268,Buffalo,American Eagle,cargo pants,2025-02-03,Winter,282,98,143
+269,Buffalo,American Eagle,crop top,2024-01-26,Winter,598,84,140
+270,Buffalo,American Eagle,crop top,2025-02-04,Winter,496,129,161
+271,Buffalo,American Eagle,crop top,2025-03-24,Spring,378,100,223
+272,Buffalo,American Eagle,crop top,2025-04-22,Spring,431,89,207
+273,Buffalo,American Eagle,denim jacket,2024-04-23,Spring,551,103,246
+274,Buffalo,American Eagle,denim jacket,2024-06-25,Summer,370,98,220
+275,Buffalo,American Eagle,denim jacket,2024-07-04,Summer,574,96,208
+276,Buffalo,American Eagle,denim jacket,2024-08-15,Summer,509,92,154
+277,Buffalo,American Eagle,denim jacket,2025-05-25,Spring,301,91,166
+278,Buffalo,American Eagle,floral dress,2024-03-21,Spring,294,77,138
+279,Buffalo,American Eagle,floral dress,2024-04-20,Spring,633,120,260
+280,Buffalo,American Eagle,floral dress,2024-07-21,Summer,489,108,201
+281,Buffalo,American Eagle,floral dress,2024-08-05,Summer,708,104,196
+282,Buffalo,American Eagle,floral dress,2024-09-25,Autumn,269,98,185
+283,Buffalo,American Eagle,floral dress,2025-02-15,Winter,293,85,128
+284,Buffalo,American Eagle,floral dress,2025-03-07,Spring,501,88,107
+285,Buffalo,American Eagle,floral dress,2025-05-13,Spring,631,78,126
+286,Buffalo,American Eagle,graphic tee,2024-02-04,Winter,332,90,122
+287,Buffalo,American Eagle,graphic tee,2024-10-07,Autumn,545,83,195
+288,Buffalo,American Eagle,graphic tee,2025-01-09,Winter,290,125,278
+289,Buffalo,American Eagle,graphic tee,2025-05-18,Spring,349,113,208
+290,Buffalo,American Eagle,leather boots,2024-01-12,Winter,206,101,198
+291,Buffalo,American Eagle,leather boots,2024-04-10,Spring,576,87,188
+292,Buffalo,American Eagle,leather boots,2024-09-12,Autumn,280,84,131
+293,Buffalo,American Eagle,leather boots,2025-04-03,Spring,438,97,162
+294,Buffalo,American Eagle,linen shirt,2024-10-22,Autumn,535,113,187
+295,Buffalo,American Eagle,oversized hoodie,2024-02-09,Winter,653,128,317
+296,Buffalo,American Eagle,oversized hoodie,2024-05-09,Spring,492,79,105
+297,Buffalo,American Eagle,oversized hoodie,2024-09-23,Autumn,667,108,151
+298,Buffalo,American Eagle,oversized hoodie,2024-11-22,Autumn,389,90,129
+299,Buffalo,American Eagle,plaid shirt,2024-05-19,Spring,355,92,144
+300,Buffalo,American Eagle,plaid shirt,2024-06-07,Summer,626,100,173
+301,Buffalo,American Eagle,plaid shirt,2024-12-20,Winter,398,87,215
+302,Buffalo,American Eagle,puffer coat,2024-11-05,Autumn,308,96,236
+303,Buffalo,American Eagle,summer shorts,2024-02-01,Winter,562,86,199
+304,Buffalo,American Eagle,summer shorts,2024-12-05,Winter,265,91,129
+305,Buffalo,American Eagle,summer shorts,2025-01-26,Winter,231,111,229
+306,Buffalo,Forever 21,ankle boots,2024-04-17,Spring,464,101,196
+307,Buffalo,Forever 21,ankle boots,2024-11-07,Autumn,230,111,173
+308,Buffalo,Forever 21,ankle boots,2025-01-08,Winter,319,90,145
+309,Buffalo,Forever 21,ankle boots,2025-02-05,Winter,573,108,189
+310,Buffalo,Forever 21,cargo pants,2024-05-09,Spring,572,75,101
+311,Buffalo,Forever 21,cargo pants,2024-10-13,Autumn,527,100,199
+312,Buffalo,Forever 21,cargo pants,2025-04-13,Spring,519,109,152
+313,Buffalo,Forever 21,cargo pants,2025-05-27,Spring,604,75,136
+314,Buffalo,Forever 21,crop top,2025-04-24,Spring,523,90,147
+315,Buffalo,Forever 21,denim jacket,2024-01-05,Winter,282,100,137
+316,Buffalo,Forever 21,denim jacket,2024-07-09,Summer,431,115,176
+317,Buffalo,Forever 21,denim jacket,2024-08-25,Summer,457,91,189
+318,Buffalo,Forever 21,denim jacket,2024-10-19,Autumn,343,107,193
+319,Buffalo,Forever 21,floral dress,2024-03-25,Spring,653,121,209
+320,Buffalo,Forever 21,floral dress,2024-09-22,Autumn,550,108,246
+321,Buffalo,Forever 21,floral dress,2024-11-27,Autumn,472,96,235
+322,Buffalo,Forever 21,floral dress,2024-12-19,Winter,563,105,254
+323,Buffalo,Forever 21,graphic tee,2024-01-28,Winter,629,90,129
+324,Buffalo,Forever 21,graphic tee,2024-08-25,Summer,492,101,196
+325,Buffalo,Forever 21,graphic tee,2024-12-03,Winter,247,97,222
+326,Buffalo,Forever 21,graphic tee,2025-02-14,Winter,364,105,153
+327,Buffalo,Forever 21,leather boots,2024-06-17,Summer,567,93,131
+328,Buffalo,Forever 21,leather boots,2024-08-16,Summer,546,105,216
+329,Buffalo,Forever 21,leather boots,2024-09-08,Autumn,521,93,174
+330,Buffalo,Forever 21,linen shirt,2024-02-13,Winter,306,113,193
+331,Buffalo,Forever 21,linen shirt,2024-04-04,Spring,312,95,214
+332,Buffalo,Forever 21,linen shirt,2024-09-15,Autumn,732,69,124
+333,Buffalo,Forever 21,linen shirt,2025-03-28,Spring,418,84,133
+334,Buffalo,Forever 21,linen shirt,2025-05-26,Spring,534,100,150
+335,Buffalo,Forever 21,oversized hoodie,2024-02-04,Winter,316,125,296
+336,Buffalo,Forever 21,oversized hoodie,2024-03-26,Spring,657,112,266
+337,Buffalo,Forever 21,oversized hoodie,2024-04-16,Spring,477,66,132
+338,Buffalo,Forever 21,oversized hoodie,2024-06-22,Summer,675,77,106
+339,Buffalo,Forever 21,oversized hoodie,2024-07-22,Summer,539,117,261
+340,Buffalo,Forever 21,oversized hoodie,2025-01-16,Winter,537,109,257
+341,Buffalo,Forever 21,oversized hoodie,2025-02-12,Winter,292,134,298
+342,Buffalo,Forever 21,oversized hoodie,2025-03-15,Spring,622,93,141
+343,Buffalo,Forever 21,oversized hoodie,2025-05-06,Spring,629,87,188
+344,Buffalo,Forever 21,plaid shirt,2024-05-03,Spring,463,101,221
+345,Buffalo,Forever 21,plaid shirt,2024-07-22,Summer,222,92,215
+346,Buffalo,Forever 21,plaid shirt,2024-11-11,Autumn,198,115,154
+347,Buffalo,Forever 21,plaid shirt,2025-04-03,Spring,539,92,211
+348,Buffalo,Forever 21,puffer coat,2024-01-17,Winter,826,95,212
+349,Buffalo,Forever 21,puffer coat,2024-03-19,Spring,555,85,118
+350,Buffalo,Forever 21,puffer coat,2024-05-27,Spring,283,111,237
+351,Buffalo,Forever 21,puffer coat,2024-06-22,Summer,326,86,174
+352,Buffalo,Forever 21,puffer coat,2025-01-06,Winter,371,106,161
+353,Buffalo,Forever 21,puffer coat,2025-03-04,Spring,466,128,211
+354,Buffalo,Forever 21,summer shorts,2024-02-18,Winter,512,73,131
+355,Buffalo,Forever 21,summer shorts,2024-10-21,Autumn,234,122,296
+356,Buffalo,Forever 21,summer shorts,2024-12-24,Winter,299,104,193
+357,Buffalo,H&M,ankle boots,2024-01-16,Winter,273,83,165
+358,Buffalo,H&M,ankle boots,2024-04-02,Spring,603,101,212
+359,Buffalo,H&M,ankle boots,2024-09-06,Autumn,535,110,263
+360,Buffalo,H&M,ankle boots,2025-02-26,Winter,415,88,171
+361,Buffalo,H&M,cargo pants,2024-02-03,Winter,275,107,212
+362,Buffalo,H&M,cargo pants,2024-03-25,Spring,513,123,297
+363,Buffalo,H&M,cargo pants,2024-06-19,Summer,668,92,221
+364,Buffalo,H&M,cargo pants,2024-07-20,Summer,207,85,210
+365,Buffalo,H&M,cargo pants,2024-08-10,Summer,480,98,224
+366,Buffalo,H&M,cargo pants,2024-10-09,Autumn,694,100,196
+367,Buffalo,H&M,cargo pants,2025-01-06,Winter,495,116,199
+368,Buffalo,H&M,crop top,2024-05-10,Spring,590,97,217
+369,Buffalo,H&M,crop top,2024-10-13,Autumn,631,93,112
+370,Buffalo,H&M,crop top,2024-12-16,Winter,462,84,159
+371,Buffalo,H&M,crop top,2025-03-06,Spring,437,75,179
+372,Buffalo,H&M,denim jacket,2024-01-27,Winter,270,80,172
+373,Buffalo,H&M,denim jacket,2024-05-06,Spring,280,80,143
+374,Buffalo,H&M,denim jacket,2024-06-12,Summer,349,96,132
+375,Buffalo,H&M,denim jacket,2024-08-04,Summer,357,77,110
+376,Buffalo,H&M,denim jacket,2024-11-05,Autumn,539,59,140
+377,Buffalo,H&M,denim jacket,2025-05-13,Spring,277,99,165
+378,Buffalo,H&M,floral dress,2024-01-28,Winter,511,127,154
+379,Buffalo,H&M,floral dress,2024-03-06,Spring,576,116,239
+380,Buffalo,H&M,floral dress,2024-04-21,Spring,446,95,124
+381,Buffalo,H&M,floral dress,2024-06-14,Summer,513,83,207
+382,Buffalo,H&M,floral dress,2025-02-26,Winter,394,138,177
+383,Buffalo,H&M,floral dress,2025-03-24,Spring,662,100,217
+384,Buffalo,H&M,graphic tee,2024-10-25,Autumn,605,102,149
+385,Buffalo,H&M,graphic tee,2025-05-21,Spring,543,97,140
+386,Buffalo,H&M,leather boots,2024-12-05,Winter,357,99,191
+387,Buffalo,H&M,leather boots,2025-02-18,Winter,489,91,116
+388,Buffalo,H&M,leather boots,2025-03-14,Spring,684,96,180
+389,Buffalo,H&M,leather boots,2025-04-06,Spring,445,122,216
+390,Buffalo,H&M,linen shirt,2024-02-21,Winter,402,118,165
+391,Buffalo,H&M,linen shirt,2024-11-06,Autumn,651,68,97
+392,Buffalo,H&M,linen shirt,2025-01-21,Winter,391,78,158
+393,Buffalo,H&M,linen shirt,2025-04-13,Spring,238,88,152
+394,Buffalo,H&M,oversized hoodie,2024-04-05,Spring,536,114,140
+395,Buffalo,H&M,oversized hoodie,2024-07-03,Summer,493,119,177
+396,Buffalo,H&M,oversized hoodie,2024-08-28,Summer,611,110,134
+397,Buffalo,H&M,oversized hoodie,2024-09-04,Autumn,748,83,110
+398,Buffalo,H&M,oversized hoodie,2025-05-25,Spring,553,92,188
+399,Buffalo,H&M,plaid shirt,2024-05-05,Spring,450,107,161
+400,Buffalo,H&M,plaid shirt,2024-07-05,Summer,169,96,205
+401,Buffalo,H&M,plaid shirt,2024-11-04,Autumn,419,94,217
+402,Buffalo,H&M,plaid shirt,2025-04-22,Spring,236,94,194
+403,Buffalo,H&M,puffer coat,2024-03-06,Spring,348,117,171
+404,Buffalo,H&M,puffer coat,2024-12-23,Winter,285,108,131
+405,Buffalo,H&M,puffer coat,2025-01-15,Winter,544,95,124
+406,Buffalo,H&M,summer shorts,2024-02-21,Winter,289,104,181
+407,Buffalo,H&M,summer shorts,2024-09-12,Autumn,412,81,191
+408,Buffalo,Uniqlo,ankle boots,2024-02-24,Winter,670,92,141
+409,Buffalo,Uniqlo,ankle boots,2024-03-07,Spring,408,115,194
+410,Buffalo,Uniqlo,ankle boots,2024-05-25,Spring,396,76,152
+411,Buffalo,Uniqlo,ankle boots,2024-10-11,Autumn,366,109,188
+412,Buffalo,Uniqlo,ankle boots,2024-11-08,Autumn,593,68,107
+413,Buffalo,Uniqlo,ankle boots,2024-12-21,Winter,307,125,304
+414,Buffalo,Uniqlo,ankle boots,2025-03-05,Spring,249,91,211
+415,Buffalo,Uniqlo,ankle boots,2025-04-13,Spring,207,105,192
+416,Buffalo,Uniqlo,cargo pants,2024-01-15,Winter,494,101,177
+417,Buffalo,Uniqlo,cargo pants,2024-02-12,Winter,523,102,125
+418,Buffalo,Uniqlo,cargo pants,2024-05-21,Spring,276,104,210
+419,Buffalo,Uniqlo,cargo pants,2024-08-01,Summer,535,74,113
+420,Buffalo,Uniqlo,crop top,2024-03-02,Spring,707,102,252
+421,Buffalo,Uniqlo,crop top,2024-06-28,Summer,626,97,182
+422,Buffalo,Uniqlo,crop top,2024-07-28,Summer,478,91,111
+423,Buffalo,Uniqlo,crop top,2024-11-28,Autumn,592,88,210
+424,Buffalo,Uniqlo,crop top,2024-12-28,Winter,508,102,158
+425,Buffalo,Uniqlo,crop top,2025-05-25,Spring,261,85,163
+426,Buffalo,Uniqlo,denim jacket,2024-09-20,Autumn,484,115,168
+427,Buffalo,Uniqlo,denim jacket,2025-02-18,Winter,565,107,129
+428,Buffalo,Uniqlo,floral dress,2024-09-05,Autumn,408,103,204
+429,Buffalo,Uniqlo,floral dress,2024-10-04,Autumn,351,114,235
+430,Buffalo,Uniqlo,floral dress,2024-12-26,Winter,377,72,134
+431,Buffalo,Uniqlo,floral dress,2025-03-18,Spring,270,80,100
+432,Buffalo,Uniqlo,floral dress,2025-05-17,Spring,601,107,139
+433,Buffalo,Uniqlo,graphic tee,2024-02-16,Winter,299,89,176
+434,Buffalo,Uniqlo,graphic tee,2024-03-21,Spring,157,90,141
+435,Buffalo,Uniqlo,graphic tee,2024-09-04,Autumn,339,78,129
+436,Buffalo,Uniqlo,graphic tee,2025-01-17,Winter,585,85,164
+437,Buffalo,Uniqlo,leather boots,2024-01-01,Winter,627,115,209
+438,Buffalo,Uniqlo,leather boots,2024-07-20,Summer,461,107,230
+439,Buffalo,Uniqlo,leather boots,2025-04-12,Spring,300,102,150
+440,Buffalo,Uniqlo,linen shirt,2024-04-01,Spring,451,91,167
+441,Buffalo,Uniqlo,linen shirt,2024-06-02,Summer,426,101,199
+442,Buffalo,Uniqlo,linen shirt,2025-02-05,Winter,457,117,156
+443,Buffalo,Uniqlo,linen shirt,2025-04-11,Spring,217,89,115
+444,Buffalo,Uniqlo,linen shirt,2025-05-03,Spring,642,99,207
+445,Buffalo,Uniqlo,oversized hoodie,2024-05-07,Spring,262,126,222
+446,Buffalo,Uniqlo,oversized hoodie,2024-08-22,Summer,562,110,246
+447,Buffalo,Uniqlo,oversized hoodie,2025-01-19,Winter,682,91,191
+448,Buffalo,Uniqlo,oversized hoodie,2025-02-13,Winter,488,109,181
+449,Buffalo,Uniqlo,oversized hoodie,2025-03-06,Spring,450,76,100
+450,Buffalo,Uniqlo,plaid shirt,2024-01-10,Winter,497,98,141
+451,Buffalo,Uniqlo,plaid shirt,2024-06-02,Summer,455,109,207
+452,Buffalo,Uniqlo,plaid shirt,2024-07-21,Summer,382,105,236
+453,Buffalo,Uniqlo,plaid shirt,2024-11-12,Autumn,693,109,224
+454,Buffalo,Uniqlo,plaid shirt,2025-01-22,Winter,698,112,170
+455,Buffalo,Uniqlo,puffer coat,2024-04-26,Spring,449,106,194
+456,Buffalo,Uniqlo,puffer coat,2024-08-17,Summer,397,106,152
+457,Buffalo,Uniqlo,puffer coat,2024-10-27,Autumn,568,103,199
+458,Buffalo,Uniqlo,summer shorts,2024-04-05,Spring,617,83,199
+459,Buffalo,Zara,ankle boots,2024-05-13,Spring,397,115,283
+460,Buffalo,Zara,ankle boots,2024-08-05,Summer,214,99,229
+461,Buffalo,Zara,ankle boots,2024-10-04,Autumn,589,110,252
+462,Buffalo,Zara,ankle boots,2024-11-01,Autumn,314,114,142
+463,Buffalo,Zara,ankle boots,2025-02-03,Winter,709,92,181
+464,Buffalo,Zara,ankle boots,2025-03-02,Spring,636,93,120
+465,Buffalo,Zara,cargo pants,2024-03-07,Spring,529,95,199
+466,Buffalo,Zara,cargo pants,2024-05-02,Spring,443,118,151
+467,Buffalo,Zara,cargo pants,2024-06-08,Summer,651,86,138
+468,Buffalo,Zara,cargo pants,2024-09-23,Autumn,630,121,195
+469,Buffalo,Zara,cargo pants,2024-12-21,Winter,425,102,205
+470,Buffalo,Zara,cargo pants,2025-02-06,Winter,451,104,156
+471,Buffalo,Zara,cargo pants,2025-04-18,Spring,568,113,139
+472,Buffalo,Zara,crop top,2024-01-24,Winter,219,101,244
+473,Buffalo,Zara,crop top,2024-07-12,Summer,406,115,257
+474,Buffalo,Zara,crop top,2025-01-24,Winter,338,92,167
+475,Buffalo,Zara,crop top,2025-05-08,Spring,422,121,243
+476,Buffalo,Zara,denim jacket,2024-04-06,Spring,476,93,162
+477,Buffalo,Zara,denim jacket,2025-03-17,Spring,394,121,261
+478,Buffalo,Zara,denim jacket,2025-04-20,Spring,573,93,154
+479,Buffalo,Zara,floral dress,2024-01-08,Winter,309,95,149
+480,Buffalo,Zara,floral dress,2024-04-04,Spring,728,84,105
+481,Buffalo,Zara,floral dress,2024-06-02,Summer,484,88,107
+482,Buffalo,Zara,floral dress,2024-10-19,Autumn,374,99,168
+483,Buffalo,Zara,floral dress,2025-05-25,Spring,574,103,214
+484,Buffalo,Zara,graphic tee,2024-07-05,Summer,538,114,276
+485,Buffalo,Zara,graphic tee,2025-01-01,Winter,517,96,173
+486,Buffalo,Zara,leather boots,2024-03-24,Spring,191,83,206
+487,Buffalo,Zara,leather boots,2024-08-18,Summer,234,105,157
+488,Buffalo,Zara,leather boots,2024-09-08,Autumn,477,102,202
+489,Buffalo,Zara,leather boots,2025-03-14,Spring,697,107,199
+490,Buffalo,Zara,leather boots,2025-04-10,Spring,512,90,133
+491,Buffalo,Zara,linen shirt,2024-02-19,Winter,496,92,132
+492,Buffalo,Zara,linen shirt,2024-05-12,Spring,186,90,114
+493,Buffalo,Zara,linen shirt,2024-07-07,Summer,632,117,287
+494,Buffalo,Zara,linen shirt,2024-10-12,Autumn,443,121,254
+495,Buffalo,Zara,linen shirt,2025-01-26,Winter,534,91,127
+496,Buffalo,Zara,linen shirt,2025-05-01,Spring,349,91,135
+497,Buffalo,Zara,oversized hoodie,2024-02-17,Winter,345,109,206
+498,Buffalo,Zara,oversized hoodie,2024-12-02,Winter,487,123,162
+499,Buffalo,Zara,oversized hoodie,2025-02-24,Winter,305,126,294
+500,Buffalo,Zara,plaid shirt,2024-02-08,Winter,461,90,211
+501,Buffalo,Zara,plaid shirt,2024-03-18,Spring,362,94,229
+502,Buffalo,Zara,plaid shirt,2024-11-15,Autumn,219,104,213
+503,Buffalo,Zara,puffer coat,2024-08-19,Summer,414,105,201
+504,Buffalo,Zara,puffer coat,2024-11-02,Autumn,408,97,163
+505,Buffalo,Zara,puffer coat,2024-12-06,Winter,367,88,135
+506,Buffalo,Zara,summer shorts,2024-01-15,Winter,236,99,129
+507,Buffalo,Zara,summer shorts,2024-04-16,Spring,222,126,187
+508,Buffalo,Zara,summer shorts,2024-06-17,Summer,375,92,212
+509,Buffalo,Zara,summer shorts,2024-09-08,Autumn,241,103,189
+510,Madison,American Eagle,ankle boots,2024-04-17,Spring,572,112,254
+511,Madison,American Eagle,ankle boots,2024-09-11,Autumn,424,67,110
+512,Madison,American Eagle,ankle boots,2025-02-07,Winter,323,85,131
+513,Madison,American Eagle,ankle boots,2025-04-04,Spring,568,102,238
+514,Madison,American Eagle,ankle boots,2025-05-26,Spring,444,83,191
+515,Madison,American Eagle,cargo pants,2024-09-12,Autumn,368,91,211
+516,Madison,American Eagle,crop top,2024-03-05,Spring,276,87,183
+517,Madison,American Eagle,crop top,2024-06-18,Summer,446,82,170
+518,Madison,American Eagle,crop top,2025-02-06,Winter,290,95,133
+519,Madison,American Eagle,crop top,2025-04-27,Spring,613,84,196
+520,Madison,American Eagle,denim jacket,2024-06-22,Summer,423,72,117
+521,Madison,American Eagle,denim jacket,2024-08-13,Summer,586,77,166
+522,Madison,American Eagle,denim jacket,2024-10-17,Autumn,289,80,182
+523,Madison,American Eagle,denim jacket,2024-11-13,Autumn,558,69,128
+524,Madison,American Eagle,floral dress,2024-02-26,Winter,459,77,155
+525,Madison,American Eagle,floral dress,2024-05-05,Spring,765,75,115
+526,Madison,American Eagle,floral dress,2024-08-02,Summer,645,84,185
+527,Madison,American Eagle,floral dress,2025-03-24,Spring,544,107,143
+528,Madison,American Eagle,floral dress,2025-05-24,Spring,757,78,191
+529,Madison,American Eagle,graphic tee,2024-02-15,Winter,447,98,161
+530,Madison,American Eagle,graphic tee,2024-05-03,Spring,343,84,111
+531,Madison,American Eagle,graphic tee,2024-12-04,Winter,524,77,186
+532,Madison,American Eagle,graphic tee,2025-02-01,Winter,623,68,108
+533,Madison,American Eagle,graphic tee,2025-03-22,Spring,461,77,163
+534,Madison,American Eagle,leather boots,2024-07-19,Summer,416,76,125
+535,Madison,American Eagle,leather boots,2025-03-10,Spring,458,64,128
+536,Madison,American Eagle,leather boots,2025-04-21,Spring,301,66,144
+537,Madison,American Eagle,linen shirt,2024-01-15,Winter,179,80,98
+538,Madison,American Eagle,linen shirt,2024-03-21,Spring,446,98,204
+539,Madison,American Eagle,linen shirt,2024-04-16,Spring,391,74,131
+540,Madison,American Eagle,linen shirt,2024-08-17,Summer,262,53,74
+541,Madison,American Eagle,linen shirt,2024-10-14,Autumn,182,42,93
+542,Madison,American Eagle,linen shirt,2025-01-27,Winter,280,59,77
+543,Madison,American Eagle,oversized hoodie,2024-04-15,Spring,401,85,177
+544,Madison,American Eagle,oversized hoodie,2024-12-01,Winter,383,55,133
+545,Madison,American Eagle,plaid shirt,2024-01-17,Winter,531,88,122
+546,Madison,American Eagle,plaid shirt,2024-06-10,Summer,368,84,146
+547,Madison,American Eagle,plaid shirt,2024-07-28,Summer,618,73,148
+548,Madison,American Eagle,plaid shirt,2024-09-08,Autumn,463,52,128
+549,Madison,American Eagle,plaid shirt,2024-10-25,Autumn,640,64,110
+550,Madison,American Eagle,plaid shirt,2024-11-07,Autumn,524,71,104
+551,Madison,American Eagle,plaid shirt,2025-01-10,Winter,547,80,99
+552,Madison,American Eagle,puffer coat,2024-11-15,Autumn,557,56,130
+553,Madison,American Eagle,puffer coat,2025-01-05,Winter,523,96,174
+554,Madison,American Eagle,puffer coat,2025-05-05,Spring,353,80,176
+555,Madison,American Eagle,summer shorts,2024-01-15,Winter,494,81,186
+556,Madison,American Eagle,summer shorts,2024-02-05,Winter,294,84,115
+557,Madison,American Eagle,summer shorts,2024-03-23,Spring,375,94,116
+558,Madison,American Eagle,summer shorts,2024-05-03,Spring,512,77,172
+559,Madison,American Eagle,summer shorts,2024-07-15,Summer,707,85,155
+560,Madison,American Eagle,summer shorts,2024-12-12,Winter,246,64,93
+561,Madison,Forever 21,ankle boots,2024-04-24,Spring,254,102,187
+562,Madison,Forever 21,ankle boots,2024-05-23,Spring,619,76,117
+563,Madison,Forever 21,ankle boots,2024-10-09,Autumn,669,64,143
+564,Madison,Forever 21,ankle boots,2024-12-27,Winter,457,68,82
+565,Madison,Forever 21,ankle boots,2025-01-06,Winter,555,46,59
+566,Madison,Forever 21,ankle boots,2025-03-27,Spring,677,68,134
+567,Madison,Forever 21,cargo pants,2024-03-26,Spring,585,38,60
+568,Madison,Forever 21,cargo pants,2024-04-21,Spring,481,86,190
+569,Madison,Forever 21,cargo pants,2024-06-13,Summer,188,81,101
+570,Madison,Forever 21,cargo pants,2024-10-06,Autumn,355,60,90
+571,Madison,Forever 21,cargo pants,2024-12-25,Winter,260,74,183
+572,Madison,Forever 21,cargo pants,2025-01-16,Winter,661,74,148
+573,Madison,Forever 21,cargo pants,2025-03-08,Spring,632,57,120
+574,Madison,Forever 21,crop top,2024-01-05,Winter,442,71,115
+575,Madison,Forever 21,crop top,2024-08-21,Summer,445,75,140
+576,Madison,Forever 21,crop top,2025-02-03,Winter,366,71,88
+577,Madison,Forever 21,denim jacket,2024-02-20,Winter,541,64,83
+578,Madison,Forever 21,denim jacket,2024-07-22,Summer,450,59,114
+579,Madison,Forever 21,denim jacket,2024-09-28,Autumn,612,70,146
+580,Madison,Forever 21,denim jacket,2025-05-12,Spring,495,66,93
+581,Madison,Forever 21,floral dress,2024-03-20,Spring,448,83,110
+582,Madison,Forever 21,floral dress,2024-05-12,Spring,557,95,117
+583,Madison,Forever 21,floral dress,2024-07-12,Summer,232,88,212
+584,Madison,Forever 21,floral dress,2024-11-15,Autumn,607,75,159
+585,Madison,Forever 21,floral dress,2025-02-02,Winter,273,65,151
+586,Madison,Forever 21,floral dress,2025-04-16,Spring,797,88,144
+587,Madison,Forever 21,graphic tee,2024-08-12,Summer,500,84,189
+588,Madison,Forever 21,graphic tee,2024-09-10,Autumn,662,94,168
+589,Madison,Forever 21,graphic tee,2024-11-06,Autumn,211,77,156
+590,Madison,Forever 21,linen shirt,2024-01-23,Winter,533,101,131
+591,Madison,Forever 21,linen shirt,2024-04-13,Spring,476,77,98
+592,Madison,Forever 21,linen shirt,2024-09-05,Autumn,202,65,151
+593,Madison,Forever 21,linen shirt,2024-10-01,Autumn,257,67,99
+594,Madison,Forever 21,linen shirt,2024-12-24,Winter,227,82,168
+595,Madison,Forever 21,linen shirt,2025-04-05,Spring,558,66,121
+596,Madison,Forever 21,linen shirt,2025-05-09,Spring,701,100,149
+597,Madison,Forever 21,oversized hoodie,2024-06-18,Summer,606,81,202
+598,Madison,Forever 21,oversized hoodie,2025-02-23,Winter,176,75,109
+599,Madison,Forever 21,plaid shirt,2024-01-05,Winter,336,76,158
+600,Madison,Forever 21,plaid shirt,2024-02-15,Winter,602,71,165
+601,Madison,Forever 21,plaid shirt,2024-03-20,Spring,627,49,105
+602,Madison,Forever 21,plaid shirt,2024-08-14,Summer,390,67,110
+603,Madison,Forever 21,plaid shirt,2025-01-21,Winter,366,98,164
+604,Madison,Forever 21,puffer coat,2024-05-01,Spring,410,78,138
+605,Madison,Forever 21,puffer coat,2024-06-04,Summer,665,90,192
+606,Madison,Forever 21,puffer coat,2024-07-03,Summer,310,91,215
+607,Madison,Forever 21,puffer coat,2025-03-26,Spring,231,74,129
+608,Madison,Forever 21,puffer coat,2025-04-21,Spring,450,84,200
+609,Madison,Forever 21,puffer coat,2025-05-05,Spring,194,51,75
+610,Madison,Forever 21,summer shorts,2024-02-19,Winter,599,97,208
+611,Madison,Forever 21,summer shorts,2024-11-01,Autumn,233,95,130
+612,Madison,H&M,ankle boots,2024-03-13,Spring,347,82,117
+613,Madison,H&M,ankle boots,2024-05-03,Spring,196,78,117
+614,Madison,H&M,ankle boots,2024-06-17,Summer,508,74,112
+615,Madison,H&M,ankle boots,2024-10-03,Autumn,235,92,214
+616,Madison,H&M,ankle boots,2024-11-20,Autumn,414,86,143
+617,Madison,H&M,cargo pants,2024-08-24,Summer,383,32,63
+618,Madison,H&M,cargo pants,2024-09-15,Autumn,262,69,169
+619,Madison,H&M,cargo pants,2025-01-11,Winter,253,58,89
+620,Madison,H&M,cargo pants,2025-05-21,Spring,390,55,121
+621,Madison,H&M,crop top,2024-01-15,Winter,438,92,126
+622,Madison,H&M,crop top,2024-02-12,Winter,194,74,111
+623,Madison,H&M,crop top,2024-04-09,Spring,469,82,106
+624,Madison,H&M,crop top,2024-07-26,Summer,483,76,124
+625,Madison,H&M,crop top,2024-11-07,Autumn,424,55,125
+626,Madison,H&M,denim jacket,2024-01-05,Winter,620,51,102
+627,Madison,H&M,denim jacket,2024-12-01,Winter,240,68,144
+628,Madison,H&M,denim jacket,2025-04-15,Spring,549,69,86
+629,Madison,H&M,floral dress,2024-02-11,Winter,397,69,148
+630,Madison,H&M,floral dress,2024-08-08,Summer,619,70,160
+631,Madison,H&M,floral dress,2025-05-11,Spring,737,106,238
+632,Madison,H&M,graphic tee,2024-01-12,Winter,581,90,132
+633,Madison,H&M,graphic tee,2024-03-01,Spring,248,78,104
+634,Madison,H&M,graphic tee,2024-06-12,Summer,582,73,138
+635,Madison,H&M,graphic tee,2024-09-03,Autumn,227,74,178
+636,Madison,H&M,graphic tee,2024-10-26,Autumn,338,85,136
+637,Madison,H&M,graphic tee,2024-12-01,Winter,503,73,135
+638,Madison,H&M,graphic tee,2025-01-05,Winter,469,88,157
+639,Madison,H&M,leather boots,2024-02-23,Winter,421,80,149
+640,Madison,H&M,leather boots,2024-08-24,Summer,303,106,146
+641,Madison,H&M,leather boots,2024-11-14,Autumn,693,72,89
+642,Madison,H&M,leather boots,2024-12-22,Winter,313,91,133
+643,Madison,H&M,leather boots,2025-02-06,Winter,650,59,122
+644,Madison,H&M,linen shirt,2024-05-13,Spring,347,65,151
+645,Madison,H&M,linen shirt,2024-07-12,Summer,430,103,147
+646,Madison,H&M,linen shirt,2024-09-11,Autumn,370,88,213
+647,Madison,H&M,linen shirt,2025-02-04,Winter,572,82,171
+648,Madison,H&M,linen shirt,2025-03-08,Spring,193,111,258
+649,Madison,H&M,oversized hoodie,2024-04-03,Spring,286,74,143
+650,Madison,H&M,oversized hoodie,2024-06-04,Summer,651,91,134
+651,Madison,H&M,oversized hoodie,2025-04-22,Spring,253,92,189
+652,Madison,H&M,plaid shirt,2024-05-01,Spring,624,99,132
+653,Madison,H&M,plaid shirt,2024-07-06,Summer,379,57,117
+654,Madison,H&M,plaid shirt,2024-10-11,Autumn,531,74,172
+655,Madison,H&M,plaid shirt,2025-03-02,Spring,399,79,175
+656,Madison,H&M,puffer coat,2024-03-26,Spring,503,99,231
+657,Madison,H&M,puffer coat,2024-04-22,Spring,417,81,139
+658,Madison,H&M,puffer coat,2025-01-07,Winter,413,92,207
+659,Madison,H&M,summer shorts,2025-02-07,Winter,273,56,122
+660,Madison,H&M,summer shorts,2025-03-07,Spring,346,70,158
+661,Madison,H&M,summer shorts,2025-04-04,Spring,616,95,128
+662,Madison,H&M,summer shorts,2025-05-12,Spring,587,72,116
+663,Madison,Uniqlo,ankle boots,2024-03-24,Spring,258,75,125
+664,Madison,Uniqlo,ankle boots,2024-05-23,Spring,379,98,167
+665,Madison,Uniqlo,ankle boots,2024-07-03,Summer,236,62,110
+666,Madison,Uniqlo,ankle boots,2025-03-02,Spring,226,65,97
+667,Madison,Uniqlo,cargo pants,2025-01-14,Winter,645,55,71
+668,Madison,Uniqlo,cargo pants,2025-04-03,Spring,256,99,198
+669,Madison,Uniqlo,crop top,2024-10-18,Autumn,509,90,162
+670,Madison,Uniqlo,crop top,2025-02-26,Winter,245,89,166
+671,Madison,Uniqlo,crop top,2025-04-17,Spring,250,70,127
+672,Madison,Uniqlo,denim jacket,2024-02-04,Winter,355,54,105
+673,Madison,Uniqlo,denim jacket,2024-03-10,Spring,299,50,94
+674,Madison,Uniqlo,denim jacket,2024-06-04,Summer,570,95,214
+675,Madison,Uniqlo,denim jacket,2024-08-07,Summer,226,83,177
+676,Madison,Uniqlo,denim jacket,2024-11-02,Autumn,368,86,130
+677,Madison,Uniqlo,floral dress,2024-05-23,Spring,273,79,190
+678,Madison,Uniqlo,floral dress,2024-09-02,Autumn,266,63,115
+679,Madison,Uniqlo,floral dress,2024-10-09,Autumn,623,70,107
+680,Madison,Uniqlo,floral dress,2024-11-21,Autumn,427,60,134
+681,Madison,Uniqlo,floral dress,2025-01-04,Winter,581,58,110
+682,Madison,Uniqlo,floral dress,2025-02-23,Winter,348,88,187
+683,Madison,Uniqlo,graphic tee,2024-05-16,Spring,322,51,79
+684,Madison,Uniqlo,graphic tee,2024-07-06,Summer,446,60,86
+685,Madison,Uniqlo,graphic tee,2024-09-22,Autumn,270,71,148
+686,Madison,Uniqlo,graphic tee,2024-10-17,Autumn,448,76,161
+687,Madison,Uniqlo,graphic tee,2025-05-24,Spring,193,54,72
+688,Madison,Uniqlo,leather boots,2024-01-13,Winter,657,51,125
+689,Madison,Uniqlo,leather boots,2024-08-11,Summer,448,81,148
+690,Madison,Uniqlo,linen shirt,2024-01-12,Winter,424,78,98
+691,Madison,Uniqlo,linen shirt,2024-03-27,Spring,562,95,192
+692,Madison,Uniqlo,linen shirt,2024-04-08,Spring,196,76,172
+693,Madison,Uniqlo,linen shirt,2024-06-23,Summer,206,83,195
+694,Madison,Uniqlo,linen shirt,2024-09-26,Autumn,453,64,127
+695,Madison,Uniqlo,linen shirt,2025-01-28,Winter,585,65,112
+696,Madison,Uniqlo,linen shirt,2025-05-15,Spring,231,56,124
+697,Madison,Uniqlo,oversized hoodie,2024-02-07,Winter,530,64,99
+698,Madison,Uniqlo,oversized hoodie,2024-04-05,Spring,348,70,144
+699,Madison,Uniqlo,oversized hoodie,2025-02-04,Winter,230,93,123
+700,Madison,Uniqlo,oversized hoodie,2025-04-23,Spring,455,62,121
+701,Madison,Uniqlo,plaid shirt,2024-06-02,Summer,332,107,151
+702,Madison,Uniqlo,plaid shirt,2024-11-11,Autumn,372,84,124
+703,Madison,Uniqlo,plaid shirt,2024-12-12,Winter,651,81,107
+704,Madison,Uniqlo,plaid shirt,2025-03-25,Spring,598,75,149
+705,Madison,Uniqlo,puffer coat,2024-01-22,Winter,613,72,137
+706,Madison,Uniqlo,puffer coat,2024-02-17,Winter,389,66,130
+707,Madison,Uniqlo,puffer coat,2024-04-10,Spring,417,54,99
+708,Madison,Uniqlo,puffer coat,2024-08-07,Summer,299,62,108
+709,Madison,Uniqlo,puffer coat,2024-12-21,Winter,703,99,211
+710,Madison,Uniqlo,summer shorts,2024-07-14,Summer,557,83,129
+711,Madison,Uniqlo,summer shorts,2024-12-13,Winter,343,99,129
+712,Madison,Uniqlo,summer shorts,2025-03-15,Spring,630,66,98
+713,Madison,Uniqlo,summer shorts,2025-05-06,Spring,662,59,98
+714,Madison,Zara,ankle boots,2024-03-12,Spring,509,75,96
+715,Madison,Zara,ankle boots,2024-06-15,Summer,672,63,141
+716,Madison,Zara,cargo pants,2024-02-21,Winter,704,78,182
+717,Madison,Zara,cargo pants,2024-05-05,Spring,470,51,104
+718,Madison,Zara,cargo pants,2024-11-08,Autumn,580,45,73
+719,Madison,Zara,cargo pants,2024-12-10,Winter,597,80,165
+720,Madison,Zara,cargo pants,2025-02-26,Winter,538,100,180
+721,Madison,Zara,cargo pants,2025-05-04,Spring,291,81,103
+722,Madison,Zara,crop top,2024-01-10,Winter,624,83,118
+723,Madison,Zara,crop top,2024-05-25,Spring,689,76,159
+724,Madison,Zara,crop top,2024-08-10,Summer,615,77,102
+725,Madison,Zara,denim jacket,2024-04-09,Spring,309,53,94
+726,Madison,Zara,floral dress,2024-04-08,Spring,809,63,130
+727,Madison,Zara,floral dress,2024-12-08,Winter,510,93,207
+728,Madison,Zara,floral dress,2025-01-23,Winter,445,58,144
+729,Madison,Zara,floral dress,2025-04-13,Spring,463,70,168
+730,Madison,Zara,graphic tee,2024-01-02,Winter,427,93,174
+731,Madison,Zara,graphic tee,2024-02-09,Winter,530,77,154
+732,Madison,Zara,graphic tee,2024-03-24,Spring,358,77,105
+733,Madison,Zara,graphic tee,2024-07-20,Summer,529,70,159
+734,Madison,Zara,graphic tee,2024-10-07,Autumn,234,85,105
+735,Madison,Zara,graphic tee,2025-02-10,Winter,334,89,141
+736,Madison,Zara,leather boots,2024-07-09,Summer,599,63,82
+737,Madison,Zara,leather boots,2024-08-10,Summer,698,55,132
+738,Madison,Zara,leather boots,2024-09-28,Autumn,692,47,80
+739,Madison,Zara,leather boots,2024-10-20,Autumn,689,82,146
+740,Madison,Zara,leather boots,2024-12-10,Winter,219,80,191
+741,Madison,Zara,linen shirt,2024-04-08,Spring,590,112,206
+742,Madison,Zara,linen shirt,2024-06-01,Summer,401,76,128
+743,Madison,Zara,linen shirt,2024-10-09,Autumn,496,73,170
+744,Madison,Zara,linen shirt,2024-11-26,Autumn,315,79,175
+745,Madison,Zara,linen shirt,2025-03-07,Spring,530,79,126
+746,Madison,Zara,linen shirt,2025-04-10,Spring,289,72,102
+747,Madison,Zara,linen shirt,2025-05-01,Spring,660,63,132
+748,Madison,Zara,oversized hoodie,2024-02-02,Winter,207,75,152
+749,Madison,Zara,oversized hoodie,2024-07-16,Summer,601,74,167
+750,Madison,Zara,oversized hoodie,2024-08-11,Summer,329,74,147
+751,Madison,Zara,oversized hoodie,2024-09-07,Autumn,708,87,190
+752,Madison,Zara,oversized hoodie,2025-01-17,Winter,410,75,128
+753,Madison,Zara,oversized hoodie,2025-03-23,Spring,418,55,76
+754,Madison,Zara,plaid shirt,2024-06-16,Summer,403,65,80
+755,Madison,Zara,plaid shirt,2025-03-15,Spring,591,72,99
+756,Madison,Zara,plaid shirt,2025-04-17,Spring,184,75,184
+757,Madison,Zara,puffer coat,2025-01-21,Winter,399,82,144
+758,Madison,Zara,summer shorts,2024-01-04,Winter,200,75,132
+759,Madison,Zara,summer shorts,2024-03-14,Spring,654,45,60
+760,Madison,Zara,summer shorts,2024-05-04,Spring,503,56,112
+761,Madison,Zara,summer shorts,2024-09-10,Autumn,521,83,169
+762,Madison,Zara,summer shorts,2024-11-20,Autumn,255,71,90
+763,Madison,Zara,summer shorts,2025-02-27,Winter,510,97,241
+764,Madison,Zara,summer shorts,2025-05-11,Spring,268,77,190
+765,Raleigh,American Eagle,ankle boots,2024-06-19,Summer,492,69,104
+766,Raleigh,American Eagle,ankle boots,2024-07-21,Summer,201,65,136
+767,Raleigh,American Eagle,ankle boots,2024-11-16,Autumn,470,70,89
+768,Raleigh,American Eagle,cargo pants,2024-01-20,Winter,370,77,173
+769,Raleigh,American Eagle,cargo pants,2024-02-08,Winter,491,75,149
+770,Raleigh,American Eagle,cargo pants,2024-03-02,Spring,658,89,167
+771,Raleigh,American Eagle,cargo pants,2025-02-23,Winter,339,52,91
+772,Raleigh,American Eagle,cargo pants,2025-04-15,Spring,244,54,90
+773,Raleigh,American Eagle,crop top,2024-04-14,Spring,615,71,123
+774,Raleigh,American Eagle,crop top,2024-06-09,Summer,223,83,182
+775,Raleigh,American Eagle,crop top,2024-11-19,Autumn,644,86,104
+776,Raleigh,American Eagle,crop top,2024-12-25,Winter,412,66,80
+777,Raleigh,American Eagle,crop top,2025-01-19,Winter,224,36,55
+778,Raleigh,American Eagle,crop top,2025-03-25,Spring,653,66,125
+779,Raleigh,American Eagle,crop top,2025-05-13,Spring,640,80,118
+780,Raleigh,American Eagle,denim jacket,2024-03-19,Spring,161,74,99
+781,Raleigh,American Eagle,denim jacket,2024-08-07,Summer,481,83,158
+782,Raleigh,American Eagle,denim jacket,2024-10-03,Autumn,313,92,122
+783,Raleigh,American Eagle,denim jacket,2025-02-09,Winter,173,72,132
+784,Raleigh,American Eagle,denim jacket,2025-03-19,Spring,426,68,146
+785,Raleigh,American Eagle,floral dress,2024-05-04,Spring,552,61,110
+786,Raleigh,American Eagle,floral dress,2024-08-25,Summer,509,54,97
+787,Raleigh,American Eagle,floral dress,2024-10-16,Autumn,377,50,111
+788,Raleigh,American Eagle,floral dress,2025-01-24,Winter,219,64,134
+789,Raleigh,American Eagle,floral dress,2025-05-11,Spring,391,90,159
+790,Raleigh,American Eagle,graphic tee,2024-01-20,Winter,646,85,106
+791,Raleigh,American Eagle,leather boots,2024-02-22,Winter,413,67,158
+792,Raleigh,American Eagle,leather boots,2024-04-26,Spring,221,107,220
+793,Raleigh,American Eagle,leather boots,2024-05-08,Spring,316,65,153
+794,Raleigh,American Eagle,leather boots,2024-07-19,Summer,313,94,120
+795,Raleigh,American Eagle,leather boots,2024-11-08,Autumn,647,98,183
+796,Raleigh,American Eagle,leather boots,2025-05-09,Spring,447,81,151
+797,Raleigh,American Eagle,linen shirt,2024-02-27,Winter,269,64,133
+798,Raleigh,American Eagle,linen shirt,2024-04-16,Spring,267,69,89
+799,Raleigh,American Eagle,linen shirt,2024-05-13,Spring,481,77,93
+800,Raleigh,American Eagle,linen shirt,2024-08-10,Summer,180,54,89
+801,Raleigh,American Eagle,linen shirt,2024-09-22,Autumn,654,60,132
+802,Raleigh,American Eagle,linen shirt,2025-02-05,Winter,185,59,84
+803,Raleigh,American Eagle,oversized hoodie,2024-06-14,Summer,333,83,110
+804,Raleigh,American Eagle,oversized hoodie,2024-07-24,Summer,421,92,142
+805,Raleigh,American Eagle,oversized hoodie,2024-12-27,Winter,301,85,104
+806,Raleigh,American Eagle,oversized hoodie,2025-04-25,Spring,356,89,179
+807,Raleigh,American Eagle,plaid shirt,2024-09-19,Autumn,287,63,106
+808,Raleigh,American Eagle,plaid shirt,2024-10-13,Autumn,207,70,139
+809,Raleigh,American Eagle,plaid shirt,2024-12-11,Winter,415,71,156
+810,Raleigh,American Eagle,plaid shirt,2025-01-17,Winter,393,81,101
+811,Raleigh,American Eagle,puffer coat,2024-09-10,Autumn,227,107,263
+812,Raleigh,American Eagle,summer shorts,2024-01-23,Winter,275,65,160
+813,Raleigh,American Eagle,summer shorts,2024-03-24,Spring,439,88,174
+814,Raleigh,American Eagle,summer shorts,2025-03-24,Spring,193,97,218
+815,Raleigh,American Eagle,summer shorts,2025-04-03,Spring,500,82,168
+816,Raleigh,Forever 21,ankle boots,2024-03-09,Spring,373,69,166
+817,Raleigh,Forever 21,ankle boots,2024-09-09,Autumn,601,62,92
+818,Raleigh,Forever 21,ankle boots,2024-10-13,Autumn,469,59,104
+819,Raleigh,Forever 21,ankle boots,2025-03-03,Spring,654,45,89
+820,Raleigh,Forever 21,cargo pants,2024-09-21,Autumn,243,71,167
+821,Raleigh,Forever 21,cargo pants,2024-12-27,Winter,499,70,142
+822,Raleigh,Forever 21,cargo pants,2025-03-28,Spring,423,87,201
+823,Raleigh,Forever 21,crop top,2024-02-13,Winter,373,66,151
+824,Raleigh,Forever 21,crop top,2024-06-20,Summer,399,72,157
+825,Raleigh,Forever 21,crop top,2024-11-14,Autumn,588,79,142
+826,Raleigh,Forever 21,crop top,2025-01-04,Winter,571,82,181
+827,Raleigh,Forever 21,crop top,2025-03-08,Spring,282,86,176
+828,Raleigh,Forever 21,crop top,2025-05-04,Spring,585,77,190
+829,Raleigh,Forever 21,denim jacket,2024-03-06,Spring,272,55,133
+830,Raleigh,Forever 21,denim jacket,2024-05-12,Spring,590,80,181
+831,Raleigh,Forever 21,denim jacket,2024-07-06,Summer,583,65,96
+832,Raleigh,Forever 21,denim jacket,2024-08-02,Summer,662,93,200
+833,Raleigh,Forever 21,denim jacket,2025-02-19,Winter,297,75,142
+834,Raleigh,Forever 21,denim jacket,2025-05-16,Spring,657,78,123
+835,Raleigh,Forever 21,floral dress,2024-03-01,Spring,691,114,220
+836,Raleigh,Forever 21,floral dress,2024-10-28,Autumn,269,86,174
+837,Raleigh,Forever 21,floral dress,2025-04-28,Spring,607,80,175
+838,Raleigh,Forever 21,graphic tee,2024-01-14,Winter,606,72,87
+839,Raleigh,Forever 21,graphic tee,2025-05-26,Spring,357,56,85
+840,Raleigh,Forever 21,leather boots,2024-05-02,Spring,292,71,159
+841,Raleigh,Forever 21,leather boots,2024-08-04,Summer,345,62,90
+842,Raleigh,Forever 21,leather boots,2024-10-08,Autumn,496,100,200
+843,Raleigh,Forever 21,leather boots,2025-02-09,Winter,474,80,115
+844,Raleigh,Forever 21,linen shirt,2024-07-05,Summer,397,92,176
+845,Raleigh,Forever 21,linen shirt,2025-04-11,Spring,359,65,78
+846,Raleigh,Forever 21,oversized hoodie,2024-01-06,Winter,589,63,154
+847,Raleigh,Forever 21,oversized hoodie,2024-02-12,Winter,263,84,140
+848,Raleigh,Forever 21,oversized hoodie,2024-04-19,Spring,477,61,97
+849,Raleigh,Forever 21,oversized hoodie,2024-06-26,Summer,610,68,159
+850,Raleigh,Forever 21,oversized hoodie,2024-11-25,Autumn,728,100,235
+851,Raleigh,Forever 21,plaid shirt,2024-05-25,Spring,397,69,135
+852,Raleigh,Forever 21,plaid shirt,2024-11-15,Autumn,511,53,111
+853,Raleigh,Forever 21,puffer coat,2024-01-07,Winter,515,48,57
+854,Raleigh,Forever 21,puffer coat,2024-04-18,Spring,658,52,116
+855,Raleigh,Forever 21,puffer coat,2024-06-02,Summer,557,93,122
+856,Raleigh,Forever 21,puffer coat,2024-07-08,Summer,239,66,134
+857,Raleigh,Forever 21,puffer coat,2024-12-07,Winter,330,113,145
+858,Raleigh,Forever 21,puffer coat,2025-01-14,Winter,448,98,189
+859,Raleigh,Forever 21,puffer coat,2025-02-24,Winter,507,105,208
+860,Raleigh,Forever 21,puffer coat,2025-04-26,Spring,302,90,139
+861,Raleigh,Forever 21,summer shorts,2024-02-06,Winter,252,83,188
+862,Raleigh,Forever 21,summer shorts,2024-04-01,Spring,639,62,79
+863,Raleigh,Forever 21,summer shorts,2024-08-13,Summer,531,74,120
+864,Raleigh,Forever 21,summer shorts,2024-09-11,Autumn,644,85,189
+865,Raleigh,Forever 21,summer shorts,2024-12-12,Winter,487,89,166
+866,Raleigh,Forever 21,summer shorts,2025-01-10,Winter,563,57,92
+867,Raleigh,H&M,ankle boots,2024-02-06,Winter,253,72,127
+868,Raleigh,H&M,cargo pants,2024-02-19,Winter,657,73,144
+869,Raleigh,H&M,cargo pants,2024-03-20,Spring,549,73,157
+870,Raleigh,H&M,cargo pants,2024-05-16,Spring,473,59,119
+871,Raleigh,H&M,cargo pants,2024-08-06,Summer,297,102,226
+872,Raleigh,H&M,cargo pants,2024-10-24,Autumn,536,71,162
+873,Raleigh,H&M,cargo pants,2025-03-06,Spring,551,60,101
+874,Raleigh,H&M,cargo pants,2025-04-10,Spring,361,103,148
+875,Raleigh,H&M,crop top,2024-01-20,Winter,668,98,163
+876,Raleigh,H&M,crop top,2024-04-13,Spring,296,77,122
+877,Raleigh,H&M,crop top,2024-09-01,Autumn,635,48,116
+878,Raleigh,H&M,crop top,2024-10-04,Autumn,338,68,158
+879,Raleigh,H&M,crop top,2024-11-19,Autumn,599,51,117
+880,Raleigh,H&M,crop top,2024-12-12,Winter,668,82,147
+881,Raleigh,H&M,crop top,2025-01-21,Winter,526,67,122
+882,Raleigh,H&M,denim jacket,2024-01-27,Winter,323,74,130
+883,Raleigh,H&M,denim jacket,2024-07-06,Summer,521,101,216
+884,Raleigh,H&M,denim jacket,2024-08-20,Summer,343,65,129
+885,Raleigh,H&M,denim jacket,2024-11-05,Autumn,581,82,112
+886,Raleigh,H&M,denim jacket,2024-12-17,Winter,456,86,210
+887,Raleigh,H&M,denim jacket,2025-04-25,Spring,213,93,119
+888,Raleigh,H&M,denim jacket,2025-05-05,Spring,613,73,112
+889,Raleigh,H&M,floral dress,2024-02-03,Winter,384,71,107
+890,Raleigh,H&M,floral dress,2024-06-03,Summer,190,71,110
+891,Raleigh,H&M,floral dress,2024-07-05,Summer,610,80,174
+892,Raleigh,H&M,floral dress,2024-08-22,Summer,621,97,124
+893,Raleigh,H&M,graphic tee,2024-03-23,Spring,437,70,128
+894,Raleigh,H&M,graphic tee,2024-05-28,Spring,637,38,62
+895,Raleigh,H&M,graphic tee,2024-06-22,Summer,487,88,208
+896,Raleigh,H&M,graphic tee,2024-09-05,Autumn,551,76,183
+897,Raleigh,H&M,graphic tee,2024-10-04,Autumn,219,82,103
+898,Raleigh,H&M,graphic tee,2025-01-17,Winter,297,51,109
+899,Raleigh,H&M,graphic tee,2025-02-17,Winter,419,67,165
+900,Raleigh,H&M,leather boots,2024-01-14,Winter,432,86,125
+901,Raleigh,H&M,linen shirt,2024-05-11,Spring,581,56,108
+902,Raleigh,H&M,linen shirt,2024-12-14,Winter,308,81,161
+903,Raleigh,H&M,linen shirt,2025-01-16,Winter,605,74,122
+904,Raleigh,H&M,linen shirt,2025-03-02,Spring,699,63,145
+905,Raleigh,H&M,oversized hoodie,2024-03-22,Spring,609,62,119
+906,Raleigh,H&M,oversized hoodie,2024-06-14,Summer,433,59,136
+907,Raleigh,H&M,oversized hoodie,2024-07-27,Summer,661,75,160
+908,Raleigh,H&M,oversized hoodie,2025-02-16,Winter,657,77,146
+909,Raleigh,H&M,oversized hoodie,2025-05-16,Spring,206,69,90
+910,Raleigh,H&M,plaid shirt,2025-04-20,Spring,276,58,82
+911,Raleigh,H&M,puffer coat,2024-04-15,Spring,380,31,75
+912,Raleigh,H&M,puffer coat,2024-09-08,Autumn,545,81,145
+913,Raleigh,H&M,puffer coat,2024-11-21,Autumn,236,88,152
+914,Raleigh,H&M,puffer coat,2025-03-22,Spring,422,84,107
+915,Raleigh,H&M,summer shorts,2024-04-09,Spring,392,105,195
+916,Raleigh,H&M,summer shorts,2025-02-07,Winter,268,72,91
+917,Raleigh,H&M,summer shorts,2025-05-14,Spring,324,95,211
+918,Raleigh,Uniqlo,ankle boots,2024-06-18,Summer,376,65,91
+919,Raleigh,Uniqlo,ankle boots,2024-07-23,Summer,389,63,102
+920,Raleigh,Uniqlo,ankle boots,2024-08-18,Summer,511,76,111
+921,Raleigh,Uniqlo,ankle boots,2024-09-22,Autumn,599,99,231
+922,Raleigh,Uniqlo,ankle boots,2025-01-04,Winter,689,70,173
+923,Raleigh,Uniqlo,ankle boots,2025-04-08,Spring,573,51,112
+924,Raleigh,Uniqlo,cargo pants,2024-01-16,Winter,657,88,167
+925,Raleigh,Uniqlo,cargo pants,2024-03-12,Spring,420,73,134
+926,Raleigh,Uniqlo,cargo pants,2024-12-01,Winter,397,79,179
+927,Raleigh,Uniqlo,crop top,2025-03-27,Spring,234,63,106
+928,Raleigh,Uniqlo,denim jacket,2024-06-27,Summer,185,76,119
+929,Raleigh,Uniqlo,denim jacket,2025-03-15,Spring,446,53,118
+930,Raleigh,Uniqlo,denim jacket,2025-04-23,Spring,400,103,230
+931,Raleigh,Uniqlo,floral dress,2024-03-18,Spring,516,91,156
+932,Raleigh,Uniqlo,floral dress,2024-08-06,Summer,356,76,106
+933,Raleigh,Uniqlo,floral dress,2024-09-11,Autumn,207,87,183
+934,Raleigh,Uniqlo,floral dress,2025-03-07,Spring,685,65,150
+935,Raleigh,Uniqlo,graphic tee,2024-04-25,Spring,249,90,214
+936,Raleigh,Uniqlo,graphic tee,2025-02-16,Winter,542,69,99
+937,Raleigh,Uniqlo,leather boots,2024-02-07,Winter,492,68,160
+938,Raleigh,Uniqlo,leather boots,2024-03-07,Spring,334,60,106
+939,Raleigh,Uniqlo,leather boots,2024-12-16,Winter,263,81,161
+940,Raleigh,Uniqlo,leather boots,2025-05-15,Spring,306,75,184
+941,Raleigh,Uniqlo,linen shirt,2024-02-28,Winter,251,96,167
+942,Raleigh,Uniqlo,linen shirt,2024-04-11,Spring,347,59,138
+943,Raleigh,Uniqlo,linen shirt,2024-05-03,Spring,326,81,142
+944,Raleigh,Uniqlo,linen shirt,2024-07-27,Summer,639,92,196
+945,Raleigh,Uniqlo,linen shirt,2024-09-07,Autumn,347,113,266
+946,Raleigh,Uniqlo,linen shirt,2024-11-11,Autumn,480,77,111
+947,Raleigh,Uniqlo,linen shirt,2025-01-18,Winter,502,69,159
+948,Raleigh,Uniqlo,linen shirt,2025-02-09,Winter,348,77,163
+949,Raleigh,Uniqlo,linen shirt,2025-04-05,Spring,536,94,151
+950,Raleigh,Uniqlo,linen shirt,2025-05-26,Spring,483,94,168
+951,Raleigh,Uniqlo,oversized hoodie,2024-01-11,Winter,627,73,121
+952,Raleigh,Uniqlo,oversized hoodie,2024-05-24,Spring,481,94,153
+953,Raleigh,Uniqlo,oversized hoodie,2024-06-07,Summer,601,74,105
+954,Raleigh,Uniqlo,oversized hoodie,2024-07-22,Summer,503,87,115
+955,Raleigh,Uniqlo,oversized hoodie,2024-10-08,Autumn,714,83,125
+956,Raleigh,Uniqlo,oversized hoodie,2025-02-28,Winter,199,69,123
+957,Raleigh,Uniqlo,plaid shirt,2024-05-23,Spring,176,61,132
+958,Raleigh,Uniqlo,plaid shirt,2024-11-23,Autumn,230,93,154
+959,Raleigh,Uniqlo,puffer coat,2024-02-13,Winter,467,97,222
+960,Raleigh,Uniqlo,puffer coat,2024-04-15,Spring,699,81,163
+961,Raleigh,Uniqlo,puffer coat,2024-08-23,Summer,390,74,100
+962,Raleigh,Uniqlo,puffer coat,2024-10-03,Autumn,611,57,119
+963,Raleigh,Uniqlo,puffer coat,2025-05-06,Spring,589,92,118
+964,Raleigh,Uniqlo,summer shorts,2024-01-28,Winter,590,79,118
+965,Raleigh,Uniqlo,summer shorts,2024-10-14,Autumn,476,71,162
+966,Raleigh,Uniqlo,summer shorts,2024-11-24,Autumn,562,88,185
+967,Raleigh,Uniqlo,summer shorts,2024-12-20,Winter,563,54,100
+968,Raleigh,Uniqlo,summer shorts,2025-01-14,Winter,549,59,73
+969,Raleigh,Zara,ankle boots,2024-06-06,Summer,242,64,102
+970,Raleigh,Zara,ankle boots,2024-08-19,Summer,394,82,191
+971,Raleigh,Zara,ankle boots,2024-10-04,Autumn,627,77,169
+972,Raleigh,Zara,ankle boots,2025-02-05,Winter,261,84,129
+973,Raleigh,Zara,ankle boots,2025-05-10,Spring,542,91,216
+974,Raleigh,Zara,cargo pants,2024-06-26,Summer,368,85,114
+975,Raleigh,Zara,cargo pants,2024-08-14,Summer,328,103,183
+976,Raleigh,Zara,cargo pants,2024-12-05,Winter,382,91,173
+977,Raleigh,Zara,cargo pants,2025-01-25,Winter,580,73,123
+978,Raleigh,Zara,crop top,2024-07-24,Summer,289,66,142
+979,Raleigh,Zara,crop top,2024-10-22,Autumn,668,73,174
+980,Raleigh,Zara,crop top,2025-01-18,Winter,489,85,134
+981,Raleigh,Zara,denim jacket,2024-01-02,Winter,497,68,162
+982,Raleigh,Zara,denim jacket,2024-02-07,Winter,636,86,105
+983,Raleigh,Zara,denim jacket,2024-04-23,Spring,627,84,205
+984,Raleigh,Zara,denim jacket,2024-09-18,Autumn,481,60,136
+985,Raleigh,Zara,denim jacket,2025-04-17,Spring,287,91,142
+986,Raleigh,Zara,floral dress,2024-04-06,Spring,641,80,106
+987,Raleigh,Zara,floral dress,2024-05-18,Spring,614,102,154
+988,Raleigh,Zara,floral dress,2024-06-13,Summer,224,74,117
+989,Raleigh,Zara,floral dress,2024-07-02,Summer,430,70,138
+990,Raleigh,Zara,floral dress,2024-09-24,Autumn,184,59,127
+991,Raleigh,Zara,floral dress,2025-03-24,Spring,627,58,73
+992,Raleigh,Zara,floral dress,2025-05-24,Spring,561,89,210
+993,Raleigh,Zara,graphic tee,2024-02-11,Winter,491,100,144
+994,Raleigh,Zara,graphic tee,2025-03-16,Spring,383,73,163
+995,Raleigh,Zara,graphic tee,2025-04-21,Spring,351,72,89
+996,Raleigh,Zara,leather boots,2024-01-27,Winter,608,76,97
+997,Raleigh,Zara,leather boots,2024-11-18,Autumn,482,92,209
+998,Raleigh,Zara,leather boots,2024-12-03,Winter,478,61,80
+999,Raleigh,Zara,leather boots,2025-03-23,Spring,261,78,185
+1000,Raleigh,Zara,linen shirt,2024-12-23,Winter,181,89,208
+1001,Raleigh,Zara,linen shirt,2025-01-22,Winter,501,82,159
+1002,Raleigh,Zara,linen shirt,2025-02-24,Winter,540,34,54
+1003,Raleigh,Zara,oversized hoodie,2024-03-02,Spring,340,85,150
+1004,Raleigh,Zara,oversized hoodie,2024-04-18,Spring,443,82,193
+1005,Raleigh,Zara,oversized hoodie,2024-11-26,Autumn,422,95,168
+1006,Raleigh,Zara,plaid shirt,2024-02-03,Winter,632,99,194
+1007,Raleigh,Zara,plaid shirt,2024-05-03,Spring,282,94,198
+1008,Raleigh,Zara,plaid shirt,2024-07-08,Summer,581,76,101
+1009,Raleigh,Zara,plaid shirt,2024-08-26,Summer,359,50,84
+1010,Raleigh,Zara,plaid shirt,2024-09-07,Autumn,452,107,260
+1011,Raleigh,Zara,plaid shirt,2024-10-05,Autumn,239,72,142
+1012,Raleigh,Zara,plaid shirt,2024-11-10,Autumn,330,75,151
+1013,Raleigh,Zara,plaid shirt,2025-04-22,Spring,489,100,129
+1014,Raleigh,Zara,plaid shirt,2025-05-21,Spring,347,63,114
+1015,Raleigh,Zara,puffer coat,2024-03-05,Spring,689,55,69
+1016,Raleigh,Zara,puffer coat,2024-05-14,Spring,610,68,167
+1017,Raleigh,Zara,puffer coat,2025-02-23,Winter,595,64,104
+1018,Raleigh,Zara,summer shorts,2024-01-14,Winter,474,53,105
+1019,Raleigh,Zara,summer shorts,2024-03-02,Spring,410,73,114
+1020,Sacramento,American Eagle,ankle boots,2024-06-21,Summer,433,76,91
+1021,Sacramento,American Eagle,ankle boots,2024-10-23,Autumn,230,53,64
+1022,Sacramento,American Eagle,ankle boots,2024-12-14,Winter,405,70,157
+1023,Sacramento,American Eagle,ankle boots,2025-04-12,Spring,283,63,122
+1024,Sacramento,American Eagle,ankle boots,2025-05-05,Spring,470,46,110
+1025,Sacramento,American Eagle,cargo pants,2024-01-15,Winter,567,76,130
+1026,Sacramento,American Eagle,cargo pants,2024-02-12,Winter,363,78,105
+1027,Sacramento,American Eagle,cargo pants,2024-04-09,Spring,697,63,103
+1028,Sacramento,American Eagle,cargo pants,2024-11-14,Autumn,538,91,167
+1029,Sacramento,American Eagle,cargo pants,2024-12-09,Winter,226,75,158
+1030,Sacramento,American Eagle,crop top,2024-10-22,Autumn,322,64,111
+1031,Sacramento,American Eagle,crop top,2025-03-02,Spring,579,52,90
+1032,Sacramento,American Eagle,denim jacket,2024-01-10,Winter,531,79,157
+1033,Sacramento,American Eagle,denim jacket,2024-09-07,Autumn,624,82,131
+1034,Sacramento,American Eagle,denim jacket,2025-02-09,Winter,208,67,102
+1035,Sacramento,American Eagle,floral dress,2024-03-08,Spring,438,77,98
+1036,Sacramento,American Eagle,floral dress,2024-07-05,Summer,305,99,133
+1037,Sacramento,American Eagle,floral dress,2024-08-03,Summer,217,88,149
+1038,Sacramento,American Eagle,floral dress,2024-11-11,Autumn,605,42,57
+1039,Sacramento,American Eagle,floral dress,2025-01-20,Winter,480,64,111
+1040,Sacramento,American Eagle,floral dress,2025-02-09,Winter,201,73,95
+1041,Sacramento,American Eagle,floral dress,2025-04-15,Spring,337,76,126
+1042,Sacramento,American Eagle,graphic tee,2024-03-17,Spring,486,77,160
+1043,Sacramento,American Eagle,graphic tee,2024-04-22,Spring,557,81,135
+1044,Sacramento,American Eagle,leather boots,2024-05-26,Spring,186,73,147
+1045,Sacramento,American Eagle,leather boots,2025-03-21,Spring,339,75,179
+1046,Sacramento,American Eagle,leather boots,2025-04-08,Spring,333,89,190
+1047,Sacramento,American Eagle,leather boots,2025-05-10,Spring,467,79,107
+1048,Sacramento,American Eagle,linen shirt,2024-05-22,Spring,493,57,69
+1049,Sacramento,American Eagle,linen shirt,2024-08-08,Summer,269,76,132
+1050,Sacramento,American Eagle,linen shirt,2024-09-23,Autumn,290,73,142
+1051,Sacramento,American Eagle,linen shirt,2025-01-08,Winter,431,46,57
+1052,Sacramento,American Eagle,oversized hoodie,2025-03-17,Spring,421,77,126
+1053,Sacramento,American Eagle,oversized hoodie,2025-05-17,Spring,519,59,126
+1054,Sacramento,American Eagle,plaid shirt,2024-02-20,Winter,512,89,186
+1055,Sacramento,American Eagle,plaid shirt,2024-04-24,Spring,216,81,142
+1056,Sacramento,American Eagle,plaid shirt,2024-06-27,Summer,324,57,91
+1057,Sacramento,American Eagle,plaid shirt,2024-08-24,Summer,379,88,195
+1058,Sacramento,American Eagle,plaid shirt,2024-09-22,Autumn,500,95,215
+1059,Sacramento,American Eagle,plaid shirt,2024-12-04,Winter,681,71,164
+1060,Sacramento,American Eagle,plaid shirt,2025-01-20,Winter,542,72,116
+1061,Sacramento,American Eagle,plaid shirt,2025-02-23,Winter,503,87,170
+1062,Sacramento,American Eagle,puffer coat,2024-02-18,Winter,384,94,199
+1063,Sacramento,American Eagle,puffer coat,2024-03-16,Spring,405,50,104
+1064,Sacramento,American Eagle,puffer coat,2024-06-14,Summer,672,58,102
+1065,Sacramento,American Eagle,puffer coat,2024-07-15,Summer,238,68,94
+1066,Sacramento,American Eagle,summer shorts,2024-01-28,Winter,242,70,98
+1067,Sacramento,American Eagle,summer shorts,2024-05-24,Spring,368,86,106
+1068,Sacramento,American Eagle,summer shorts,2024-07-05,Summer,379,94,154
+1069,Sacramento,American Eagle,summer shorts,2024-10-10,Autumn,398,95,122
+1070,Sacramento,American Eagle,summer shorts,2024-11-05,Autumn,541,49,101
+1071,Sacramento,Forever 21,ankle boots,2024-03-05,Spring,265,62,123
+1072,Sacramento,Forever 21,ankle boots,2024-07-23,Summer,509,56,139
+1073,Sacramento,Forever 21,ankle boots,2024-08-03,Summer,452,66,118
+1074,Sacramento,Forever 21,ankle boots,2025-05-16,Spring,165,62,113
+1075,Sacramento,Forever 21,cargo pants,2024-01-27,Winter,426,81,100
+1076,Sacramento,Forever 21,cargo pants,2024-11-08,Autumn,530,83,141
+1077,Sacramento,Forever 21,cargo pants,2025-04-04,Spring,380,75,93
+1078,Sacramento,Forever 21,crop top,2024-01-08,Winter,337,73,102
+1079,Sacramento,Forever 21,crop top,2024-02-09,Winter,564,69,84
+1080,Sacramento,Forever 21,crop top,2024-03-24,Spring,428,71,111
+1081,Sacramento,Forever 21,crop top,2024-06-18,Summer,654,98,232
+1082,Sacramento,Forever 21,crop top,2024-08-24,Summer,589,85,168
+1083,Sacramento,Forever 21,crop top,2024-10-27,Autumn,474,69,156
+1084,Sacramento,Forever 21,crop top,2024-12-05,Winter,591,73,124
+1085,Sacramento,Forever 21,crop top,2025-01-08,Winter,524,81,133
+1086,Sacramento,Forever 21,denim jacket,2024-02-18,Winter,474,57,109
+1087,Sacramento,Forever 21,denim jacket,2024-06-24,Summer,408,77,146
+1088,Sacramento,Forever 21,denim jacket,2024-07-21,Summer,545,84,148
+1089,Sacramento,Forever 21,denim jacket,2024-10-22,Autumn,313,82,130
+1090,Sacramento,Forever 21,denim jacket,2025-02-27,Winter,223,63,80
+1091,Sacramento,Forever 21,denim jacket,2025-03-24,Spring,436,65,106
+1092,Sacramento,Forever 21,denim jacket,2025-05-22,Spring,524,45,87
+1093,Sacramento,Forever 21,floral dress,2024-08-21,Summer,149,86,118
+1094,Sacramento,Forever 21,floral dress,2025-02-15,Winter,393,106,194
+1095,Sacramento,Forever 21,floral dress,2025-04-27,Spring,504,61,105
+1096,Sacramento,Forever 21,graphic tee,2024-02-19,Winter,478,91,182
+1097,Sacramento,Forever 21,graphic tee,2024-04-24,Spring,643,104,152
+1098,Sacramento,Forever 21,graphic tee,2024-09-02,Autumn,398,68,123
+1099,Sacramento,Forever 21,graphic tee,2024-11-08,Autumn,658,73,139
+1100,Sacramento,Forever 21,graphic tee,2025-02-10,Winter,595,78,147
+1101,Sacramento,Forever 21,leather boots,2024-03-04,Spring,170,82,191
+1102,Sacramento,Forever 21,leather boots,2024-11-18,Autumn,281,79,107
+1103,Sacramento,Forever 21,leather boots,2024-12-14,Winter,339,69,154
+1104,Sacramento,Forever 21,leather boots,2025-04-20,Spring,662,84,203
+1105,Sacramento,Forever 21,linen shirt,2024-01-04,Winter,519,69,96
+1106,Sacramento,Forever 21,linen shirt,2024-10-16,Autumn,485,80,146
+1107,Sacramento,Forever 21,linen shirt,2025-01-23,Winter,158,74,171
+1108,Sacramento,Forever 21,oversized hoodie,2024-05-15,Spring,328,48,75
+1109,Sacramento,Forever 21,oversized hoodie,2025-03-20,Spring,174,93,136
+1110,Sacramento,Forever 21,plaid shirt,2024-05-17,Spring,690,66,123
+1111,Sacramento,Forever 21,plaid shirt,2024-06-27,Summer,564,95,174
+1112,Sacramento,Forever 21,plaid shirt,2024-07-08,Summer,264,90,222
+1113,Sacramento,Forever 21,puffer coat,2024-04-22,Spring,470,78,134
+1114,Sacramento,Forever 21,puffer coat,2024-05-09,Spring,639,82,159
+1115,Sacramento,Forever 21,puffer coat,2024-09-12,Autumn,242,84,205
+1116,Sacramento,Forever 21,summer shorts,2024-04-25,Spring,330,72,166
+1117,Sacramento,Forever 21,summer shorts,2024-09-14,Autumn,239,72,127
+1118,Sacramento,Forever 21,summer shorts,2024-12-06,Winter,673,83,167
+1119,Sacramento,Forever 21,summer shorts,2025-01-20,Winter,310,30,72
+1120,Sacramento,Forever 21,summer shorts,2025-03-28,Spring,354,74,154
+1121,Sacramento,Forever 21,summer shorts,2025-05-25,Spring,493,69,147
+1122,Sacramento,H&M,ankle boots,2024-01-19,Winter,245,63,100
+1123,Sacramento,H&M,ankle boots,2024-02-03,Winter,439,81,134
+1124,Sacramento,H&M,ankle boots,2024-04-04,Spring,283,65,95
+1125,Sacramento,H&M,ankle boots,2024-07-26,Summer,172,87,212
+1126,Sacramento,H&M,ankle boots,2024-08-03,Summer,613,89,140
+1127,Sacramento,H&M,ankle boots,2025-01-23,Winter,611,82,99
+1128,Sacramento,H&M,ankle boots,2025-02-07,Winter,318,85,183
+1129,Sacramento,H&M,cargo pants,2024-06-24,Summer,535,82,113
+1130,Sacramento,H&M,cargo pants,2024-11-21,Autumn,201,87,178
+1131,Sacramento,H&M,cargo pants,2025-02-06,Winter,229,86,188
+1132,Sacramento,H&M,cargo pants,2025-05-13,Spring,315,80,105
+1133,Sacramento,H&M,crop top,2024-04-24,Spring,462,91,166
+1134,Sacramento,H&M,crop top,2024-05-09,Spring,429,72,124
+1135,Sacramento,H&M,crop top,2024-07-12,Summer,394,63,81
+1136,Sacramento,H&M,crop top,2024-09-04,Autumn,526,63,141
+1137,Sacramento,H&M,crop top,2024-11-13,Autumn,367,70,170
+1138,Sacramento,H&M,denim jacket,2024-10-08,Autumn,378,46,59
+1139,Sacramento,H&M,floral dress,2024-02-22,Winter,581,78,144
+1140,Sacramento,H&M,floral dress,2025-03-28,Spring,578,84,106
+1141,Sacramento,H&M,floral dress,2025-05-08,Spring,809,89,115
+1142,Sacramento,H&M,graphic tee,2025-01-07,Winter,587,50,75
+1143,Sacramento,H&M,graphic tee,2025-03-04,Spring,561,63,98
+1144,Sacramento,H&M,leather boots,2024-01-16,Winter,359,87,140
+1145,Sacramento,H&M,leather boots,2024-02-20,Winter,745,72,130
+1146,Sacramento,H&M,leather boots,2024-05-06,Spring,467,84,207
+1147,Sacramento,H&M,leather boots,2024-12-18,Winter,450,56,111
+1148,Sacramento,H&M,leather boots,2025-05-18,Spring,262,95,129
+1149,Sacramento,H&M,linen shirt,2024-03-10,Spring,280,55,129
+1150,Sacramento,H&M,linen shirt,2024-04-17,Spring,514,29,56
+1151,Sacramento,H&M,linen shirt,2024-05-09,Spring,251,77,154
+1152,Sacramento,H&M,linen shirt,2024-09-09,Autumn,523,78,118
+1153,Sacramento,H&M,linen shirt,2024-10-06,Autumn,242,67,142
+1154,Sacramento,H&M,linen shirt,2024-11-27,Autumn,387,82,157
+1155,Sacramento,H&M,linen shirt,2025-04-21,Spring,623,82,153
+1156,Sacramento,H&M,oversized hoodie,2024-03-08,Spring,180,80,124
+1157,Sacramento,H&M,oversized hoodie,2024-06-03,Summer,235,67,123
+1158,Sacramento,H&M,oversized hoodie,2024-10-07,Autumn,418,64,129
+1159,Sacramento,H&M,oversized hoodie,2025-02-07,Winter,333,68,86
+1160,Sacramento,H&M,oversized hoodie,2025-04-28,Spring,607,62,74
+1161,Sacramento,H&M,plaid shirt,2024-01-19,Winter,487,91,169
+1162,Sacramento,H&M,plaid shirt,2024-08-28,Summer,678,70,160
+1163,Sacramento,H&M,plaid shirt,2024-09-02,Autumn,621,77,92
+1164,Sacramento,H&M,plaid shirt,2024-12-19,Winter,541,87,140
+1165,Sacramento,H&M,plaid shirt,2025-04-16,Spring,348,61,81
+1166,Sacramento,H&M,puffer coat,2024-06-16,Summer,432,54,123
+1167,Sacramento,H&M,puffer coat,2024-08-05,Summer,550,62,99
+1168,Sacramento,H&M,puffer coat,2025-03-24,Spring,540,78,137
+1169,Sacramento,H&M,summer shorts,2024-03-06,Spring,502,77,183
+1170,Sacramento,H&M,summer shorts,2024-07-12,Summer,473,80,105
+1171,Sacramento,H&M,summer shorts,2024-12-15,Winter,551,73,152
+1172,Sacramento,H&M,summer shorts,2025-01-03,Winter,180,38,76
+1173,Sacramento,Uniqlo,ankle boots,2024-05-22,Spring,563,72,152
+1174,Sacramento,Uniqlo,ankle boots,2024-09-07,Autumn,492,89,218
+1175,Sacramento,Uniqlo,ankle boots,2025-04-18,Spring,259,93,203
+1176,Sacramento,Uniqlo,cargo pants,2024-01-16,Winter,316,76,120
+1177,Sacramento,Uniqlo,cargo pants,2024-02-10,Winter,440,77,102
+1178,Sacramento,Uniqlo,cargo pants,2024-04-21,Spring,561,84,106
+1179,Sacramento,Uniqlo,cargo pants,2024-07-26,Summer,576,93,155
+1180,Sacramento,Uniqlo,cargo pants,2024-08-11,Summer,568,75,132
+1181,Sacramento,Uniqlo,cargo pants,2024-11-22,Autumn,685,84,150
+1182,Sacramento,Uniqlo,cargo pants,2025-05-12,Spring,475,66,110
+1183,Sacramento,Uniqlo,crop top,2024-07-04,Summer,662,56,71
+1184,Sacramento,Uniqlo,crop top,2024-09-26,Autumn,560,68,154
+1185,Sacramento,Uniqlo,crop top,2024-11-25,Autumn,512,96,221
+1186,Sacramento,Uniqlo,crop top,2024-12-16,Winter,199,84,152
+1187,Sacramento,Uniqlo,crop top,2025-02-15,Winter,415,57,133
+1188,Sacramento,Uniqlo,crop top,2025-03-03,Spring,604,85,169
+1189,Sacramento,Uniqlo,crop top,2025-04-12,Spring,571,58,91
+1190,Sacramento,Uniqlo,denim jacket,2024-11-20,Autumn,558,80,172
+1191,Sacramento,Uniqlo,denim jacket,2025-01-14,Winter,381,61,98
+1192,Sacramento,Uniqlo,denim jacket,2025-02-13,Winter,328,57,121
+1193,Sacramento,Uniqlo,floral dress,2024-03-01,Spring,662,99,144
+1194,Sacramento,Uniqlo,floral dress,2024-06-20,Summer,473,70,117
+1195,Sacramento,Uniqlo,floral dress,2024-09-03,Autumn,557,84,107
+1196,Sacramento,Uniqlo,graphic tee,2024-02-18,Winter,624,75,116
+1197,Sacramento,Uniqlo,graphic tee,2024-03-04,Spring,334,59,134
+1198,Sacramento,Uniqlo,graphic tee,2024-10-09,Autumn,289,71,130
+1199,Sacramento,Uniqlo,graphic tee,2025-02-27,Winter,261,60,103
+1200,Sacramento,Uniqlo,graphic tee,2025-05-09,Spring,356,111,134
+1201,Sacramento,Uniqlo,leather boots,2024-05-20,Spring,297,86,155
+1202,Sacramento,Uniqlo,leather boots,2024-10-17,Autumn,413,75,156
+1203,Sacramento,Uniqlo,leather boots,2025-03-04,Spring,396,83,133
+1204,Sacramento,Uniqlo,linen shirt,2024-01-06,Winter,597,85,159
+1205,Sacramento,Uniqlo,linen shirt,2024-03-22,Spring,285,85,209
+1206,Sacramento,Uniqlo,linen shirt,2024-04-19,Spring,486,85,115
+1207,Sacramento,Uniqlo,linen shirt,2024-05-08,Spring,591,83,128
+1208,Sacramento,Uniqlo,linen shirt,2025-03-15,Spring,205,76,125
+1209,Sacramento,Uniqlo,oversized hoodie,2024-02-13,Winter,606,98,164
+1210,Sacramento,Uniqlo,oversized hoodie,2024-06-09,Summer,229,77,177
+1211,Sacramento,Uniqlo,oversized hoodie,2024-10-06,Autumn,754,75,92
+1212,Sacramento,Uniqlo,oversized hoodie,2025-04-22,Spring,361,77,170
+1213,Sacramento,Uniqlo,plaid shirt,2024-12-02,Winter,424,78,140
+1214,Sacramento,Uniqlo,plaid shirt,2025-01-23,Winter,506,50,64
+1215,Sacramento,Uniqlo,plaid shirt,2025-05-20,Spring,200,62,92
+1216,Sacramento,Uniqlo,puffer coat,2024-06-10,Summer,410,73,158
+1217,Sacramento,Uniqlo,puffer coat,2024-07-02,Summer,646,50,90
+1218,Sacramento,Uniqlo,puffer coat,2024-08-06,Summer,444,75,183
+1219,Sacramento,Uniqlo,summer shorts,2024-01-22,Winter,247,78,101
+1220,Sacramento,Uniqlo,summer shorts,2024-04-14,Spring,571,56,81
+1221,Sacramento,Uniqlo,summer shorts,2024-08-19,Summer,391,65,89
+1222,Sacramento,Uniqlo,summer shorts,2024-12-04,Winter,750,94,183
+1223,Sacramento,Uniqlo,summer shorts,2025-01-02,Winter,185,83,115
+1224,Sacramento,Zara,ankle boots,2024-01-26,Winter,276,82,139
+1225,Sacramento,Zara,ankle boots,2024-05-15,Spring,562,92,191
+1226,Sacramento,Zara,ankle boots,2024-08-10,Summer,593,62,148
+1227,Sacramento,Zara,ankle boots,2025-01-06,Winter,584,56,88
+1228,Sacramento,Zara,ankle boots,2025-05-25,Spring,161,89,188
+1229,Sacramento,Zara,cargo pants,2024-01-26,Winter,516,73,93
+1230,Sacramento,Zara,cargo pants,2024-02-10,Winter,250,62,85
+1231,Sacramento,Zara,cargo pants,2024-03-09,Spring,500,106,259
+1232,Sacramento,Zara,cargo pants,2024-06-20,Summer,264,50,92
+1233,Sacramento,Zara,cargo pants,2024-07-03,Summer,325,77,160
+1234,Sacramento,Zara,cargo pants,2024-09-28,Autumn,318,72,161
+1235,Sacramento,Zara,cargo pants,2024-11-26,Autumn,705,69,124
+1236,Sacramento,Zara,crop top,2024-05-20,Spring,206,41,51
+1237,Sacramento,Zara,crop top,2024-06-07,Summer,555,98,138
+1238,Sacramento,Zara,crop top,2024-07-28,Summer,247,53,67
+1239,Sacramento,Zara,crop top,2024-09-11,Autumn,642,71,163
+1240,Sacramento,Zara,crop top,2025-04-27,Spring,327,68,166
+1241,Sacramento,Zara,denim jacket,2024-02-27,Winter,378,83,120
+1242,Sacramento,Zara,denim jacket,2024-03-02,Spring,480,51,90
+1243,Sacramento,Zara,denim jacket,2024-08-01,Summer,546,81,159
+1244,Sacramento,Zara,denim jacket,2024-11-04,Autumn,618,77,190
+1245,Sacramento,Zara,floral dress,2024-04-05,Spring,793,65,94
+1246,Sacramento,Zara,floral dress,2024-08-24,Summer,306,81,176
+1247,Sacramento,Zara,floral dress,2024-12-03,Winter,400,75,105
+1248,Sacramento,Zara,graphic tee,2024-03-20,Spring,358,102,155
+1249,Sacramento,Zara,graphic tee,2024-04-10,Spring,288,72,146
+1250,Sacramento,Zara,graphic tee,2024-06-28,Summer,566,60,116
+1251,Sacramento,Zara,graphic tee,2024-10-28,Autumn,456,82,180
+1252,Sacramento,Zara,graphic tee,2024-12-21,Winter,277,70,84
+1253,Sacramento,Zara,graphic tee,2025-01-04,Winter,618,74,123
+1254,Sacramento,Zara,graphic tee,2025-03-19,Spring,490,56,90
+1255,Sacramento,Zara,graphic tee,2025-04-15,Spring,521,84,193
+1256,Sacramento,Zara,graphic tee,2025-05-11,Spring,281,67,117
+1257,Sacramento,Zara,leather boots,2025-02-22,Winter,320,78,96
+1258,Sacramento,Zara,linen shirt,2024-01-03,Winter,174,106,143
+1259,Sacramento,Zara,oversized hoodie,2024-10-18,Autumn,376,71,111
+1260,Sacramento,Zara,oversized hoodie,2024-11-19,Autumn,326,86,214
+1261,Sacramento,Zara,oversized hoodie,2025-01-24,Winter,543,72,90
+1262,Sacramento,Zara,oversized hoodie,2025-02-27,Winter,595,65,111
+1263,Sacramento,Zara,oversized hoodie,2025-03-04,Spring,576,94,204
+1264,Sacramento,Zara,oversized hoodie,2025-04-26,Spring,266,47,104
+1265,Sacramento,Zara,plaid shirt,2024-04-14,Spring,567,90,137
+1266,Sacramento,Zara,plaid shirt,2024-05-25,Spring,530,45,92
+1267,Sacramento,Zara,plaid shirt,2025-02-23,Winter,668,88,133
+1268,Sacramento,Zara,plaid shirt,2025-03-22,Spring,216,75,111
+1269,Sacramento,Zara,puffer coat,2024-02-27,Winter,597,60,75
+1270,Sacramento,Zara,puffer coat,2024-07-20,Summer,413,68,165
+1271,Sacramento,Zara,puffer coat,2024-09-11,Autumn,532,85,166
+1272,Sacramento,Zara,puffer coat,2024-12-08,Winter,257,104,194
+1273,Sacramento,Zara,puffer coat,2025-05-18,Spring,559,51,111
+1274,Sacramento,Zara,summer shorts,2024-10-24,Autumn,228,61,144

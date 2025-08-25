@@ -1,0 +1,601 @@
+month,city,brand,promotion_flag,holiday_flag,temperature,rainfall_mm,mobility_index,change_from_baseline,fashion_trend,keyword,past_spike,projected_spike,sales
+2024-01,Buffalo,H&M,0,0,11.3,14.7,106.05,0.49,joggers,hoodie,No,No,557
+2024-01,Buffalo,Zara,0,0,17.9,167.6,91.86,22.35,shorts,joggers,No,No,1227
+2024-01,Buffalo,Uniqlo,0,0,12.5,155.1,105.89,12.82,hoodie,hoodie,No,No,541
+2024-01,Buffalo,Forever 21,0,0,21.1,76.1,61.1,-28.58,joggers,blazer,No,No,650
+2024-01,Buffalo,Urban Outfitters,1,0,17.2,77.7,85.32,-7.59,denim jacket,denim jacket,No,No,1142
+2024-01,Buffalo,American Eagle,0,0,17.9,186.5,64.68,-24.2,joggers,hoodie,No,No,732
+2024-01,Rochester,H&M,0,0,14.8,0.2,87.02,5.67,blazer,joggers,No,No,1418
+2024-01,Rochester,Zara,0,0,29.6,171.8,111.02,22.34,joggers,hoodie,No,No,712
+2024-01,Rochester,Uniqlo,0,0,14.8,118.1,82.35,-4.24,blazer,blazer,No,No,1092
+2024-01,Rochester,Forever 21,1,0,26.5,52.4,96.78,-15.86,hoodie,joggers,No,No,1321
+2024-01,Rochester,Urban Outfitters,0,0,4.9,158.8,71.3,-27.19,hoodie,puffer jacket,No,No,690
+2024-01,Rochester,American Eagle,0,0,26.9,81.4,68.41,-25.87,denim jacket,hoodie,No,No,533
+2024-01,Tucson,H&M,0,0,15.2,165.3,72.16,-13.69,puffer jacket,joggers,No,No,1477
+2024-01,Tucson,Zara,1,0,2.6,133.7,117.11,-13.01,shorts,denim jacket,No,No,929
+2024-01,Tucson,Uniqlo,0,1,10.2,45.1,101.91,-15.57,shorts,blazer,No,No,1275
+2024-01,Tucson,Forever 21,0,0,11.2,172.3,110.34,0.12,puffer jacket,shorts,No,No,1489
+2024-01,Tucson,Urban Outfitters,0,0,6.2,55.9,94.8,12.31,puffer jacket,hoodie,Yes,No,1122
+2024-01,Tucson,American Eagle,1,0,21.2,153.3,87.41,-12.16,joggers,blazer,No,No,1119
+2024-01,Des Moines,H&M,1,0,27.2,78.2,96.06,22.53,shorts,denim jacket,No,No,967
+2024-01,Des Moines,Zara,0,0,4.1,90.5,63.78,19.34,joggers,hoodie,No,Yes,791
+2024-01,Des Moines,Uniqlo,0,0,0.3,104.3,72.61,-12.18,blazer,hoodie,No,Yes,934
+2024-01,Des Moines,Forever 21,0,1,5.3,131.3,103.41,-7.97,blazer,joggers,No,No,1182
+2024-01,Des Moines,Urban Outfitters,0,0,24.8,103.3,74.14,2.29,denim jacket,blazer,Yes,No,1302
+2024-01,Des Moines,American Eagle,0,0,25.1,118.3,61.3,-22.69,joggers,joggers,No,No,1012
+2024-01,Greensboro,H&M,0,0,30.2,191.8,74.7,-26.2,puffer jacket,joggers,No,No,1383
+2024-01,Greensboro,Zara,0,0,30.7,63.2,109.87,-21.65,puffer jacket,denim jacket,No,No,1425
+2024-01,Greensboro,Uniqlo,0,0,9.3,148.4,65.73,-6.38,puffer jacket,denim jacket,No,Yes,1027
+2024-01,Greensboro,Forever 21,1,1,24.9,169.5,86.15,-19.93,hoodie,blazer,No,No,1230
+2024-01,Greensboro,Urban Outfitters,0,0,16.2,65.7,117.8,-3.99,denim jacket,denim jacket,No,No,1349
+2024-01,Greensboro,American Eagle,0,0,11.8,16.3,105.65,-5.66,hoodie,puffer jacket,No,No,876
+2024-02,Buffalo,H&M,1,0,21.8,81.0,114.4,-21.92,puffer jacket,denim jacket,No,Yes,1491
+2024-02,Buffalo,Zara,1,0,21.7,65.7,61.65,2.05,puffer jacket,denim jacket,No,No,756
+2024-02,Buffalo,Uniqlo,1,0,0.8,97.1,103.98,-10.48,joggers,blazer,No,Yes,1434
+2024-02,Buffalo,Forever 21,0,0,30.0,77.1,89.14,27.76,hoodie,shorts,No,No,1381
+2024-02,Buffalo,Urban Outfitters,0,0,34.6,171.7,83.06,-11.22,denim jacket,denim jacket,No,No,750
+2024-02,Buffalo,American Eagle,0,1,3.9,29.6,111.27,-10.24,blazer,hoodie,No,No,547
+2024-02,Rochester,H&M,1,0,33.4,52.6,98.79,25.78,shorts,puffer jacket,No,No,719
+2024-02,Rochester,Zara,0,0,1.0,38.3,97.33,3.09,blazer,joggers,No,No,787
+2024-02,Rochester,Uniqlo,0,0,24.1,170.9,98.38,-9.12,puffer jacket,joggers,No,No,858
+2024-02,Rochester,Forever 21,0,0,23.5,97.5,118.65,-26.96,joggers,shorts,No,No,1270
+2024-02,Rochester,Urban Outfitters,0,0,10.6,176.5,110.52,16.52,joggers,blazer,No,No,1096
+2024-02,Rochester,American Eagle,0,0,8.7,62.5,112.32,-23.67,shorts,puffer jacket,No,No,1075
+2024-02,Tucson,H&M,0,1,33.1,139.8,90.61,27.55,hoodie,puffer jacket,No,No,1405
+2024-02,Tucson,Zara,0,0,25.5,139.0,81.01,11.77,hoodie,denim jacket,No,No,1244
+2024-02,Tucson,Uniqlo,0,0,0.9,67.1,76.86,-28.73,blazer,shorts,Yes,No,748
+2024-02,Tucson,Forever 21,0,0,14.7,5.0,82.66,-22.42,hoodie,joggers,No,No,959
+2024-02,Tucson,Urban Outfitters,1,0,5.1,45.8,115.01,-13.43,denim jacket,shorts,No,Yes,1385
+2024-02,Tucson,American Eagle,0,1,23.1,64.3,94.12,-8.14,denim jacket,hoodie,No,No,1187
+2024-02,Des Moines,H&M,0,0,10.3,59.2,63.82,-1.54,blazer,hoodie,No,No,588
+2024-02,Des Moines,Zara,1,0,8.1,32.3,63.6,18.61,hoodie,puffer jacket,Yes,No,894
+2024-02,Des Moines,Uniqlo,0,0,30.2,177.0,84.41,-27.47,denim jacket,blazer,No,No,1092
+2024-02,Des Moines,Forever 21,1,1,11.9,130.7,98.6,-25.29,puffer jacket,hoodie,No,No,1427
+2024-02,Des Moines,Urban Outfitters,0,0,7.2,113.0,115.19,5.21,blazer,joggers,No,No,1002
+2024-02,Des Moines,American Eagle,1,1,17.8,11.0,91.81,23.07,joggers,denim jacket,No,No,1360
+2024-02,Greensboro,H&M,0,0,15.7,58.9,60.6,2.04,blazer,denim jacket,No,Yes,784
+2024-02,Greensboro,Zara,1,0,27.4,28.4,79.13,25.61,blazer,joggers,Yes,No,708
+2024-02,Greensboro,Uniqlo,0,1,4.7,99.8,113.82,2.75,denim jacket,shorts,Yes,No,882
+2024-02,Greensboro,Forever 21,0,0,14.9,199.2,72.92,-4.3,shorts,joggers,Yes,No,1026
+2024-02,Greensboro,Urban Outfitters,0,0,4.5,137.6,108.38,-12.57,shorts,denim jacket,No,No,1039
+2024-02,Greensboro,American Eagle,0,0,13.9,190.3,90.27,-9.78,blazer,blazer,No,No,1330
+2024-03,Buffalo,H&M,0,1,20.4,130.9,60.32,-10.72,blazer,blazer,No,No,1062
+2024-03,Buffalo,Zara,1,0,21.5,155.7,99.23,8.09,puffer jacket,blazer,No,No,919
+2024-03,Buffalo,Uniqlo,1,0,12.6,83.3,94.68,22.35,joggers,joggers,No,No,987
+2024-03,Buffalo,Forever 21,0,1,33.1,171.3,73.75,3.97,blazer,puffer jacket,Yes,No,969
+2024-03,Buffalo,Urban Outfitters,0,0,21.0,136.0,107.74,-9.45,joggers,blazer,No,Yes,1477
+2024-03,Buffalo,American Eagle,0,0,6.0,98.2,89.54,-19.75,puffer jacket,puffer jacket,No,No,1354
+2024-03,Rochester,H&M,1,1,0.7,149.4,91.68,-13.5,denim jacket,shorts,No,No,1063
+2024-03,Rochester,Zara,1,1,31.6,198.7,66.05,-21.9,joggers,shorts,No,No,743
+2024-03,Rochester,Uniqlo,1,1,12.9,103.5,97.5,-6.93,puffer jacket,hoodie,No,No,878
+2024-03,Rochester,Forever 21,1,1,35.0,137.8,83.24,28.15,joggers,blazer,Yes,No,1312
+2024-03,Rochester,Urban Outfitters,0,0,17.9,34.5,108.52,9.17,shorts,shorts,No,No,810
+2024-03,Rochester,American Eagle,0,0,29.7,152.5,107.56,21.08,denim jacket,hoodie,No,No,1316
+2024-03,Tucson,H&M,1,0,15.9,115.5,112.85,-14.91,denim jacket,joggers,No,No,590
+2024-03,Tucson,Zara,0,0,9.9,152.6,74.85,11.6,hoodie,joggers,No,No,878
+2024-03,Tucson,Uniqlo,1,1,14.3,42.8,73.93,-16.88,joggers,denim jacket,No,No,1321
+2024-03,Tucson,Forever 21,0,0,21.8,9.1,71.71,-17.43,shorts,joggers,No,Yes,1420
+2024-03,Tucson,Urban Outfitters,0,0,30.6,28.8,71.78,-6.07,joggers,shorts,No,No,1045
+2024-03,Tucson,American Eagle,1,0,27.0,187.3,64.11,25.54,denim jacket,hoodie,No,Yes,1367
+2024-03,Des Moines,H&M,1,0,5.9,188.4,85.03,-12.11,joggers,hoodie,No,No,841
+2024-03,Des Moines,Zara,1,0,26.8,35.9,77.13,28.21,blazer,shorts,No,Yes,961
+2024-03,Des Moines,Uniqlo,0,0,5.3,100.9,78.03,6.56,shorts,shorts,Yes,No,1254
+2024-03,Des Moines,Forever 21,1,1,13.5,144.8,118.71,29.01,puffer jacket,puffer jacket,No,No,1415
+2024-03,Des Moines,Urban Outfitters,0,0,34.1,141.8,72.7,13.55,joggers,puffer jacket,No,Yes,741
+2024-03,Des Moines,American Eagle,0,1,33.1,41.1,77.62,-7.95,joggers,denim jacket,No,No,599
+2024-03,Greensboro,H&M,0,0,29.4,145.4,115.28,10.41,blazer,denim jacket,No,No,864
+2024-03,Greensboro,Zara,0,0,8.3,14.4,61.84,22.34,denim jacket,joggers,Yes,No,838
+2024-03,Greensboro,Uniqlo,0,0,20.1,10.4,96.31,21.4,joggers,hoodie,No,No,726
+2024-03,Greensboro,Forever 21,0,1,4.3,192.5,65.62,1.85,hoodie,blazer,No,No,1196
+2024-03,Greensboro,Urban Outfitters,0,0,30.5,75.7,85.85,24.34,puffer jacket,hoodie,No,Yes,1474
+2024-03,Greensboro,American Eagle,0,0,11.3,120.5,64.61,8.25,puffer jacket,shorts,No,No,958
+2024-04,Buffalo,H&M,0,0,11.0,178.8,92.69,21.71,blazer,shorts,No,No,1272
+2024-04,Buffalo,Zara,0,0,8.6,71.3,119.09,-23.19,puffer jacket,puffer jacket,No,No,704
+2024-04,Buffalo,Uniqlo,0,1,10.0,32.6,65.91,-9.96,joggers,blazer,No,Yes,1418
+2024-04,Buffalo,Forever 21,0,0,11.1,176.0,113.89,-28.48,blazer,denim jacket,No,No,720
+2024-04,Buffalo,Urban Outfitters,0,0,21.3,94.0,100.49,9.41,blazer,shorts,No,No,608
+2024-04,Buffalo,American Eagle,0,0,2.2,155.3,65.47,-8.2,shorts,blazer,No,No,873
+2024-04,Rochester,H&M,0,0,11.8,68.2,81.82,1.78,blazer,shorts,No,No,1241
+2024-04,Rochester,Zara,1,0,27.8,160.1,98.44,14.68,denim jacket,denim jacket,No,No,793
+2024-04,Rochester,Uniqlo,0,0,20.5,185.3,93.76,-12.42,joggers,puffer jacket,No,No,1203
+2024-04,Rochester,Forever 21,1,0,30.3,172.1,114.18,-28.13,hoodie,puffer jacket,No,Yes,969
+2024-04,Rochester,Urban Outfitters,0,0,31.3,129.5,105.27,8.32,puffer jacket,puffer jacket,No,No,1090
+2024-04,Rochester,American Eagle,0,0,20.6,34.2,66.28,-19.61,hoodie,hoodie,No,No,946
+2024-04,Tucson,H&M,0,0,15.9,145.4,64.67,-14.89,blazer,shorts,No,No,861
+2024-04,Tucson,Zara,1,1,11.2,122.7,67.96,-17.49,blazer,shorts,No,No,649
+2024-04,Tucson,Uniqlo,0,1,18.0,86.0,70.3,20.78,blazer,denim jacket,No,No,990
+2024-04,Tucson,Forever 21,0,0,29.9,64.1,96.46,8.96,denim jacket,puffer jacket,No,No,750
+2024-04,Tucson,Urban Outfitters,1,0,17.7,83.2,83.33,-6.24,joggers,puffer jacket,No,No,844
+2024-04,Tucson,American Eagle,0,1,8.7,121.4,103.04,0.07,denim jacket,shorts,No,No,1017
+2024-04,Des Moines,H&M,0,0,4.6,98.9,115.5,8.47,joggers,denim jacket,No,No,554
+2024-04,Des Moines,Zara,0,0,19.1,17.9,82.85,-28.1,joggers,hoodie,No,No,1316
+2024-04,Des Moines,Uniqlo,0,1,29.7,56.2,105.3,-29.81,puffer jacket,joggers,No,No,1463
+2024-04,Des Moines,Forever 21,1,0,25.5,38.9,87.78,9.21,denim jacket,hoodie,No,No,994
+2024-04,Des Moines,Urban Outfitters,1,0,27.6,5.1,109.91,29.11,shorts,blazer,No,No,891
+2024-04,Des Moines,American Eagle,1,0,9.7,41.8,116.28,7.0,puffer jacket,blazer,No,No,1382
+2024-04,Greensboro,H&M,0,0,21.5,179.6,90.39,8.96,joggers,puffer jacket,No,No,1148
+2024-04,Greensboro,Zara,0,0,10.6,92.7,80.54,1.23,puffer jacket,denim jacket,Yes,No,629
+2024-04,Greensboro,Uniqlo,1,0,13.0,93.2,107.48,-28.09,shorts,hoodie,No,No,703
+2024-04,Greensboro,Forever 21,0,0,22.2,129.9,79.43,-21.12,joggers,shorts,Yes,No,775
+2024-04,Greensboro,Urban Outfitters,0,0,34.9,83.3,95.9,10.8,denim jacket,joggers,No,No,852
+2024-04,Greensboro,American Eagle,0,0,10.6,116.3,117.84,3.29,denim jacket,joggers,No,No,532
+2024-05,Buffalo,H&M,1,0,6.2,87.9,110.92,-27.69,hoodie,joggers,No,Yes,650
+2024-05,Buffalo,Zara,0,0,19.5,78.2,95.6,-19.73,puffer jacket,denim jacket,No,No,964
+2024-05,Buffalo,Uniqlo,0,0,7.5,196.7,103.1,-9.33,joggers,blazer,No,Yes,1149
+2024-05,Buffalo,Forever 21,0,0,13.0,125.7,112.56,-16.36,denim jacket,denim jacket,No,No,802
+2024-05,Buffalo,Urban Outfitters,0,0,23.7,33.3,110.09,15.07,puffer jacket,denim jacket,No,No,1391
+2024-05,Buffalo,American Eagle,0,1,23.4,70.9,64.03,-12.28,denim jacket,shorts,No,No,594
+2024-05,Rochester,H&M,0,1,21.7,97.3,84.06,-17.35,denim jacket,blazer,Yes,No,843
+2024-05,Rochester,Zara,0,0,21.5,7.7,75.62,19.28,hoodie,puffer jacket,No,No,1451
+2024-05,Rochester,Uniqlo,0,0,31.8,37.9,62.29,24.52,joggers,denim jacket,No,No,1286
+2024-05,Rochester,Forever 21,0,0,12.6,41.8,88.47,18.1,blazer,denim jacket,No,Yes,720
+2024-05,Rochester,Urban Outfitters,0,0,24.3,147.3,80.11,-4.69,denim jacket,joggers,No,No,792
+2024-05,Rochester,American Eagle,1,0,20.1,69.6,115.27,-3.78,blazer,blazer,No,No,947
+2024-05,Tucson,H&M,0,0,20.8,11.5,83.29,0.09,hoodie,joggers,No,No,762
+2024-05,Tucson,Zara,0,0,33.3,19.6,115.48,-21.98,puffer jacket,blazer,No,No,679
+2024-05,Tucson,Uniqlo,0,1,12.0,134.1,74.47,7.3,puffer jacket,joggers,No,No,1070
+2024-05,Tucson,Forever 21,0,0,23.4,123.8,72.49,-8.0,blazer,hoodie,No,No,682
+2024-05,Tucson,Urban Outfitters,1,0,25.6,69.6,108.8,-22.25,denim jacket,joggers,No,No,1356
+2024-05,Tucson,American Eagle,1,0,10.8,96.1,75.41,-5.59,shorts,denim jacket,No,No,1340
+2024-05,Des Moines,H&M,1,0,7.6,146.6,86.94,26.51,blazer,joggers,No,No,880
+2024-05,Des Moines,Zara,0,0,32.2,15.8,78.53,23.94,blazer,puffer jacket,Yes,No,1268
+2024-05,Des Moines,Uniqlo,0,0,11.0,158.4,90.48,-10.64,joggers,puffer jacket,No,Yes,696
+2024-05,Des Moines,Forever 21,0,0,27.2,60.6,67.73,-0.55,puffer jacket,shorts,No,Yes,969
+2024-05,Des Moines,Urban Outfitters,0,0,12.2,178.2,100.15,-10.26,puffer jacket,joggers,No,No,518
+2024-05,Des Moines,American Eagle,1,0,21.7,88.5,68.59,-21.29,shorts,denim jacket,No,No,926
+2024-05,Greensboro,H&M,1,0,3.8,136.4,81.97,-3.45,puffer jacket,hoodie,No,No,682
+2024-05,Greensboro,Zara,0,0,2.0,189.0,107.59,5.26,denim jacket,shorts,No,No,741
+2024-05,Greensboro,Uniqlo,0,0,14.0,132.9,100.96,20.35,puffer jacket,puffer jacket,No,No,1154
+2024-05,Greensboro,Forever 21,0,0,9.4,137.8,72.28,-7.97,puffer jacket,blazer,Yes,No,981
+2024-05,Greensboro,Urban Outfitters,0,0,2.3,41.7,118.34,-22.1,denim jacket,hoodie,No,Yes,867
+2024-05,Greensboro,American Eagle,0,0,9.8,119.1,84.64,5.75,denim jacket,hoodie,No,Yes,951
+2024-06,Buffalo,H&M,0,1,10.4,176.8,86.62,-28.68,hoodie,shorts,No,No,1485
+2024-06,Buffalo,Zara,1,0,23.5,121.5,72.43,16.55,blazer,hoodie,Yes,Yes,797
+2024-06,Buffalo,Uniqlo,0,0,28.5,54.5,117.63,21.25,joggers,puffer jacket,Yes,No,1386
+2024-06,Buffalo,Forever 21,1,1,2.7,6.7,68.93,3.31,hoodie,blazer,No,No,1022
+2024-06,Buffalo,Urban Outfitters,1,0,16.2,160.9,119.37,-16.94,shorts,joggers,No,No,1477
+2024-06,Buffalo,American Eagle,0,0,12.4,72.0,72.31,27.33,joggers,hoodie,No,No,1392
+2024-06,Rochester,H&M,0,0,19.9,97.9,72.84,13.69,blazer,shorts,No,No,748
+2024-06,Rochester,Zara,0,0,34.9,130.5,105.28,4.2,puffer jacket,denim jacket,Yes,Yes,1312
+2024-06,Rochester,Uniqlo,0,0,20.9,15.2,115.22,22.87,denim jacket,puffer jacket,No,No,810
+2024-06,Rochester,Forever 21,0,0,26.2,130.2,87.78,14.97,joggers,hoodie,No,Yes,530
+2024-06,Rochester,Urban Outfitters,0,0,33.4,30.4,60.35,-24.55,puffer jacket,hoodie,No,No,1407
+2024-06,Rochester,American Eagle,1,0,33.9,36.6,79.02,-23.13,hoodie,shorts,No,No,706
+2024-06,Tucson,H&M,0,0,3.4,23.6,79.46,25.47,puffer jacket,shorts,Yes,No,862
+2024-06,Tucson,Zara,1,0,0.5,153.4,65.04,6.29,hoodie,puffer jacket,No,Yes,524
+2024-06,Tucson,Uniqlo,0,0,4.7,151.7,116.31,-17.92,hoodie,shorts,No,No,622
+2024-06,Tucson,Forever 21,0,0,28.0,125.2,69.57,-5.31,hoodie,denim jacket,No,No,1081
+2024-06,Tucson,Urban Outfitters,0,1,34.0,57.6,67.27,-18.0,blazer,puffer jacket,No,No,1240
+2024-06,Tucson,American Eagle,0,0,2.0,155.9,94.41,-27.84,denim jacket,joggers,No,No,1222
+2024-06,Des Moines,H&M,0,0,16.2,168.5,66.85,28.65,shorts,shorts,No,Yes,1224
+2024-06,Des Moines,Zara,0,0,3.2,139.7,94.26,-20.47,shorts,joggers,No,No,624
+2024-06,Des Moines,Uniqlo,0,0,18.6,137.5,65.31,-6.76,denim jacket,shorts,No,No,1073
+2024-06,Des Moines,Forever 21,1,0,7.8,67.5,63.54,18.37,puffer jacket,joggers,No,No,1217
+2024-06,Des Moines,Urban Outfitters,0,0,16.9,141.8,103.28,-0.3,puffer jacket,hoodie,No,No,1050
+2024-06,Des Moines,American Eagle,0,0,27.6,137.7,93.87,21.2,joggers,hoodie,No,Yes,899
+2024-06,Greensboro,H&M,0,0,20.4,95.8,113.78,-25.17,hoodie,denim jacket,Yes,No,684
+2024-06,Greensboro,Zara,0,1,20.9,146.1,112.04,-26.13,shorts,denim jacket,No,No,1373
+2024-06,Greensboro,Uniqlo,0,0,25.3,171.7,100.8,9.23,shorts,blazer,No,No,668
+2024-06,Greensboro,Forever 21,1,0,34.7,10.8,113.66,-19.14,puffer jacket,blazer,No,No,845
+2024-06,Greensboro,Urban Outfitters,0,1,28.4,92.2,103.33,-14.28,joggers,shorts,No,No,1181
+2024-06,Greensboro,American Eagle,0,0,17.1,83.5,69.75,23.36,joggers,joggers,Yes,No,792
+2024-07,Buffalo,H&M,0,0,33.7,70.3,69.59,-11.13,hoodie,blazer,No,Yes,1279
+2024-07,Buffalo,Zara,0,0,20.0,185.1,103.73,23.2,puffer jacket,joggers,No,Yes,727
+2024-07,Buffalo,Uniqlo,1,0,10.8,175.6,107.09,19.12,puffer jacket,hoodie,No,No,564
+2024-07,Buffalo,Forever 21,1,0,7.6,179.0,86.43,27.75,blazer,joggers,No,No,801
+2024-07,Buffalo,Urban Outfitters,1,0,25.3,89.6,112.29,-28.33,blazer,hoodie,No,No,1484
+2024-07,Buffalo,American Eagle,0,0,15.6,143.0,61.85,19.55,shorts,hoodie,No,No,683
+2024-07,Rochester,H&M,0,0,26.7,40.2,67.62,2.36,joggers,shorts,No,No,1463
+2024-07,Rochester,Zara,0,1,27.3,110.0,107.18,11.93,blazer,puffer jacket,No,No,599
+2024-07,Rochester,Uniqlo,0,0,6.6,145.7,63.72,25.95,shorts,hoodie,No,No,1301
+2024-07,Rochester,Forever 21,0,0,21.7,45.7,72.09,4.86,hoodie,hoodie,Yes,No,1234
+2024-07,Rochester,Urban Outfitters,0,0,5.9,31.3,82.81,20.02,joggers,puffer jacket,No,No,1017
+2024-07,Rochester,American Eagle,0,0,26.3,105.1,111.12,26.89,hoodie,hoodie,No,No,1351
+2024-07,Tucson,H&M,0,0,2.2,191.1,90.48,28.96,blazer,shorts,No,Yes,525
+2024-07,Tucson,Zara,1,0,21.6,197.3,85.55,23.47,blazer,joggers,No,No,1499
+2024-07,Tucson,Uniqlo,0,0,16.8,170.6,96.14,-17.86,joggers,blazer,No,No,972
+2024-07,Tucson,Forever 21,0,1,32.0,91.6,74.56,29.5,puffer jacket,shorts,No,No,712
+2024-07,Tucson,Urban Outfitters,0,0,28.9,75.6,118.39,-13.12,hoodie,denim jacket,Yes,Yes,1131
+2024-07,Tucson,American Eagle,0,0,10.2,48.1,60.57,-24.98,puffer jacket,shorts,No,No,1009
+2024-07,Des Moines,H&M,0,0,20.0,97.0,79.62,23.42,blazer,shorts,Yes,No,1225
+2024-07,Des Moines,Zara,0,0,10.9,73.8,92.77,-29.09,puffer jacket,shorts,No,No,1378
+2024-07,Des Moines,Uniqlo,1,0,4.4,79.8,94.77,-5.63,hoodie,shorts,No,No,780
+2024-07,Des Moines,Forever 21,0,0,22.5,49.4,65.32,27.28,joggers,joggers,Yes,No,814
+2024-07,Des Moines,Urban Outfitters,1,1,27.9,12.4,85.48,0.9,blazer,puffer jacket,No,No,1095
+2024-07,Des Moines,American Eagle,0,0,24.1,193.4,92.34,27.4,puffer jacket,blazer,No,No,1047
+2024-07,Greensboro,H&M,0,0,23.8,34.5,93.33,11.55,blazer,joggers,No,No,750
+2024-07,Greensboro,Zara,1,0,1.2,70.8,114.0,10.88,shorts,joggers,Yes,No,508
+2024-07,Greensboro,Uniqlo,1,0,33.5,183.6,96.97,29.87,puffer jacket,puffer jacket,No,No,1212
+2024-07,Greensboro,Forever 21,0,0,25.5,57.7,90.76,14.82,joggers,joggers,No,No,1342
+2024-07,Greensboro,Urban Outfitters,1,0,15.0,126.7,116.04,3.39,blazer,hoodie,No,Yes,830
+2024-07,Greensboro,American Eagle,0,0,22.9,112.7,84.7,-23.61,puffer jacket,hoodie,No,No,1234
+2024-08,Buffalo,H&M,0,0,2.3,126.7,99.6,-14.1,hoodie,puffer jacket,No,No,651
+2024-08,Buffalo,Zara,0,0,20.3,127.4,80.98,-24.6,joggers,shorts,No,No,1103
+2024-08,Buffalo,Uniqlo,0,0,0.3,37.1,106.14,18.89,hoodie,denim jacket,No,No,1270
+2024-08,Buffalo,Forever 21,0,0,34.6,65.0,100.54,17.31,joggers,hoodie,No,No,1451
+2024-08,Buffalo,Urban Outfitters,0,0,5.2,137.3,63.51,-6.38,denim jacket,denim jacket,No,No,674
+2024-08,Buffalo,American Eagle,1,0,11.1,73.8,68.17,15.47,blazer,blazer,No,No,619
+2024-08,Rochester,H&M,0,0,32.3,86.0,60.76,-3.9,shorts,blazer,No,Yes,1411
+2024-08,Rochester,Zara,0,0,1.0,82.9,114.17,5.07,hoodie,blazer,No,No,868
+2024-08,Rochester,Uniqlo,0,1,21.4,96.9,89.04,-18.55,shorts,shorts,No,Yes,1228
+2024-08,Rochester,Forever 21,0,0,14.5,165.0,79.2,28.39,shorts,hoodie,No,No,989
+2024-08,Rochester,Urban Outfitters,0,0,11.6,117.7,70.63,0.73,denim jacket,denim jacket,No,Yes,946
+2024-08,Rochester,American Eagle,1,1,19.3,152.7,92.74,6.85,blazer,joggers,No,No,1212
+2024-08,Tucson,H&M,1,0,0.9,194.1,69.74,-23.46,blazer,blazer,No,Yes,1303
+2024-08,Tucson,Zara,0,0,16.6,69.1,118.55,17.99,joggers,hoodie,No,No,744
+2024-08,Tucson,Uniqlo,0,0,24.7,23.8,78.88,-20.1,shorts,shorts,No,Yes,672
+2024-08,Tucson,Forever 21,0,1,26.6,56.7,76.02,-15.58,hoodie,denim jacket,No,No,581
+2024-08,Tucson,Urban Outfitters,0,1,6.2,161.1,94.89,26.71,joggers,hoodie,Yes,No,681
+2024-08,Tucson,American Eagle,1,0,27.4,177.7,60.85,22.51,shorts,joggers,No,No,754
+2024-08,Des Moines,H&M,0,0,6.1,143.5,98.48,-0.82,shorts,denim jacket,No,No,928
+2024-08,Des Moines,Zara,0,0,17.1,22.1,117.17,12.42,joggers,hoodie,No,No,1188
+2024-08,Des Moines,Uniqlo,0,0,8.7,152.8,86.15,-19.05,denim jacket,hoodie,No,No,1430
+2024-08,Des Moines,Forever 21,1,1,18.0,131.5,119.17,-3.4,hoodie,puffer jacket,No,No,1257
+2024-08,Des Moines,Urban Outfitters,1,0,28.3,117.5,69.8,-7.54,denim jacket,denim jacket,No,Yes,1056
+2024-08,Des Moines,American Eagle,1,0,9.0,74.3,63.69,-18.63,puffer jacket,hoodie,No,No,891
+2024-08,Greensboro,H&M,0,1,27.9,116.9,71.3,-10.77,puffer jacket,blazer,No,No,798
+2024-08,Greensboro,Zara,1,1,23.4,128.2,89.88,15.49,denim jacket,shorts,No,No,1122
+2024-08,Greensboro,Uniqlo,0,0,5.0,111.3,113.5,-4.01,puffer jacket,blazer,No,No,1215
+2024-08,Greensboro,Forever 21,1,1,19.8,149.4,100.79,18.17,shorts,puffer jacket,No,No,946
+2024-08,Greensboro,Urban Outfitters,0,0,12.6,41.4,96.03,18.82,joggers,joggers,No,No,555
+2024-08,Greensboro,American Eagle,0,0,4.7,71.3,73.51,-10.59,puffer jacket,shorts,No,No,1313
+2024-09,Buffalo,H&M,0,0,27.5,1.0,101.75,16.08,denim jacket,denim jacket,Yes,No,1174
+2024-09,Buffalo,Zara,1,1,10.9,145.1,98.52,8.56,denim jacket,puffer jacket,No,No,1128
+2024-09,Buffalo,Uniqlo,1,0,4.8,170.1,117.11,0.48,joggers,denim jacket,No,No,617
+2024-09,Buffalo,Forever 21,1,1,3.2,11.9,102.67,3.53,shorts,shorts,No,No,807
+2024-09,Buffalo,Urban Outfitters,0,0,10.6,79.1,61.22,-9.25,puffer jacket,hoodie,Yes,No,590
+2024-09,Buffalo,American Eagle,1,0,20.8,70.3,82.97,29.23,puffer jacket,joggers,No,No,789
+2024-09,Rochester,H&M,0,0,29.6,39.7,102.42,19.17,shorts,joggers,No,Yes,1232
+2024-09,Rochester,Zara,0,0,2.9,71.7,63.89,-19.16,shorts,hoodie,Yes,No,600
+2024-09,Rochester,Uniqlo,1,0,16.0,0.4,60.71,-13.06,blazer,hoodie,No,No,717
+2024-09,Rochester,Forever 21,1,0,28.3,119.4,112.51,29.3,shorts,joggers,No,No,1228
+2024-09,Rochester,Urban Outfitters,1,0,19.4,74.7,90.28,-0.98,hoodie,denim jacket,No,No,638
+2024-09,Rochester,American Eagle,0,0,28.5,182.7,77.85,-9.99,shorts,hoodie,No,No,1432
+2024-09,Tucson,H&M,0,0,30.3,27.2,80.06,-1.41,joggers,joggers,No,No,1458
+2024-09,Tucson,Zara,0,0,6.8,179.8,67.92,16.33,blazer,joggers,No,Yes,734
+2024-09,Tucson,Uniqlo,0,0,4.9,100.2,109.79,25.66,blazer,shorts,No,Yes,1005
+2024-09,Tucson,Forever 21,0,0,4.8,190.8,102.65,-14.18,hoodie,joggers,No,No,1179
+2024-09,Tucson,Urban Outfitters,0,0,24.4,158.0,65.8,9.63,blazer,denim jacket,No,No,904
+2024-09,Tucson,American Eagle,1,0,22.1,21.6,68.73,-29.61,hoodie,blazer,No,Yes,896
+2024-09,Des Moines,H&M,0,0,33.1,14.5,76.72,-12.81,shorts,blazer,No,No,1118
+2024-09,Des Moines,Zara,0,0,13.4,162.5,72.04,-17.45,denim jacket,blazer,No,No,847
+2024-09,Des Moines,Uniqlo,0,0,33.8,97.5,94.79,3.3,hoodie,hoodie,Yes,No,1254
+2024-09,Des Moines,Forever 21,1,0,15.2,182.8,68.07,13.07,denim jacket,joggers,No,No,1032
+2024-09,Des Moines,Urban Outfitters,1,0,26.4,6.6,115.88,-24.81,hoodie,hoodie,Yes,No,1447
+2024-09,Des Moines,American Eagle,1,0,5.5,37.1,69.47,10.63,hoodie,denim jacket,No,No,548
+2024-09,Greensboro,H&M,0,0,2.3,154.0,73.96,19.39,hoodie,hoodie,No,No,933
+2024-09,Greensboro,Zara,0,0,8.0,176.9,79.29,29.66,shorts,puffer jacket,No,No,1006
+2024-09,Greensboro,Uniqlo,1,0,15.9,60.5,112.04,22.53,denim jacket,hoodie,Yes,No,709
+2024-09,Greensboro,Forever 21,0,1,7.1,180.4,64.02,28.71,denim jacket,puffer jacket,No,No,994
+2024-09,Greensboro,Urban Outfitters,0,1,18.9,127.6,84.21,-0.13,puffer jacket,blazer,No,Yes,619
+2024-09,Greensboro,American Eagle,1,0,8.9,101.9,106.29,-23.41,hoodie,denim jacket,No,No,1189
+2024-10,Buffalo,H&M,0,0,22.7,136.9,60.88,10.52,blazer,puffer jacket,No,Yes,1177
+2024-10,Buffalo,Zara,0,0,9.2,55.3,104.94,20.99,hoodie,blazer,No,Yes,663
+2024-10,Buffalo,Uniqlo,0,0,10.6,155.9,103.72,-2.93,puffer jacket,puffer jacket,No,No,1226
+2024-10,Buffalo,Forever 21,0,0,6.5,67.9,116.95,8.36,puffer jacket,shorts,No,No,581
+2024-10,Buffalo,Urban Outfitters,0,0,22.4,61.7,84.83,9.51,puffer jacket,joggers,Yes,No,1097
+2024-10,Buffalo,American Eagle,0,1,9.4,129.2,69.06,0.97,hoodie,hoodie,No,No,1152
+2024-10,Rochester,H&M,0,0,34.5,45.5,72.27,-16.38,joggers,joggers,No,No,562
+2024-10,Rochester,Zara,0,0,9.9,9.5,67.01,-4.0,hoodie,hoodie,No,No,1473
+2024-10,Rochester,Uniqlo,0,1,17.9,36.0,96.14,-9.78,denim jacket,joggers,No,No,1062
+2024-10,Rochester,Forever 21,0,0,27.3,188.3,60.68,-21.77,blazer,blazer,No,No,1331
+2024-10,Rochester,Urban Outfitters,0,0,26.7,44.0,62.88,-8.4,joggers,hoodie,No,No,1099
+2024-10,Rochester,American Eagle,0,0,9.8,193.6,91.94,6.93,blazer,blazer,No,No,830
+2024-10,Tucson,H&M,0,0,18.0,90.3,97.47,-22.35,shorts,blazer,No,No,951
+2024-10,Tucson,Zara,0,0,29.1,29.0,106.43,-2.22,puffer jacket,joggers,Yes,No,669
+2024-10,Tucson,Uniqlo,0,0,32.9,43.3,104.58,-17.41,blazer,denim jacket,No,Yes,508
+2024-10,Tucson,Forever 21,0,0,20.6,71.6,104.32,-15.52,denim jacket,blazer,No,No,637
+2024-10,Tucson,Urban Outfitters,0,0,28.6,99.5,99.44,-11.07,blazer,joggers,No,No,659
+2024-10,Tucson,American Eagle,0,0,6.2,152.2,102.41,-5.9,shorts,joggers,No,No,735
+2024-10,Des Moines,H&M,0,0,32.0,80.7,60.49,16.49,puffer jacket,hoodie,No,No,1346
+2024-10,Des Moines,Zara,0,0,14.9,18.6,77.25,3.98,hoodie,puffer jacket,Yes,No,973
+2024-10,Des Moines,Uniqlo,0,0,26.5,62.1,105.86,-23.89,hoodie,blazer,No,Yes,1439
+2024-10,Des Moines,Forever 21,0,0,17.0,140.4,84.81,0.42,hoodie,denim jacket,Yes,Yes,593
+2024-10,Des Moines,Urban Outfitters,0,0,22.0,99.5,99.72,-12.79,blazer,shorts,No,No,1396
+2024-10,Des Moines,American Eagle,0,0,33.2,54.0,79.27,-13.89,joggers,shorts,No,No,1409
+2024-10,Greensboro,H&M,0,1,11.0,122.4,62.24,16.64,denim jacket,joggers,No,No,991
+2024-10,Greensboro,Zara,1,0,26.1,43.5,112.57,14.27,hoodie,denim jacket,No,Yes,998
+2024-10,Greensboro,Uniqlo,0,0,26.3,22.8,87.74,22.91,blazer,blazer,No,No,1193
+2024-10,Greensboro,Forever 21,1,0,21.8,185.2,70.79,-18.39,joggers,denim jacket,No,Yes,846
+2024-10,Greensboro,Urban Outfitters,1,1,15.8,145.4,88.44,-17.71,hoodie,puffer jacket,No,No,898
+2024-10,Greensboro,American Eagle,0,0,15.4,71.9,102.87,0.8,shorts,blazer,Yes,No,784
+2024-11,Buffalo,H&M,0,0,11.5,96.9,114.7,-20.64,hoodie,joggers,No,No,1078
+2024-11,Buffalo,Zara,0,0,5.5,24.5,62.05,16.05,denim jacket,joggers,No,No,806
+2024-11,Buffalo,Uniqlo,1,1,6.9,38.2,82.67,-19.53,joggers,blazer,No,No,1025
+2024-11,Buffalo,Forever 21,1,1,34.2,34.9,113.3,-7.7,hoodie,shorts,No,Yes,843
+2024-11,Buffalo,Urban Outfitters,1,0,32.0,90.7,83.3,0.73,blazer,joggers,No,No,1056
+2024-11,Buffalo,American Eagle,0,0,17.3,86.4,106.64,28.4,shorts,puffer jacket,No,No,1070
+2024-11,Rochester,H&M,0,0,6.3,195.9,85.26,-11.79,puffer jacket,joggers,No,No,696
+2024-11,Rochester,Zara,0,1,32.4,28.8,89.27,25.44,blazer,denim jacket,No,No,1122
+2024-11,Rochester,Uniqlo,0,0,19.7,187.7,115.27,-7.31,hoodie,denim jacket,No,Yes,643
+2024-11,Rochester,Forever 21,0,0,14.5,66.5,99.81,-23.77,shorts,denim jacket,No,No,872
+2024-11,Rochester,Urban Outfitters,0,1,17.3,13.0,110.66,-25.79,shorts,denim jacket,No,No,991
+2024-11,Rochester,American Eagle,0,0,14.7,175.9,104.34,-12.06,puffer jacket,denim jacket,No,No,1467
+2024-11,Tucson,H&M,1,0,3.6,102.6,86.82,8.4,shorts,denim jacket,No,No,592
+2024-11,Tucson,Zara,0,0,7.9,137.8,77.97,-14.17,shorts,blazer,No,No,1245
+2024-11,Tucson,Uniqlo,0,0,14.8,44.6,85.63,29.55,denim jacket,joggers,No,No,1393
+2024-11,Tucson,Forever 21,1,0,25.7,69.1,100.39,-3.3,blazer,hoodie,No,No,718
+2024-11,Tucson,Urban Outfitters,1,0,2.7,145.9,78.47,26.16,blazer,blazer,No,No,611
+2024-11,Tucson,American Eagle,0,0,22.8,174.1,111.24,22.69,hoodie,denim jacket,No,Yes,1067
+2024-11,Des Moines,H&M,0,0,26.2,58.2,93.93,5.52,joggers,joggers,Yes,Yes,898
+2024-11,Des Moines,Zara,0,0,33.2,116.1,75.48,23.72,joggers,shorts,No,No,744
+2024-11,Des Moines,Uniqlo,0,0,5.1,119.1,61.62,28.83,blazer,shorts,No,No,588
+2024-11,Des Moines,Forever 21,0,0,7.5,20.0,64.2,-20.26,blazer,denim jacket,No,No,1499
+2024-11,Des Moines,Urban Outfitters,0,0,3.6,90.5,98.61,23.86,denim jacket,puffer jacket,No,No,1055
+2024-11,Des Moines,American Eagle,0,0,33.0,160.4,105.84,-26.72,hoodie,joggers,No,No,1462
+2024-11,Greensboro,H&M,0,0,24.9,79.8,92.43,25.12,blazer,shorts,No,No,701
+2024-11,Greensboro,Zara,1,0,10.2,200.0,91.87,-26.31,hoodie,denim jacket,No,No,1129
+2024-11,Greensboro,Uniqlo,0,0,18.2,157.0,93.76,-16.51,denim jacket,shorts,No,No,814
+2024-11,Greensboro,Forever 21,0,0,33.4,187.7,83.5,21.48,blazer,denim jacket,No,No,1003
+2024-11,Greensboro,Urban Outfitters,0,0,25.3,84.7,101.11,20.68,hoodie,shorts,No,No,1295
+2024-11,Greensboro,American Eagle,0,0,7.2,191.3,75.39,11.96,shorts,denim jacket,No,No,569
+2024-12,Buffalo,H&M,0,0,13.0,196.4,68.26,-23.08,denim jacket,joggers,Yes,No,870
+2024-12,Buffalo,Zara,0,0,8.4,135.0,77.1,2.95,puffer jacket,blazer,No,No,889
+2024-12,Buffalo,Uniqlo,0,0,5.0,108.5,90.39,-1.46,hoodie,joggers,No,No,1382
+2024-12,Buffalo,Forever 21,0,0,13.6,21.9,81.94,27.32,puffer jacket,joggers,No,No,702
+2024-12,Buffalo,Urban Outfitters,0,0,4.7,84.3,62.61,17.88,puffer jacket,hoodie,Yes,No,851
+2024-12,Buffalo,American Eagle,0,0,14.4,94.6,69.1,29.48,joggers,denim jacket,No,No,1430
+2024-12,Rochester,H&M,0,0,29.9,180.6,73.83,-9.16,puffer jacket,denim jacket,No,No,689
+2024-12,Rochester,Zara,0,0,22.8,144.0,97.41,28.92,joggers,joggers,Yes,No,1185
+2024-12,Rochester,Uniqlo,0,0,19.3,144.2,108.29,22.17,shorts,puffer jacket,No,No,528
+2024-12,Rochester,Forever 21,0,0,30.5,16.9,76.4,-24.56,puffer jacket,shorts,No,No,1427
+2024-12,Rochester,Urban Outfitters,0,0,29.4,41.4,76.09,3.1,denim jacket,puffer jacket,No,No,643
+2024-12,Rochester,American Eagle,0,1,18.0,23.7,67.24,5.92,blazer,hoodie,Yes,No,833
+2024-12,Tucson,H&M,0,0,8.2,60.7,61.15,-25.68,hoodie,blazer,No,No,1444
+2024-12,Tucson,Zara,1,0,14.4,7.9,107.44,24.16,denim jacket,hoodie,No,No,610
+2024-12,Tucson,Uniqlo,0,0,10.1,101.5,113.17,-26.18,denim jacket,shorts,No,No,1126
+2024-12,Tucson,Forever 21,1,0,22.6,21.8,98.13,-6.01,denim jacket,puffer jacket,No,No,1339
+2024-12,Tucson,Urban Outfitters,1,0,7.6,18.8,90.42,-1.46,puffer jacket,shorts,Yes,No,851
+2024-12,Tucson,American Eagle,0,0,27.9,198.4,117.93,-15.54,puffer jacket,blazer,No,No,921
+2024-12,Des Moines,H&M,0,1,7.5,152.9,82.25,25.03,puffer jacket,shorts,No,No,1258
+2024-12,Des Moines,Zara,0,0,25.6,83.2,105.78,-27.76,blazer,puffer jacket,No,No,551
+2024-12,Des Moines,Uniqlo,0,1,13.8,40.6,93.44,-6.28,joggers,blazer,No,No,1399
+2024-12,Des Moines,Forever 21,1,0,33.7,188.9,71.56,-8.25,hoodie,denim jacket,No,No,918
+2024-12,Des Moines,Urban Outfitters,0,0,34.6,6.9,64.79,-6.18,puffer jacket,joggers,No,No,872
+2024-12,Des Moines,American Eagle,0,0,8.1,39.7,94.67,-23.9,denim jacket,puffer jacket,No,No,1330
+2024-12,Greensboro,H&M,0,0,12.0,149.2,93.96,20.19,denim jacket,hoodie,No,No,854
+2024-12,Greensboro,Zara,1,0,32.4,82.2,104.44,17.79,shorts,blazer,No,No,873
+2024-12,Greensboro,Uniqlo,0,0,8.3,107.0,90.18,23.45,blazer,joggers,No,No,641
+2024-12,Greensboro,Forever 21,0,0,3.2,126.5,97.8,-26.76,denim jacket,puffer jacket,No,No,589
+2024-12,Greensboro,Urban Outfitters,1,0,7.1,80.5,73.04,-1.43,hoodie,denim jacket,No,No,1120
+2024-12,Greensboro,American Eagle,0,0,13.7,56.7,110.7,-26.28,hoodie,puffer jacket,No,No,1430
+2025-01,Buffalo,H&M,0,0,12.7,95.9,109.31,26.19,joggers,joggers,Yes,No,695
+2025-01,Buffalo,Zara,0,0,34.2,152.3,65.36,5.8,hoodie,denim jacket,No,No,1080
+2025-01,Buffalo,Uniqlo,0,0,5.0,94.5,111.16,17.11,shorts,blazer,No,No,1460
+2025-01,Buffalo,Forever 21,0,0,6.0,163.0,110.46,22.68,puffer jacket,joggers,No,No,908
+2025-01,Buffalo,Urban Outfitters,0,0,32.1,191.0,66.54,9.47,denim jacket,denim jacket,No,No,1275
+2025-01,Buffalo,American Eagle,0,0,15.1,77.6,110.67,-3.38,puffer jacket,puffer jacket,No,No,1243
+2025-01,Rochester,H&M,0,0,11.3,14.0,110.13,-16.48,denim jacket,blazer,No,Yes,823
+2025-01,Rochester,Zara,0,0,28.9,151.4,93.64,-15.71,shorts,shorts,No,No,792
+2025-01,Rochester,Uniqlo,1,0,19.3,165.5,111.74,-4.22,hoodie,denim jacket,No,No,618
+2025-01,Rochester,Forever 21,0,0,7.1,3.3,71.16,16.56,hoodie,blazer,No,No,736
+2025-01,Rochester,Urban Outfitters,0,0,5.4,33.9,86.53,9.48,denim jacket,blazer,No,No,967
+2025-01,Rochester,American Eagle,0,0,1.4,121.1,109.95,2.98,puffer jacket,hoodie,No,No,1213
+2025-01,Tucson,H&M,1,1,17.2,94.8,96.13,10.01,hoodie,denim jacket,No,No,775
+2025-01,Tucson,Zara,0,0,22.1,167.2,66.82,2.21,blazer,puffer jacket,No,No,741
+2025-01,Tucson,Uniqlo,0,0,4.7,110.3,81.62,-12.56,joggers,joggers,No,No,1438
+2025-01,Tucson,Forever 21,0,0,29.6,177.9,102.77,-5.36,shorts,puffer jacket,No,No,993
+2025-01,Tucson,Urban Outfitters,0,0,14.7,134.6,74.22,9.32,puffer jacket,denim jacket,No,No,1015
+2025-01,Tucson,American Eagle,0,0,34.8,78.7,99.45,-26.62,puffer jacket,joggers,No,No,1024
+2025-01,Des Moines,H&M,0,0,29.4,176.0,69.93,-3.17,puffer jacket,hoodie,No,Yes,1022
+2025-01,Des Moines,Zara,0,0,12.9,119.9,98.76,-2.46,puffer jacket,joggers,No,Yes,827
+2025-01,Des Moines,Uniqlo,0,0,17.7,13.0,110.13,-28.11,puffer jacket,hoodie,No,No,1392
+2025-01,Des Moines,Forever 21,0,0,16.0,69.1,60.88,11.56,shorts,blazer,No,No,1163
+2025-01,Des Moines,Urban Outfitters,1,0,12.6,30.8,63.57,17.73,puffer jacket,blazer,No,No,647
+2025-01,Des Moines,American Eagle,0,1,12.8,127.5,108.26,-8.11,shorts,shorts,No,No,1129
+2025-01,Greensboro,H&M,1,0,10.9,5.1,107.23,-26.39,hoodie,puffer jacket,Yes,Yes,1022
+2025-01,Greensboro,Zara,1,0,10.3,62.7,102.87,-28.33,shorts,denim jacket,Yes,No,1157
+2025-01,Greensboro,Uniqlo,0,0,16.3,189.4,74.93,-5.99,puffer jacket,shorts,No,No,885
+2025-01,Greensboro,Forever 21,0,0,33.4,183.4,100.4,-11.07,blazer,denim jacket,No,No,1063
+2025-01,Greensboro,Urban Outfitters,0,1,28.5,162.0,82.57,16.69,blazer,joggers,No,No,1087
+2025-01,Greensboro,American Eagle,1,0,11.2,120.4,71.96,-11.51,shorts,blazer,No,No,592
+2025-02,Buffalo,H&M,0,1,29.0,173.2,114.98,-14.33,denim jacket,shorts,No,No,985
+2025-02,Buffalo,Zara,0,0,0.2,81.3,96.84,24.6,hoodie,joggers,No,No,1359
+2025-02,Buffalo,Uniqlo,0,0,28.6,120.4,103.3,-10.09,puffer jacket,shorts,No,No,928
+2025-02,Buffalo,Forever 21,0,0,31.1,144.9,87.81,28.22,puffer jacket,puffer jacket,No,No,1455
+2025-02,Buffalo,Urban Outfitters,0,0,1.9,92.2,65.87,22.24,blazer,denim jacket,No,Yes,1047
+2025-02,Buffalo,American Eagle,0,1,33.9,155.5,78.69,-24.27,denim jacket,shorts,No,Yes,1189
+2025-02,Rochester,H&M,1,1,18.1,136.0,77.04,22.91,shorts,blazer,No,No,1369
+2025-02,Rochester,Zara,0,0,29.6,149.8,82.63,29.44,hoodie,puffer jacket,Yes,No,577
+2025-02,Rochester,Uniqlo,1,0,16.0,48.6,67.33,-20.87,hoodie,shorts,No,No,994
+2025-02,Rochester,Forever 21,0,1,11.2,93.3,96.24,-29.1,puffer jacket,denim jacket,No,No,809
+2025-02,Rochester,Urban Outfitters,0,0,29.4,43.3,62.66,29.01,joggers,hoodie,No,No,878
+2025-02,Rochester,American Eagle,0,0,23.4,104.0,97.22,25.78,shorts,hoodie,No,No,1471
+2025-02,Tucson,H&M,0,0,6.0,46.2,94.68,7.02,hoodie,blazer,No,No,779
+2025-02,Tucson,Zara,1,0,9.7,195.5,108.26,-21.9,shorts,denim jacket,No,No,738
+2025-02,Tucson,Uniqlo,0,0,13.6,2.4,62.92,25.98,joggers,puffer jacket,No,No,522
+2025-02,Tucson,Forever 21,0,0,27.5,41.2,119.45,11.91,hoodie,blazer,No,No,1224
+2025-02,Tucson,Urban Outfitters,0,0,33.8,14.9,74.87,9.02,hoodie,puffer jacket,No,No,904
+2025-02,Tucson,American Eagle,0,0,16.0,76.0,118.82,9.85,shorts,joggers,No,No,926
+2025-02,Des Moines,H&M,0,1,0.3,181.7,86.38,-20.75,denim jacket,denim jacket,No,Yes,1425
+2025-02,Des Moines,Zara,0,0,33.8,65.3,73.81,-21.7,shorts,shorts,No,No,791
+2025-02,Des Moines,Uniqlo,1,0,10.8,126.1,91.77,2.8,denim jacket,denim jacket,No,No,536
+2025-02,Des Moines,Forever 21,1,0,31.6,145.7,96.3,-15.53,denim jacket,joggers,No,Yes,1167
+2025-02,Des Moines,Urban Outfitters,0,0,27.8,156.7,92.1,-0.08,hoodie,blazer,No,No,873
+2025-02,Des Moines,American Eagle,1,0,21.7,66.4,61.02,-26.05,puffer jacket,puffer jacket,No,Yes,1423
+2025-02,Greensboro,H&M,0,0,23.4,122.5,66.79,-21.99,puffer jacket,shorts,No,No,748
+2025-02,Greensboro,Zara,0,0,3.3,80.4,70.88,-23.0,puffer jacket,joggers,No,No,1460
+2025-02,Greensboro,Uniqlo,0,0,15.9,164.9,74.94,27.8,joggers,shorts,Yes,No,873
+2025-02,Greensboro,Forever 21,0,0,5.3,120.8,72.92,-19.16,joggers,hoodie,No,No,1427
+2025-02,Greensboro,Urban Outfitters,0,0,15.5,179.7,78.87,27.36,shorts,hoodie,No,No,845
+2025-02,Greensboro,American Eagle,0,0,26.7,117.4,95.32,9.35,hoodie,joggers,No,No,1136
+2025-03,Buffalo,H&M,1,0,0.4,72.6,86.26,-27.11,shorts,denim jacket,No,No,1015
+2025-03,Buffalo,Zara,0,0,23.9,195.1,89.49,14.55,blazer,joggers,No,No,653
+2025-03,Buffalo,Uniqlo,0,0,0.9,119.1,60.06,-7.89,hoodie,shorts,No,No,863
+2025-03,Buffalo,Forever 21,1,1,9.2,118.6,118.35,12.49,denim jacket,hoodie,No,No,705
+2025-03,Buffalo,Urban Outfitters,0,1,11.3,91.3,87.83,15.33,puffer jacket,joggers,No,No,567
+2025-03,Buffalo,American Eagle,0,0,5.1,149.1,109.6,-1.12,joggers,hoodie,No,No,642
+2025-03,Rochester,H&M,1,0,22.7,136.6,84.0,-27.63,shorts,puffer jacket,No,No,1438
+2025-03,Rochester,Zara,1,0,3.6,120.4,88.9,21.63,hoodie,hoodie,No,Yes,1369
+2025-03,Rochester,Uniqlo,1,0,28.3,168.9,98.85,24.39,hoodie,puffer jacket,No,No,554
+2025-03,Rochester,Forever 21,0,0,32.5,190.6,108.68,3.95,denim jacket,shorts,No,No,517
+2025-03,Rochester,Urban Outfitters,0,0,26.9,101.5,78.07,-13.49,denim jacket,denim jacket,No,No,819
+2025-03,Rochester,American Eagle,1,0,5.4,185.7,114.14,-22.57,puffer jacket,hoodie,Yes,Yes,741
+2025-03,Tucson,H&M,0,0,15.1,35.0,114.63,3.51,hoodie,joggers,No,No,693
+2025-03,Tucson,Zara,0,0,20.9,43.9,96.75,-25.44,hoodie,shorts,No,Yes,782
+2025-03,Tucson,Uniqlo,0,0,17.9,10.9,91.28,24.09,hoodie,shorts,No,Yes,506
+2025-03,Tucson,Forever 21,0,0,34.9,133.3,90.41,13.89,joggers,puffer jacket,No,No,867
+2025-03,Tucson,Urban Outfitters,0,0,14.4,39.4,102.24,-28.73,blazer,denim jacket,Yes,No,706
+2025-03,Tucson,American Eagle,0,0,3.8,8.3,119.61,-18.28,hoodie,denim jacket,No,Yes,1084
+2025-03,Des Moines,H&M,0,1,9.1,61.1,64.48,7.13,denim jacket,joggers,No,Yes,1085
+2025-03,Des Moines,Zara,0,0,27.5,88.5,70.67,25.3,puffer jacket,puffer jacket,No,No,1481
+2025-03,Des Moines,Uniqlo,1,1,26.6,171.9,64.74,22.83,shorts,hoodie,No,No,1357
+2025-03,Des Moines,Forever 21,0,0,28.7,96.6,79.25,11.65,joggers,denim jacket,No,No,587
+2025-03,Des Moines,Urban Outfitters,0,0,5.1,107.7,98.53,15.36,denim jacket,shorts,No,No,1010
+2025-03,Des Moines,American Eagle,1,0,10.7,192.1,72.15,-5.38,blazer,shorts,No,No,976
+2025-03,Greensboro,H&M,0,0,13.4,119.5,69.19,3.31,hoodie,denim jacket,No,No,647
+2025-03,Greensboro,Zara,0,0,18.4,64.0,70.07,-20.82,hoodie,joggers,No,No,891
+2025-03,Greensboro,Uniqlo,1,0,10.9,33.1,75.36,-18.44,blazer,puffer jacket,Yes,No,1408
+2025-03,Greensboro,Forever 21,0,0,24.3,164.4,75.12,-19.42,hoodie,blazer,No,No,931
+2025-03,Greensboro,Urban Outfitters,0,0,0.8,167.6,89.68,26.61,blazer,denim jacket,No,No,896
+2025-03,Greensboro,American Eagle,0,0,33.3,83.8,113.82,-21.7,denim jacket,denim jacket,No,No,901
+2025-04,Buffalo,H&M,0,0,31.8,3.4,87.85,3.82,blazer,shorts,No,No,1340
+2025-04,Buffalo,Zara,0,0,24.1,9.6,77.11,-8.48,hoodie,joggers,No,Yes,1455
+2025-04,Buffalo,Uniqlo,0,0,11.9,148.5,62.38,6.23,shorts,hoodie,No,No,1000
+2025-04,Buffalo,Forever 21,1,1,29.6,68.7,100.88,-28.29,puffer jacket,shorts,No,No,788
+2025-04,Buffalo,Urban Outfitters,0,0,22.1,181.2,63.59,26.33,denim jacket,blazer,No,No,1333
+2025-04,Buffalo,American Eagle,0,0,26.3,58.0,66.21,-23.87,hoodie,blazer,Yes,No,1425
+2025-04,Rochester,H&M,0,0,27.9,162.0,88.32,11.08,denim jacket,denim jacket,No,No,1213
+2025-04,Rochester,Zara,0,1,18.8,61.4,88.55,-16.83,denim jacket,denim jacket,No,No,1003
+2025-04,Rochester,Uniqlo,1,0,33.6,120.7,65.07,-10.59,blazer,puffer jacket,No,Yes,900
+2025-04,Rochester,Forever 21,1,1,30.4,1.4,83.92,-13.18,joggers,denim jacket,No,Yes,1383
+2025-04,Rochester,Urban Outfitters,0,0,7.0,105.5,88.29,28.25,denim jacket,joggers,No,No,1324
+2025-04,Rochester,American Eagle,0,0,17.1,29.5,106.61,3.0,puffer jacket,puffer jacket,No,No,1404
+2025-04,Tucson,H&M,0,1,15.1,146.5,88.95,24.02,shorts,hoodie,No,No,660
+2025-04,Tucson,Zara,0,0,13.0,151.5,97.37,-17.01,shorts,hoodie,No,No,1065
+2025-04,Tucson,Uniqlo,1,0,2.3,90.6,70.07,-1.08,puffer jacket,denim jacket,No,No,916
+2025-04,Tucson,Forever 21,0,0,11.6,24.7,89.03,-16.92,shorts,joggers,No,Yes,791
+2025-04,Tucson,Urban Outfitters,0,0,17.7,113.1,78.11,-22.95,hoodie,denim jacket,No,No,920
+2025-04,Tucson,American Eagle,1,0,29.1,139.4,88.93,13.82,denim jacket,shorts,No,No,879
+2025-04,Des Moines,H&M,0,0,6.7,83.3,65.54,27.82,denim jacket,hoodie,Yes,Yes,1349
+2025-04,Des Moines,Zara,0,0,21.7,30.0,118.55,10.99,puffer jacket,puffer jacket,No,Yes,672
+2025-04,Des Moines,Uniqlo,0,0,9.9,161.3,113.81,-9.63,joggers,blazer,No,No,731
+2025-04,Des Moines,Forever 21,0,0,29.8,149.8,105.32,29.91,hoodie,joggers,No,Yes,907
+2025-04,Des Moines,Urban Outfitters,1,0,14.6,180.0,110.45,-1.59,puffer jacket,denim jacket,No,No,1493
+2025-04,Des Moines,American Eagle,0,0,27.6,92.7,67.18,-4.05,denim jacket,hoodie,No,No,923
+2025-04,Greensboro,H&M,0,0,22.2,123.0,94.89,-10.13,hoodie,hoodie,No,Yes,1121
+2025-04,Greensboro,Zara,0,0,8.6,61.9,86.37,12.73,blazer,denim jacket,No,No,581
+2025-04,Greensboro,Uniqlo,0,1,19.5,195.3,95.86,13.27,denim jacket,denim jacket,No,Yes,660
+2025-04,Greensboro,Forever 21,0,0,16.1,2.0,113.12,9.61,joggers,blazer,Yes,No,1246
+2025-04,Greensboro,Urban Outfitters,1,0,21.1,89.2,81.55,-8.35,hoodie,puffer jacket,No,No,673
+2025-04,Greensboro,American Eagle,0,0,19.4,15.5,103.61,-13.88,denim jacket,puffer jacket,No,No,1038
+2025-05,Buffalo,H&M,0,1,20.2,19.6,102.0,25.18,shorts,denim jacket,No,No,1307
+2025-05,Buffalo,Zara,0,0,3.8,24.5,67.99,24.22,shorts,shorts,No,No,1394
+2025-05,Buffalo,Uniqlo,0,0,18.6,94.6,66.61,-8.8,hoodie,shorts,No,No,615
+2025-05,Buffalo,Forever 21,0,1,26.0,5.3,73.73,7.96,shorts,joggers,No,No,1334
+2025-05,Buffalo,Urban Outfitters,0,0,18.6,194.8,73.54,-19.03,puffer jacket,puffer jacket,No,Yes,1373
+2025-05,Buffalo,American Eagle,0,0,23.3,199.3,60.4,-4.25,denim jacket,shorts,No,No,1369
+2025-05,Rochester,H&M,0,1,1.9,26.7,103.71,-15.46,blazer,hoodie,No,No,1325
+2025-05,Rochester,Zara,1,0,29.3,109.6,102.83,-24.17,denim jacket,blazer,Yes,No,933
+2025-05,Rochester,Uniqlo,1,0,30.9,154.4,91.08,-28.1,denim jacket,puffer jacket,No,No,588
+2025-05,Rochester,Forever 21,0,0,26.2,153.7,71.86,15.18,hoodie,puffer jacket,No,No,893
+2025-05,Rochester,Urban Outfitters,0,0,13.6,20.9,68.78,-12.31,denim jacket,denim jacket,No,No,709
+2025-05,Rochester,American Eagle,0,0,0.3,195.1,86.99,14.81,shorts,blazer,No,No,1230
+2025-05,Tucson,H&M,0,0,2.4,92.4,99.11,2.74,blazer,hoodie,No,No,1351
+2025-05,Tucson,Zara,0,1,18.0,101.1,91.83,-2.71,joggers,hoodie,No,No,1152
+2025-05,Tucson,Uniqlo,1,0,19.6,73.0,77.07,1.31,joggers,denim jacket,No,Yes,1133
+2025-05,Tucson,Forever 21,0,0,5.5,113.5,110.33,23.98,shorts,denim jacket,No,No,866
+2025-05,Tucson,Urban Outfitters,0,1,12.9,172.7,96.71,21.73,puffer jacket,blazer,Yes,No,883
+2025-05,Tucson,American Eagle,0,0,31.2,196.8,78.21,2.37,hoodie,hoodie,Yes,No,1168
+2025-05,Des Moines,H&M,0,1,31.7,84.5,110.04,-15.56,shorts,puffer jacket,Yes,No,867
+2025-05,Des Moines,Zara,1,0,15.4,30.9,105.38,8.93,joggers,joggers,Yes,Yes,734
+2025-05,Des Moines,Uniqlo,1,0,9.5,169.8,64.36,13.61,blazer,denim jacket,No,No,947
+2025-05,Des Moines,Forever 21,0,0,7.8,11.3,78.2,-15.18,shorts,puffer jacket,No,No,1347
+2025-05,Des Moines,Urban Outfitters,0,1,2.7,18.0,98.29,20.32,denim jacket,denim jacket,No,Yes,1473
+2025-05,Des Moines,American Eagle,0,0,18.0,155.1,95.82,3.26,hoodie,denim jacket,No,No,866
+2025-05,Greensboro,H&M,0,0,25.7,86.9,110.95,16.79,blazer,shorts,No,No,1194
+2025-05,Greensboro,Zara,0,1,27.7,50.3,110.61,2.36,blazer,blazer,No,No,949
+2025-05,Greensboro,Uniqlo,0,0,0.5,59.0,94.97,-22.86,shorts,joggers,No,No,604
+2025-05,Greensboro,Forever 21,0,0,24.1,178.3,99.78,0.66,blazer,hoodie,No,Yes,1282
+2025-05,Greensboro,Urban Outfitters,0,0,31.5,53.3,108.76,-0.48,shorts,puffer jacket,No,No,1399
+2025-05,Greensboro,American Eagle,0,0,11.4,23.7,112.74,-15.39,denim jacket,blazer,No,Yes,624
+2025-06,Buffalo,H&M,0,1,2.0,161.3,92.89,14.97,denim jacket,blazer,No,No,884
+2025-06,Buffalo,Zara,0,0,28.2,48.8,108.94,2.97,puffer jacket,denim jacket,No,No,1001
+2025-06,Buffalo,Uniqlo,1,0,6.9,81.2,61.68,-23.71,puffer jacket,blazer,No,No,1102
+2025-06,Buffalo,Forever 21,0,0,33.7,83.6,108.09,-9.83,puffer jacket,shorts,No,No,997
+2025-06,Buffalo,Urban Outfitters,0,0,21.7,188.4,113.27,7.35,blazer,hoodie,No,No,1304
+2025-06,Buffalo,American Eagle,0,0,34.2,189.8,80.25,22.25,hoodie,blazer,No,No,1063
+2025-06,Rochester,H&M,0,0,22.8,88.7,117.54,28.22,blazer,blazer,No,No,1210
+2025-06,Rochester,Zara,0,0,34.4,188.2,112.85,-20.46,shorts,hoodie,No,No,1387
+2025-06,Rochester,Uniqlo,0,1,18.6,39.6,68.16,-18.96,shorts,blazer,Yes,Yes,1239
+2025-06,Rochester,Forever 21,1,0,5.6,54.6,101.74,17.77,joggers,shorts,No,No,684
+2025-06,Rochester,Urban Outfitters,0,0,16.4,4.8,115.96,9.92,joggers,hoodie,No,No,1096
+2025-06,Rochester,American Eagle,0,0,1.8,139.3,109.55,10.15,denim jacket,shorts,No,Yes,582
+2025-06,Tucson,H&M,1,0,4.7,113.4,110.68,-13.77,denim jacket,hoodie,No,No,1145
+2025-06,Tucson,Zara,0,1,21.2,71.0,87.66,-22.61,puffer jacket,blazer,No,No,833
+2025-06,Tucson,Uniqlo,0,0,34.6,54.9,111.09,0.64,shorts,puffer jacket,No,Yes,697
+2025-06,Tucson,Forever 21,1,1,19.1,55.7,63.14,12.66,denim jacket,blazer,No,No,911
+2025-06,Tucson,Urban Outfitters,1,0,26.3,146.9,62.61,-27.59,hoodie,joggers,No,No,1015
+2025-06,Tucson,American Eagle,1,0,25.1,33.6,98.84,14.08,puffer jacket,shorts,No,No,1320
+2025-06,Des Moines,H&M,0,1,11.4,183.3,119.9,-3.07,joggers,blazer,No,No,776
+2025-06,Des Moines,Zara,0,1,29.1,68.3,63.4,-17.32,shorts,puffer jacket,No,No,802
+2025-06,Des Moines,Uniqlo,0,0,15.8,35.6,77.08,17.52,shorts,blazer,Yes,No,939
+2025-06,Des Moines,Forever 21,0,0,32.8,106.4,84.01,1.79,joggers,shorts,Yes,No,942
+2025-06,Des Moines,Urban Outfitters,0,0,18.8,196.6,96.57,-29.15,blazer,denim jacket,No,No,853
+2025-06,Des Moines,American Eagle,0,0,13.4,140.8,64.26,-10.3,joggers,denim jacket,No,No,1143
+2025-06,Greensboro,H&M,0,0,32.8,197.9,94.4,21.81,joggers,joggers,No,No,1035
+2025-06,Greensboro,Zara,1,0,27.1,150.2,72.87,14.83,puffer jacket,joggers,No,No,776
+2025-06,Greensboro,Uniqlo,0,0,12.4,84.9,63.52,3.98,puffer jacket,blazer,No,No,691
+2025-06,Greensboro,Forever 21,0,1,23.6,106.3,82.45,-26.56,hoodie,blazer,No,No,1062
+2025-06,Greensboro,Urban Outfitters,0,1,4.0,119.5,73.92,-2.72,hoodie,blazer,No,No,1003
+2025-06,Greensboro,American Eagle,0,0,26.0,153.9,94.39,14.23,hoodie,blazer,No,No,795
+2025-07,Buffalo,H&M,0,1,12.5,9.4,91.73,9.75,puffer jacket,denim jacket,No,No,624
+2025-07,Buffalo,Zara,0,1,34.8,154.2,80.06,-5.86,hoodie,shorts,No,No,617
+2025-07,Buffalo,Uniqlo,1,0,25.1,44.8,80.68,-22.5,hoodie,puffer jacket,No,Yes,925
+2025-07,Buffalo,Forever 21,1,0,9.1,73.4,117.05,-26.53,shorts,hoodie,No,No,1262
+2025-07,Buffalo,Urban Outfitters,1,0,17.0,197.5,119.41,-14.32,joggers,denim jacket,No,No,1460
+2025-07,Buffalo,American Eagle,1,0,27.7,53.7,99.07,-13.48,shorts,hoodie,No,No,735
+2025-07,Rochester,H&M,0,0,14.1,125.4,119.33,-1.98,joggers,shorts,No,No,672
+2025-07,Rochester,Zara,0,0,17.2,172.2,117.98,29.72,joggers,joggers,No,No,1044
+2025-07,Rochester,Uniqlo,0,0,25.8,1.1,63.7,-29.61,joggers,hoodie,No,No,735
+2025-07,Rochester,Forever 21,1,0,8.9,123.7,108.51,28.25,denim jacket,blazer,No,No,960
+2025-07,Rochester,Urban Outfitters,0,0,19.4,83.6,94.04,-3.94,denim jacket,joggers,No,No,1473
+2025-07,Rochester,American Eagle,1,0,4.3,73.2,82.52,13.08,shorts,puffer jacket,No,No,1004
+2025-07,Tucson,H&M,0,1,10.9,147.0,87.86,21.88,blazer,joggers,No,No,1142
+2025-07,Tucson,Zara,1,1,20.5,5.5,88.32,-18.02,blazer,puffer jacket,No,No,931
+2025-07,Tucson,Uniqlo,0,0,32.5,127.4,65.31,10.75,puffer jacket,puffer jacket,No,No,506
+2025-07,Tucson,Forever 21,0,0,9.9,102.4,87.86,-0.7,blazer,blazer,No,No,1074
+2025-07,Tucson,Urban Outfitters,0,0,31.6,119.7,83.49,-13.37,hoodie,puffer jacket,No,No,733
+2025-07,Tucson,American Eagle,0,0,21.5,78.8,64.23,-1.29,blazer,denim jacket,No,No,1329
+2025-07,Des Moines,H&M,0,0,23.1,82.3,106.79,-14.74,denim jacket,blazer,No,No,880
+2025-07,Des Moines,Zara,0,0,11.6,183.8,78.46,22.32,hoodie,hoodie,No,No,1008
+2025-07,Des Moines,Uniqlo,0,1,17.2,40.6,91.94,10.82,joggers,shorts,No,Yes,1436
+2025-07,Des Moines,Forever 21,1,0,27.0,129.3,91.83,-18.95,joggers,puffer jacket,No,No,731
+2025-07,Des Moines,Urban Outfitters,1,1,25.9,112.2,77.64,12.55,denim jacket,shorts,No,No,1495
+2025-07,Des Moines,American Eagle,1,1,30.7,181.5,74.63,-13.78,shorts,shorts,No,Yes,711
+2025-07,Greensboro,H&M,0,0,4.0,131.3,101.35,7.72,denim jacket,hoodie,No,No,937
+2025-07,Greensboro,Zara,0,1,1.2,46.0,118.65,-9.16,denim jacket,blazer,No,No,713
+2025-07,Greensboro,Uniqlo,0,0,3.8,115.5,97.19,7.19,shorts,denim jacket,No,Yes,960
+2025-07,Greensboro,Forever 21,1,1,18.7,186.7,75.48,-18.66,joggers,blazer,No,No,1399
+2025-07,Greensboro,Urban Outfitters,0,0,24.1,30.2,103.31,26.99,shorts,blazer,No,No,749
+2025-07,Greensboro,American Eagle,1,0,9.7,172.3,69.37,-2.32,blazer,shorts,Yes,No,1261
+2025-08,Buffalo,H&M,1,1,19.1,87.9,88.15,-27.87,blazer,blazer,No,No,1109
+2025-08,Buffalo,Zara,0,0,8.8,10.7,69.43,5.62,hoodie,denim jacket,No,No,1280
+2025-08,Buffalo,Uniqlo,1,0,5.8,80.0,95.5,-17.86,joggers,hoodie,No,No,1065
+2025-08,Buffalo,Forever 21,0,0,3.9,96.5,114.74,-7.23,hoodie,hoodie,No,No,802
+2025-08,Buffalo,Urban Outfitters,1,0,5.7,35.7,107.14,-9.91,joggers,joggers,No,No,1056
+2025-08,Buffalo,American Eagle,0,0,15.4,84.8,86.78,-20.37,denim jacket,blazer,No,No,1077
+2025-08,Rochester,H&M,1,1,20.4,123.0,93.16,14.97,shorts,denim jacket,No,No,725
+2025-08,Rochester,Zara,1,0,18.9,6.0,103.21,20.88,shorts,hoodie,No,No,1323
+2025-08,Rochester,Uniqlo,0,0,21.6,186.8,70.48,-2.18,blazer,puffer jacket,No,No,817
+2025-08,Rochester,Forever 21,0,1,9.1,57.5,76.18,-4.16,puffer jacket,joggers,No,No,992
+2025-08,Rochester,Urban Outfitters,0,0,9.4,80.3,108.71,10.07,hoodie,hoodie,No,No,1051
+2025-08,Rochester,American Eagle,1,0,14.9,126.0,70.61,-26.02,joggers,blazer,No,No,1149
+2025-08,Tucson,H&M,1,1,27.7,191.7,111.73,1.83,denim jacket,puffer jacket,No,No,1123
+2025-08,Tucson,Zara,1,0,6.0,133.0,91.98,-16.93,denim jacket,denim jacket,No,No,894
+2025-08,Tucson,Uniqlo,0,1,32.6,197.7,83.51,11.47,blazer,hoodie,Yes,No,686
+2025-08,Tucson,Forever 21,0,0,29.0,181.6,99.44,23.44,hoodie,denim jacket,No,No,804
+2025-08,Tucson,Urban Outfitters,0,0,23.1,68.3,98.8,24.98,joggers,shorts,No,No,1211
+2025-08,Tucson,American Eagle,0,0,18.8,178.5,76.62,-5.91,joggers,shorts,No,No,1369
+2025-08,Des Moines,H&M,1,1,29.7,156.3,107.91,2.59,hoodie,hoodie,No,No,1445
+2025-08,Des Moines,Zara,0,0,23.7,55.6,90.66,-16.91,joggers,shorts,No,No,517
+2025-08,Des Moines,Uniqlo,0,0,28.8,185.9,93.81,-22.74,denim jacket,puffer jacket,No,No,1198
+2025-08,Des Moines,Forever 21,0,0,26.3,8.7,96.77,-3.32,denim jacket,shorts,No,No,1290
+2025-08,Des Moines,Urban Outfitters,0,0,1.4,86.9,102.09,15.6,puffer jacket,joggers,No,No,1113
+2025-08,Des Moines,American Eagle,1,0,10.2,97.3,108.4,1.9,joggers,blazer,No,Yes,542
+2025-08,Greensboro,H&M,0,0,9.3,195.5,68.5,11.33,shorts,shorts,No,No,1423
+2025-08,Greensboro,Zara,1,0,5.8,92.7,118.07,-18.99,blazer,denim jacket,No,Yes,729
+2025-08,Greensboro,Uniqlo,0,0,2.0,57.0,94.29,27.07,hoodie,denim jacket,No,No,640
+2025-08,Greensboro,Forever 21,0,1,4.5,50.4,79.27,17.9,denim jacket,blazer,No,No,1400
+2025-08,Greensboro,Urban Outfitters,0,0,19.6,23.2,60.41,22.94,shorts,puffer jacket,No,No,966
+2025-08,Greensboro,American Eagle,0,0,8.2,56.4,100.24,-18.39,denim jacket,joggers,No,No,1270

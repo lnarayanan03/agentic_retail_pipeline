@@ -1,0 +1,6 @@
+parameter,value
+raw_material_cost,30.0
+production_cost,20.0
+logistics_cost,10.0
+transfer_cost,15.0
+sla_penalty,25.0

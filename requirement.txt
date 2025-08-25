@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+altair
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+prophet   # optional; your code falls back if missing
